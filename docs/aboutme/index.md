@@ -13,10 +13,10 @@ My favorite classes from the PLTW program were Aerospace Engineering and Princip
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="Rover.jpg" width="250" height = auto>
+      <img src="Rover.jpg" width="350" height = auto>
     </td>
     <td style="text-align:center;">
-      <img src="crossbow.jpg" width="350" height = auto>
+      <img src="crossbow.jpg" width="250" height = auto>
     </td>
   </tr>
 </table>
