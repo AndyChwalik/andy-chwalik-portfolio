@@ -12,8 +12,8 @@ My favorite classes from the PLTW program were Aerospace Engineering and Princip
     <th>My most memorable project for Principles of Engineering was the catapult project. The goal of the project was to launch a marble as far as possible accurately and precisely. I enjoyed this project for similar reasons as the rover project.</th>
   </tr>
   <tr>
-    <td><img src="Rover.jpg" width="250"></td>
-    <td><img src="crossbow.jpg" width="250"></td>
+    <td><img src="Rover.jpg" width="250" height = auto></td>
+    <td><img src="crossbow.jpg" width="250" height = auto></td>
   </tr>
 </table>
 
