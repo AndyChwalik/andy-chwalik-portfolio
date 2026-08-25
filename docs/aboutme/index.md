@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Hello, I'm Andy Chwalik. I am a Mechanical Engineering student at UNC Charlotte and considering dual majoring in either Physics or Mathematics.
 
