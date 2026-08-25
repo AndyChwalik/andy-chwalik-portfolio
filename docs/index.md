@@ -3,8 +3,8 @@
 <img src="me.jpg" align="left" width="200" style="margin-right:20px;" />
 
 <p>
-<strong>Andy Chwalik's Portfolio</strong><br>
-Mechanical Engineering Student<br>
+<strong>Andy Chwalik's Portfolio</strong><br><br>
+Mechanical Engineering Student<br><br>
 This portfolio shows my work and progress throughout the lab portion of MEGR 2157 <br>
   <br><br><br><br>
 </p>
