@@ -2,12 +2,13 @@
 
 > **Engineering is the art of making decisions you can defend.**
 
-<img src="me.jpg" align="left" width="150" style="margin-right:20px;" />
+<img src="me.jpg" align="left" width="250" style="margin-right:20px;" />
 
 <p>
 <strong>Andy Chwalik's Portfolio</strong><br>
 Mechanical Engineering Student<br>
 This portfolio shows my work and progress throughout the lab portion of MEGR 2157 <br>
+  <br>
 </p>
 
 
