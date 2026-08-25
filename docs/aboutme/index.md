@@ -10,8 +10,8 @@ My favorite classes from the PLTW program were Aerospace Engineering and Princip
 
 <table>
   <tr>
-    <p>My most memorable project for Aerospace Engineering was the rover project. I was in a group of three, and we were tasked with making a mini rover that could pick up samples and drive a specified route autonomously. I found the rover project extremely enjoyable because it was extremely satisfying to build and test.</p>
-    <p>My most memorable project for Principles of Engineering was the catapult project. The goal of the project was to launch a marble as far as possible accurately and precisely. I enjoyed this project for similar reasons as the rover project.</p>
+    <hd>My most memorable project for Aerospace Engineering was the rover project. I was in a group of three, and we were tasked with making a mini rover that could pick up samples and drive a specified route autonomously. I found the rover project extremely enjoyable because it was extremely satisfying to build and test.</hd>
+    <hd>My most memorable project for Principles of Engineering was the catapult project. The goal of the project was to launch a marble as far as possible accurately and precisely. I enjoyed this project for similar reasons as the rover project.</hd>
   </tr>
   <tr>
     <td style="text-align:center;">
