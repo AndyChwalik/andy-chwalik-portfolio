@@ -6,6 +6,17 @@ I originally wanted to go into engineering because I was good at math, and I tho
 
 My favorite classes from the PLTW program were Aerospace Engineering and Principles of Engineering. I enjoyed them because they were the most math intensive courses I was involved in, and they had a heavy influence on me taking an interest in fluid dynamics. They weren't only fun because of content, but there were a lot of projects along the way. 
 
+<table>
+  <tr>
+    <th>My most memorable project for Aerospace Engineering was the rover project. I was in a group of three, and we were tasked with making a mini rover that could pick up samples and drive a specified route autonomously. I found the rover project extremely enjoyable because it was extremely satisfying to build and test. </th>
+    <th>My most memorable project for Principles of Engineering was the catapult project. The goal of the project was to launch a marble as far as possible accurately and precisely. I enjoyed this project for similar reasons as the rover project.</th>
+  </tr>
+  <tr>
+    <td><img src="Rover.jpg" width="250"></td>
+    <td><img src="crossbow.jpg" width="250"></td>
+  </tr>
+</table>
+
 My most memorable project for Aerospace Engineering was the rover project. I was in a group of three, and we were tasked with making a mini rover that could pick up samples and drive a specified route autonomously. I found the rover project extremely enjoyable because it was extremely satisfying to build and test. 
 
-My most memorable project for Principles of Engineering was the marble project. It was very similar to the rover project, but we had to sort three different types of marbles. I enjoyed that project for the same reason as the rover project.
+My most memorable project for Principles of Engineering was the catapult project. The goal of the project was to launch a marble as far as possible accurately and precisely. I enjoyed this project for similar reasons as the rover project.
