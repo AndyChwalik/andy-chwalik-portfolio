@@ -31,5 +31,8 @@ I have also had plans of making my own log cabin one day. I don't really count i
 
 # Thanks for Visiting
 Thanks for getting to know me. If you want to get to know me a little more, take a look at my Resume or contact me
-[View My Resume](Resume.pdf)
-**Contact:** [achwalik@charlotte.com](mailto:achwalik@charlotte.com)
+<br><br>
+
+**[My Resume](assets/Resume.pdf)**  
+**Contact:** achwalik@charlotte.edu
+
