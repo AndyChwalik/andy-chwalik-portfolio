@@ -74,6 +74,7 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
       This is a closer look at my individual print. You can see how the nozzle went across my 3D print. The outline is very clear with a zig-zag pattern for the filling. There isn't a way to show elevation because the print is relatively flat. 
     </td>
   </tr>
+</table>
 <br>
 
 ## **Lessons Learned**
