@@ -39,5 +39,20 @@ Ejected usb stick <br>
 
 ## **Print**
 
-We used PLA to print our 3D designs. <br>
-Put the usb stick into the slot.
+We used PLA to print our 3D designs,and we used the PC-17 3D printer. <br>
+Once you are at your 3D printer, put the usb stick into the slot.
+When the usb stick is plugged in, there will be a popup with the G-code file from the usb stick. Select it and hit print.<br>
+Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat whistle, Andrews whistle, and Ethan's shark chip bag holder. The image below shows the start of our models being 3D printed. <br>
+
+<div align="center">
+  <img src="print_start.heic">
+</div> <br>
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+|----------|----------|----------|----------|
+| Row 1C1  | Row 1C2  | Row 1C3  | Row 1C4  |
+| Row 2C1  | Row 2C2  | Row 2C3  | Row 2C4  |
+
+
+
+
