@@ -60,7 +60,7 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
 
   <tr>
     <td style="width:50%; vertical-align:top; text-align:center;">
-      <img src="print_finished.png" style="transform: rotate(-90deg); "max-width:100%; height:auto;">
+      <img src="print_finished.png" style="transform: rotate(-90deg); max-width:100%; height:auto;">
     </td>
     <td style="width:50%; vertical-align:top;">
       Image showing what all of our 3D print models look together. The left 3D model is the bat whistle, the middle 3D model is the shark chip bag clip, and the right is the whistle
