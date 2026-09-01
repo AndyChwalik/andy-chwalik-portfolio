@@ -74,3 +74,13 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
       This is a closer look at my individual print. You can see how the nozzle went across my 3D print. The outline is very clear with a zig-zag pattern for the filling. There isn't a way to show elevation because the print is relatively flat. 
     </td>
   </tr>
+<br>
+
+## **Lessons Learned**
+
+- There are a lot of different free 3D printable models you can use. Some are better than others, but it's amazing what you can find
+- How important the filament type is. My group and I didn't have issues with filament, because we made sure to pick the correct 3D printer for PLA, but I heard that it messes up your print significantly
+- Overhang and hole rules for supports and 3D prints. I have seen supports on a lot of 3D models before, but I never knew the actual reason behind it.
+- To make sure you have all of the pictures you need. I lost the original file for my 3D print, so I spent almost 30 minutes trying to find it again on printables.com.
+- Make sure your documentation is clear. My group and I didn't get any pictures of us starting the 3D printer, but it would have been a good addition to the portfolio.
+- The amount of time I spent on this assignment was around 2 hours and 30 minutes. 
