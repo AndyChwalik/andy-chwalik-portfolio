@@ -50,7 +50,7 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
 
 <table>
   <tr>
-    <td style="width: 200px; text-align: center;">
+    <td style="width: 600px; text-align: center;">
       <img src="print_7.png" style="width: 150px;">
     </td>
     <td style="vertical-align: middle;">
