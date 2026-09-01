@@ -84,4 +84,5 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
 - Overhang and hole rules for supports and 3D prints. I have seen supports on a lot of 3D models before, but I never knew the actual reason behind it.
 - To make sure you have all of the pictures you need. I lost the original file for my 3D print, so I spent almost 30 minutes trying to find it again on printables.com.
 - Make sure your documentation is clear. My group and I didn't get any pictures of us starting the 3D printer, but it would have been a good addition to the portfolio.
+- How to make your prints take less time with filament settings
 - The amount of time I spent on this assignment was around 2 hours and 30 minutes. 
