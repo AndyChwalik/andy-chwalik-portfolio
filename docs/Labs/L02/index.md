@@ -85,15 +85,3 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
     </td>
   </tr>
 </table>
-
-
-| <img src="print_7.png" width="150"> | This shows what our finished print should look like, the percentage it is currently at, and the time remaining. In this specific picture, it shows that our print is 7% done, and there is 12 minutes remaining on the print.|
-| <img src="image2.png" width="150"> | Text for row 2 |
-| <img src="image3.png" width="150"> | Text for row 3 |
-| <img src="image4.png" width="150"> | Text for row 4 |
-
-
-
-
-
-
