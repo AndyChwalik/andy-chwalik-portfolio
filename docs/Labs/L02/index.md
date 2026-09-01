@@ -45,10 +45,10 @@ When the usb stick is plugged in, there will be a popup with the G-code file fro
 Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat whistle, Andrews whistle, and Ethan's shark chip bag holder. The image below shows the start of our models being 3D printed. <br>
 
 <div align="center">
-  <img src="print_start.heic">
+  <img src="print_start.png">
 </div> <br>
 
-| ![7% finished with 3D printing](print_7.heic) | This shows what our finished print should look like, the percentage it is currently at, and the time remaining. In this specific picture, it shows that our print is 7% done, and there is 12 minutes remaining on the print. |
+| ![7% finished with 3D printing](print_7.png) | This shows what our finished print should look like, the percentage it is currently at, and the time remaining. In this specific picture, it shows that our print is 7% done, and there is 12 minutes remaining on the print. |
 | ![Image 2](image2.png) | Text for row 2 |
 | ![Image 3](image3.png) | Text for row 3 |
 | ![Image 4](image4.png) | Text for row 4 |
