@@ -1,6 +1,6 @@
 # L2 - Print Something Small
 
-**##Picking Design**
+##**Picking Design**
 
 For this project, I worked in a group of 3. My 2 teammates were Andrew Yang and Ethan King. We all did separate models, but they are all on one G-code file.
 
@@ -37,7 +37,7 @@ Clicked Save <br>
 Moved File to the usb stick <br>
 Ejected usb stick <br>
 
-**##Print**
+##**Print**
 
 We used PLA to print our 3D designs. <br>
 Put the usb stick into the slot.
