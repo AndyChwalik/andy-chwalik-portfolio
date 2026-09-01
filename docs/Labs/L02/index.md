@@ -1,6 +1,6 @@
 # L2 - Print Something Small
 
-## **Picking Design**
+## **Download**
 
 For this project, I worked in a group of 3. My 2 teammates were Andrew Yang and Ethan King. We all did separate models, but they are all on one G-code file.
 
@@ -9,6 +9,8 @@ For my 3D model, download batWhistleTCF.stl from [https://www.printables.com/mod
 <div align="center">
   <img src="batwhistleTCF.png" width="400">
 </div> <br>
+
+## **Preprocessor**
 
 When I opened the file, I noticed that the object is slightly bigger than what we were expecting for our quick 3D prints, so I scaled the length of the bat whistle to 2.0 inches, automatically scaling the other sides. This led to the scale of the object being 76.56%. <br>
 
