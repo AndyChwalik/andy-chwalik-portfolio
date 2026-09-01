@@ -19,7 +19,7 @@ When I opened the file, I noticed that the object is slightly bigger than what w
 
 After the modifications were made to match the requirements, we clicked "Slice now" and used the default slicer settings. <br>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="Sliced_info1.png" width="300">
@@ -28,7 +28,8 @@ After the modifications were made to match the requirements, we clicked "Slice n
       <img src="Sliced_info2.png" width="300">
     </td>
   </tr>
-</table> 
+</table>
+
 <br>
 
 After, we clicked Exprot G-code <br>
