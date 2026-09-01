@@ -51,7 +51,7 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
 <table>
   <tr>
     <td style="width: 600px; text-align: center;">
-      <img src="print_7.png" style="width: 150px;">
+      <img src="print_7.png" style="width: 600px;">
     </td>
     <td style="vertical-align: middle;">
       This shows what our finished print should look like, the percentage it is currently at, and the time remaining. In this specific picture, it shows that our print is 7% done, and there is 12 minutes remaining on the print.
