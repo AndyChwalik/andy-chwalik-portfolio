@@ -69,7 +69,7 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
 
   <tr>
     <td style="width:50%; vertical-align:top; text-align:center;">
-      <img src="batwhislte_finished.png" style="max-width:100%; height:auto;">
+      <img src="batwhistle_finished.png" style="max-width:100%; height:auto;">
     </td>
     <td style="width:50%; vertical-align:top;">
       This is a closer look at my individual print. You can see how the nozzle went across my 3D print. The outline is very clear with a zig-zag pattern for the filling. There isn't a way to show elevation because the print is relatively flat. 
