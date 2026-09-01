@@ -14,7 +14,7 @@ I was struggling to find something that didn't have holes or overhangs in it, an
 When I opened the file, I noticed that the object is slightly bigger than what we were expecting for our quick 3D prints, so I scaled the length of the bat whistle to 2.0 inches, automatically scaling the other sides. This led to the scale of the object being 76.56%. <br>
 
 <div align="center">
-  <img src="Batman_Specs.png" width="400">
+  <img src="Batman_Specs.png">
 </div> <br>
 
 After the modifications were made to match the requirements, we clicked "Slice now" and used the default slicer settings. <br>
@@ -22,10 +22,10 @@ After the modifications were made to match the requirements, we clicked "Slice n
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Sliced_info1.jpg" width="300">
+      <img src="Sliced_info1.png" width="300">
     </td>
     <td align="center" width="50%">
-      <img src="Sliced_info2.jpg" width="300">
+      <img src="Sliced_info2.png" width="300">
     </td>
   </tr>
 </table> <br>
