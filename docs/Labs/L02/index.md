@@ -10,7 +10,7 @@ DfAM stands for Design for Additive Manufacturing, and it has a few rules. The r
 # FDM Research
 FDM stands for Fused Deposition Modeling, and it also has considerations to keep in mind. What I found is that parts made with FDM will always have visible layer lines present on the product. The visibility can be reduced by making the height of each layer shorter, but it'll still show. Doing this technique will also make the print take longer and use slightly more material.
 
-My partner, Jack, added that to get around the 45 degree rule, you can super cool the nose of the 3D printer to cool the material fast enough to prevent sagging. This makes it so that you don't have to put supports for every single surface over 45 degrees.
+My research partner, Jack, added that to get around the 45 degree rule, you can super cool the nose of the 3D printer to cool the material fast enough to prevent sagging. This makes it so that you don't have to put supports for every single surface over 45 degrees.
 
 **Source:** <br>
 [https://forgelabs.com/design-guides/fdm](https://forgelabs.com/design-guides/fdm) <br>
