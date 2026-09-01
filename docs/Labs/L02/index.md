@@ -28,9 +28,10 @@ After the modifications were made to match the requirements, we clicked "Slice n
       <img src="Sliced_info2.png" width="300">
     </td>
   </tr>
-</table> <br>
+</table> 
+<br>
 
-After, we clicked Exprot G-code
-Clicked Save
-Moved File to the usb stick
-Ejected usb stick
+After, we clicked Exprot G-code <br>
+Clicked Save <br>
+Moved File to the usb stick <br>
+Ejected usb stick <br>
