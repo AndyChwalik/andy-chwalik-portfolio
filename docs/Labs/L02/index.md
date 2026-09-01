@@ -4,8 +4,7 @@
 
 For this project, I worked in a group of 3. My 2 teammates were Andrew Yang and Ethan King. We all did separate models, but they are all on one G-code file.
 
-For my 3D model, download batWhistleTCF.stl from [https://www.printables.com/model/1451165-halloween-bat-whistle-and-key-chain/files](https://www.printables.com/model/1451165-halloween-bat-whistle-and-key-chain/files).
-I was struggling to find something that didn't have holes or overhangs in it, and this bat whistle was the first 3D printable object that I liked and satisfied the requirements. I also thought it would be a cool item to show off as my first 3D print.  <br>
+For my 3D model, download batWhistleTCF.stl from [https://www.printables.com/model/1451165-halloween-bat-whistle-and-key-chain/files](https://www.printables.com/model/1451165-halloween-bat-whistle-and-key-chain/files). I originally wanted to 3D print a desk clip, but it had overhands and holes in it that couldn't be 3D printed without supports. Ethan suggested doing the bat whistle, and I have nothing against bats, so I chose it. I also thought it would be a cool item to show off as my first 3D print.  <br>
 
 <div align="center">
   <img src="batwhistleTCF.png" width="400">
