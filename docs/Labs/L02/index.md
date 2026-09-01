@@ -48,6 +48,45 @@ Click [HERE](print_process.MP4) to watch a video of the 3D printer making my bat
   <img src="print_start.png">
 </div> <br>
 
+<table>
+  <tr>
+    <td style="width: 200px; text-align: center;">
+      <img src="print_7.png" style="width: 150px;">
+    </td>
+    <td style="vertical-align: middle;">
+      This shows what our finished print should look like, the percentage it is currently at, and the time remaining. In this specific picture, it shows that our print is 7% done, and there is 12 minutes remaining on the print.
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 200px; text-align: center;">
+      <img src="image2.png" style="width: 150px;">
+    </td>
+    <td style="vertical-align: middle;">
+      Text for row 2
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 200px; text-align: center;">
+      <img src="image3.png" style="width: 150px;">
+    </td>
+    <td style="vertical-align: middle;">
+      Text for row 3
+    </td>
+  </tr>
+
+  <tr>
+    <td style="width: 200px; text-align: center;">
+      <img src="image4.png" style="width: 150px;">
+    </td>
+    <td style="vertical-align: middle;">
+      Text for row 4
+    </td>
+  </tr>
+</table>
+
+
 | <img src="print_7.png" width="150"> | This shows what our finished print should look like, the percentage it is currently at, and the time remaining. In this specific picture, it shows that our print is 7% done, and there is 12 minutes remaining on the print.|
 | <img src="image2.png" width="150"> | Text for row 2 |
 | <img src="image3.png" width="150"> | Text for row 3 |
