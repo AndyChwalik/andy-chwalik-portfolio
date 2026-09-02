@@ -3,7 +3,7 @@
 ## DfAM Research
 DfAM stands for Design for Additive Manufacturing, and it has a few rules. The rule I decided to research was about the 45 degree rule. This rule says that whenever an overhang is over 45 degrees vertically, you need to add some type of support structure. There are exceptions around this rule, but it is the general rule.
 
-# FDM Research
+## FDM Research
 FDM stands for Fused Deposition Modeling, and it also has considerations to keep in mind. What I found is that parts made with FDM will always have visible layer lines present on the product. The visibility can be reduced by making the height of each layer shorter, but it'll still show. Doing this technique will also make the print take longer and use slightly more material.
 
 My research partner, Jack, added that to get around the 45 degree rule, you can super cool the nose of the 3D printer to cool the material fast enough to prevent sagging. This makes it so that you don't have to put supports for every single surface over 45 degrees.
