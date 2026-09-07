@@ -377,6 +377,11 @@ Click [HERE](https://www.youtube.com/watch?v=vRi3YmpCurw) to watch a video of th
 
 ![final product](final_product.jpg)
 
+**If you wish to make this yourself, here is the CAD file and the stl file:**
+
+[Download Kirby CAD file](something_small_chwalik.prt.1)  |  [Download Kirby STL file](something_small_chwalik.stl) <br>
+
+
 ## Lessons Learned
 
 - I learned that you should check not only the filament you are using but also to check that you're using the correct 3D printer when preprocessing
