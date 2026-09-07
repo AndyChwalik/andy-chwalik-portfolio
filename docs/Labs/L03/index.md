@@ -274,9 +274,9 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
 </table><br>
 
 **Resources**<br>
-- https://www.creality.com/blog/best-3d-printing-infill-patterns<br>
-- https://help.prusa3d.com/article/infill-patterns_177130<br>
-- https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/<br>
-- https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/<br>
+- [https://www.creality.com/blog/best-3d-printing-infill-patterns](https://www.creality.com/blog/best-3d-printing-infill-patterns)
+- [https://help.prusa3d.com/article/infill-patterns_177130](https://help.prusa3d.com/article/infill-patterns_177130)
+- [https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/)
+- [https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/](https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/)
 
 
