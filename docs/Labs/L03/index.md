@@ -31,7 +31,29 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
-        I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet.
+        I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet since one side is going to be flat to make it easier to 3D print.
+      </p>
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="initial_eye.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        My first idea for the eyes was to create two ellipses on the top of the main body and then round of the edges to make it look less blocky.
+      </p>
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="mirror_attempt.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I then mirrored this idea to the other side just to see what it looked like. I ended up not liking it because it didn't look very uniform. They looked like separate objects put together, and I didn't like that look
       </p>
     </td>
   </tr>
