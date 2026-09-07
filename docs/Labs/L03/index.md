@@ -377,6 +377,18 @@ Click [HERE](3d_printing_video.mp4) to watch a video of the 3D printing process.
 
 ![final product](final_product.jpg)
 
+## Lessons Learned
+
+- I learned that you should check not only the filament you are using but also to check that you're using the correct 3D printer when preprocessing
+- There are a lot of different infills with a lot of different uses. Through my research, there are a lot of variations of the grid or honeycomb, but there are also infills like concentric that are totally unique. I never would've known that it was possible to make a 3D printable part flexible just by changing the infill of the design. I always thought the movement happened from 3D printed joints.
+- The importance of wall thickness and infill percentage. Both of them increase the physical capabilities of the product, however they take significantly longer to print due to the amount of filament being used
+- Parts with higher percentage infill and thicker walls are going to be used for more support style uses while lower percentage infill and thinner walls will be more props and model work
+- If you don't use the correct amount of infill percentage or wall thickness for a support, you're support could possibly fracture, leading to issues with the design
+- A mistake we caught before it was to late was which filament we were using. It is always important to check that so you don't mess up the print
+- Going outside of just 3D printing, infill and wall thickness affects real world products such as houses. The main thing I think about is the foundation of a house with different amounts of concrete and rebar placed to keep it structurally sound. If you don't have the correct thickness or infill, the entire structure could collapse.
+
+This assignment took me 7 hours and 20 minutes
+
 
 ## Resources
 
