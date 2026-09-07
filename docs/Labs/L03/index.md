@@ -226,6 +226,16 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       </p>
     </td>
   </tr>
+      <tr>
+    <td style="width:60%;">
+      <img src="model_tree.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        Here is the model tree of the fully 3D modeled object.
+      </p>
+    </td>
+  </tr>
 </table>
 
 
