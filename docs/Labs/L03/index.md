@@ -138,21 +138,51 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
   <tr>
     <td style="width:60%;">
-      <img src="blush_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
-    </td>
-    <td style="width:40%; vertical-align:top;">
-      <p>
-        I used the same sketch and revolve technique for the blush as I did for the eyes. The length of the ellipse was .20 inches with .08 inches between the two peaks.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:60%;">
-      <img src="blush_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="bot_datum_plane.png" alt="blush_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
         To make the arms and feet, I created another datum plane on the bottom of the main body so that I could sketch inside of the body and outside of the body. It makes it easier to create different shapes for the arms and feet.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="left_arm_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        Making the arms, I used a similar technique as I used for the mouth. I used the spline tool from the non rounded part of the body to create a circular looking hand. I then used an arc to connect the two end points of the spline since the body was still a perfect circle. I wanted to make him look like he was waving, so that is why the left hand is high up on the body. 
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="left_arm_height.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I extruded the arm to a slightly shorter height than the main body because Kirby has really small arms in his games. I thought that it would make it look more like the character.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="left_arm_round.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        Keeping the rounding consistent, I rounded Kirby's arm the same amount for when I rounded his body. I thought it would make the whole design look more uniform.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="both_arms.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I repeated this process for the right arm, but I put it a little lower to try and give him that waving look.
       </p>
     </td>
   </tr>
