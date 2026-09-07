@@ -112,7 +112,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
-        I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet since one side is going to be flat to make it easier to 3D print.
+        To make the blush under Kirby's eyes, I created a datum plane where I wanted them to go so I could use the same technique I used for eyes.
       </p>
     </td>
   </tr>
