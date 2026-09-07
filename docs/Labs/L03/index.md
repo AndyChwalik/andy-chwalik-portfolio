@@ -1,4 +1,4 @@
-# A3 – Design Something Small
+# L3 – Design Something Small
 
 ## Design
 
@@ -314,6 +314,64 @@ To save the amount of printers being used, we paired up with other people in the
 </table><br>
 
 ## Print
+
+Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew and I made sure to check the type of filament being used before printing anything. We also made sure to check that our filament roll wasn't tangled since one of the other groups had a failed print because of that problem. Our first print still failed though. It failed because in our G-code file, we picked the wrong 3D printer. We quickly fixed the issue and began printing again.
+
+[print_error](print_error.jpg)
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="heating_up.jpg" alt="heating_up" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        This is an image of our 3D printer heating up the bed and the nozzle.
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="print_start.jpg" alt="print_start" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        This screen shows what the our objects should look like at the end. It is the initial screen when the print starts.
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="print_39" alt="print_percentage" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        This is an example of the print being 39% complete on the same screen.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="mine_infill" alt="infill_kirby" style="width:100%; height:auto;">
+      <img src="andrew_infill" alt="infill_cable_management" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        This image shows the infills of both of our items while being 3D printed. I thought it would be cool to see in real time.
+      </div>
+    </td>
+  </tr>
+   <tr>
+    <td style="width:60%;">
+      <img src="finished_bed" alt="print_finished" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        Overall, I am happy with how the entire designing process and 3D print. I think both of our 3D prints came out very well, and I am excited to 3D print more.
+      </div>
+    </td>
+  </tr>
+</table><br>
 
 
 
