@@ -239,6 +239,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
 </table><br>
 
 ## Research
+
 <br>
 <table style="width:100%;">
   <tr>
@@ -273,10 +274,54 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
 </table><br>
 
-**Resources**<br>
+The infill pattern matters for structural integrity and printing time. The other factor is the percent of the infill you use. The higher the infill percentage, the denser the infill pattern is. The denser infill creates a physically stronger object, however it takes significantly longer the more infill percentage there is. So, for structural components, you may want to use a higher infill percentage where you may want to use a lower infill percentage for character models.
+
+## Preprocess
+
+To save the amount of printers being used, we paired up with other people in the lab to put our 3D modeled objects on the same G-code file. I decided to pair up with Andrew Yang. He 3D modeled a cable management object.
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="prusa_pic.png" alt="prusa_pic" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        When we imported our obj files into Prusaslicer, they were not flat on the 3D printing bed. This is because when we 3D modeled our parts, we 3D modeled them on the front plane rather than the top plane. To fix 3D model error, we rotate the objects 90 degrees so that they are flat on the 3D printing bed.
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="infill_layers.png" alt="infill_layers" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        We scaled down the layers so that we could see the type of infill we were using. The default for us was a grid infill, but we changed it to the triangular infill. In doing so, we hoped that our object gained more resilience to breaking in different directions than the grid infill. To help with this goal, we also used 50% infill on our objects. We weren't sure how to change the wall thickness, so the wall thickness is the default. It would have been nice to make the walls thicker, since they increase the structural support of the object, but the default should be plenty fine. 
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="sliced_info.png" alt="sliced_info" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is the sliced info for our two objects. Our print will take 23 minutes compared to the second labs 14 minutes. It is also worth noting that lab 2 had 3 prints on it while this lab only has 2 prints. After configuring, we exported the G-code file and saved it to a flash drive.
+      </div>
+    </td>
+  </tr>
+</table><br>
+
+## Resources
+
 - [https://www.creality.com/blog/best-3d-printing-infill-patterns](https://www.creality.com/blog/best-3d-printing-infill-patterns) <br>
 - [https://help.prusa3d.com/article/infill-patterns_177130](https://help.prusa3d.com/article/infill-patterns_177130) <br>
 - [https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/) <br>
 - [https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/](https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/) <br>
+- [https://www.sovol3d.com/blogs/news/infill-percentage-3d-printing-strength-filament](https://www.sovol3d.com/blogs/news/infill-percentage-3d-printing-strength-filament_)<br>
+- [https://www.sovol3d.com/blogs/news/wall-thickness-vs-wall-count-3d-printing-differences](https://www.sovol3d.com/blogs/news/wall-thickness-vs-wall-count-3d-printing-differences)<br>
+
+
 
 
