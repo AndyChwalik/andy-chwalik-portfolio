@@ -27,7 +27,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="body_extrude.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="body_extrude.png" alt="main_body_extrude" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -36,7 +36,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     </td>
   </tr>    <tr>
     <td style="width:60%;">
-      <img src="body_round.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="body_round.png" alt="main_body_round" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -46,7 +46,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="initial_eye.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="initial_eye.png" alt="initial_eye_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -56,7 +56,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="mirror_attempt.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="mirror_attempt.png" alt="mirror_attempt" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -67,7 +67,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="eye_revolve1.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="eye_revolve1.png" alt="eye_better_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -77,7 +77,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="both_eyes.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="both_eyes.png" alt="both_eyes" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -88,7 +88,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     </tr>
     <tr>
     <td style="width:60%;">
-      <img src="mouth_sketch.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="mouth_sketch.png" alt="mouth_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -98,7 +98,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
       <tr>
     <td style="width:60%;">
-      <img src="mouth_extrude.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="mouth_extrude.png" alt="mouth_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -128,7 +128,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
   <tr>
     <td style="width:60%;">
-      <img src="left_blush.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="left_blush.png" alt="both_blushes" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -138,7 +138,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
   <tr>
     <td style="width:60%;">
-      <img src="bot_datum_plane.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="bot_datum_plane.png" alt="new_datum_plane" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -148,7 +148,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="left_arm_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="left_arm_sketch.png" alt="left_arm_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -158,7 +158,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="left_arm_height.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="left_arm_height.png" alt="left_arm_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -168,7 +168,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="left_arm_round.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="left_arm_round.png" alt="left_arm_round" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -178,7 +178,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="both_arms.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="both_arms.png" alt="both_arms" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -188,7 +188,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="right_foot_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="right_foot_sketch.png" alt="right_foot_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -198,7 +198,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="right_foot_height.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="right_foot_height.png" alt="right_foot_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -208,7 +208,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="right_foot_round.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="right_foot_round.png" alt="right_foot_round" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -218,7 +218,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="final_design.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="final_design.png" alt="final_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
@@ -228,7 +228,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
       <tr>
     <td style="width:60%;">
-      <img src="model_tree.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="model_tree.png" alt="model_tree" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
