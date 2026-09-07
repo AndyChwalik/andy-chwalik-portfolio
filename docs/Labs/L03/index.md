@@ -9,7 +9,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     <td style="width:60%;">
       <img src="constraints.png" alt="constraints" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; vertical-align:top;">
+    <td style="width:40%; padding:20px; text-align:center; vertical-align:middle;"">
       <p>
         Started by sketching the constraints of the 3D print (1.5 in x 1.5 in x 0.5 in). It would give me a visual boundary rather than guessing.
       </p>
