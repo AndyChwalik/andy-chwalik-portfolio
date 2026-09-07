@@ -57,6 +57,39 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       </p>
     </td>
   </tr>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="eye_revolve1.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        My other idea was to create an ellipse in the same position as my previous eyes, but revolve it around a centerline. My thought was that it would make a more football like shape which resembles eyes. I thought that it turned out much better than the previous design. To finish off the eye I rounded the edges of the eye to the body to create a more seamless transition.
+      </p>
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="both_eyes.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        Once one of the eyes were completed, I just mirrored it across a centerline going through the middle of the body to keep the dimensions the exact same on both sides. 
+      </p>
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="body_extrude.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I decided to make the mouth next so I would get a better feeling of where the project was going. I didn't want to make a super symmetrical mouth, because I thought it would look weird, so I used the spline tool to create similar shapes on both sides while maintaining the look I wanted. 
+      </p>
+    </td>
+  </tr>
 </table>
 
 
