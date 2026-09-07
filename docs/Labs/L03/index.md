@@ -317,7 +317,7 @@ To save the amount of printers being used, we paired up with other people in the
 
 Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew and I made sure to check the type of filament being used before printing anything. We also made sure to check that our filament roll wasn't tangled since one of the other groups had a failed print because of that problem. Our first print still failed though. It failed because in our G-code file, we picked the wrong 3D printer. We quickly fixed the issue and began printing again.
 
-[print_error](print_error.jpg)
+![print_error](print_error.jpg)
 
 <table style="width:100%;">
   <tr>
@@ -375,7 +375,7 @@ Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew an
 
 Click [HERE](3d_printing_video.mp4) to watch a video of the 3D printing process. You can see how the machine moves in real time. Below is a picture of what my Kirby looks like after 3D modeling and 3D printing. I think he looks pretty good, but the lines aren't as smooth as I thought it would be. I think this is because of the layer height. If I lowered the layer height, I could've made him look more smooth, but the print would've taken longer. Overall, I am extremely happy with how he came out.
 
-[final product](final_product.jpg)
+![final product](final_product.jpg)
 
 
 ## Resources
