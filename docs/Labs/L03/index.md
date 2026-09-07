@@ -21,7 +21,17 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
-        I created a centerline in the box, and then offset that centerline by .10 inches. I used that offset line to draw a circle from the center point of the centerline to the edge of the constraints I made earlier. I then offset that circle by 0.05 inches to get the outline of Kirbys body. 
+        I created a centerline in the constraints box and then offset that centerline by .10 inches. I used that offset line to draw a circle from the center point of the centerline to the edge of the constraints box. I then offset that circle by 0.05 inches. I deleted the outer circle to create the main outline for Kirby's body.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="constraints.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        Started by sketching the constraints of the 3D print (1.5 in x 1.5 in x 0.5 in). It would give me a visual boundary rather than guessing.
       </p>
     </td>
   </tr>
