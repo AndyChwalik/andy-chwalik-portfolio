@@ -108,11 +108,51 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
       <tr>
     <td style="width:60%;">
-      <img src="body_extrude.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="blush_datum_Plane.png" alt="blush_datum_Plane" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
-        To make the blush under Kirby's eyes, I created a datum plane where I wanted them to go so I could use the same technique I used for eyes.
+        To make the blush under Kirby's eyes, I created a datum plane where I wanted them to line up. Doing this allows me to use the same technique I used for the eyes. Similar to previous dimensions, I didn't have exact dimensions in mind while making it, but it ended up being .78 inches from the bottom of the constraints box.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="blush_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I used the same sketch and revolve technique for the blush as I did for the eyes. The length of the ellipse was .20 inches with .08 inches between the two peaks.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="left_blush.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        Once the blush was sketched and revolved, I mirrored it across the same middle datum plane I used for the eyes to keep the dimensions the same on both sides of the object.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="blush_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I used the same sketch and revolve technique for the blush as I did for the eyes. The length of the ellipse was .20 inches with .08 inches between the two peaks.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="blush_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        To make the arms and feet, I created another datum plane on the bottom of the main body so that I could sketch inside of the body and outside of the body. It makes it easier to create different shapes for the arms and feet.
       </p>
     </td>
   </tr>
