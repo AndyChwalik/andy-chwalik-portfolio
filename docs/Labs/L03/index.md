@@ -342,7 +342,7 @@ Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew an
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="print_39" alt="print_percentage" style="width:100%; height:auto;">
+      <img src="print_39.jpg" alt="print_percentage" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -352,8 +352,8 @@ Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew an
   </tr>
   <tr>
     <td style="width:60%;">
-      <img src="mine_infill" alt="infill_kirby" style="width:100%; height:auto;">
-      <img src="andrew_infill" alt="infill_cable_management" style="width:100%; height:auto;">
+      <img src="mine_infill.png" alt="infill_kirby" style="width:100%; height:auto;">
+      <img src="andrew_infill.png" alt="infill_cable_management" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -363,7 +363,7 @@ Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew an
   </tr>
    <tr>
     <td style="width:60%;">
-      <img src="finished_bed" alt="print_finished" style="width:100%; height:auto;">
+      <img src="finished_bed.png" alt="print_finished" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
