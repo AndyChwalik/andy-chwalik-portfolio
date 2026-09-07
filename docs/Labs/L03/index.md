@@ -34,8 +34,16 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
         I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet since one side is going to be flat to make it easier to 3D print.
       </p>
     </td>
+  </tr>    <tr>
+    <td style="width:60%;">
+      <img src="body_round.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        To finish the main body, I rounded the edges of the side I wanted to create the details on. I didn't have a specific measurement for the round, I just kept adding more until I thought it looked good. 
+      </p>
+    </td>
   </tr>
-    </tr>
     <tr>
     <td style="width:60%;">
       <img src="initial_eye.png" alt="constraints" style="width:100%; height:auto;">
@@ -46,7 +54,6 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       </p>
     </td>
   </tr>
-    </tr>
     <tr>
     <td style="width:60%;">
       <img src="mirror_attempt.png" alt="constraints" style="width:100%; height:auto;">
@@ -68,7 +75,6 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       </p>
     </td>
   </tr>
-    </tr>
     <tr>
     <td style="width:60%;">
       <img src="both_eyes.png" alt="constraints" style="width:100%; height:auto;">
@@ -82,11 +88,31 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
     </tr>
     <tr>
     <td style="width:60%;">
-      <img src="body_extrude.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="mouth_sketch.png" alt="constraints" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
         I decided to make the mouth next so I would get a better feeling of where the project was going. I didn't want to make a super symmetrical mouth, because I thought it would look weird, so I used the spline tool to create similar shapes on both sides while maintaining the look I wanted. 
+      </p>
+    </td>
+  </tr>
+      <tr>
+    <td style="width:60%;">
+      <img src="mouth_extrude.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I decided to extrude the mouth downwards to create more depth to the 3D model. There was no specific measurement I had in mind for this, I just kept taking away material until I thought it looked good.
+      </p>
+    </td>
+  </tr>
+      <tr>
+    <td style="width:60%;">
+      <img src="body_extrude.png" alt="constraints" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet since one side is going to be flat to make it easier to 3D print.
       </p>
     </td>
   </tr>
