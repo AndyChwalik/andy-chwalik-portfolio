@@ -186,6 +186,46 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       </p>
     </td>
   </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="right_foot_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I used the same spline technique for the feet as well. I couldn't use an arc for the feet like I did for the arms because Creo was acting funny every time I tried. I am assuming it's because the shape of the feet is much stranger than the arms, which causes confusion when using the arc tool. 
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="right_foot_height.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I extruded his feet slightly bigger than the main body because Kirby has massive feet in all of his games. The reason why I picked 0.05 inches was because that is how much shorter I made the arms from the body. I was trying to stay consistent with those measurements.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="bot_datum_plane.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        The rounding isn't the same on the feet as the body and arms because the feet interacted differently with the body than the arms did. Since the feet interact with the rounding on the body, I was only able to round the feet until it met with the rounding from the body. That is why the rounding for the feet is only 0.05 inches rather than 0.09 inches.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="final_design.png" alt="blush_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; vertical-align:top;">
+      <p>
+        I followed the same process for the right foot, and Kirby was ready to be 3D printed.
+      </p>
+    </td>
+  </tr>
 </table>
 
 
