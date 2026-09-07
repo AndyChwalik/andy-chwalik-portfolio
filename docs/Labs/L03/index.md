@@ -27,11 +27,11 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="constraints.png" alt="constraints" style="width:100%; height:auto;">
+      <img src="body_extrude.png" alt="constraints" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
-        Started by sketching the constraints of the 3D print (1.5 in x 1.5 in x 0.5 in). It would give me a visual boundary rather than guessing.
+        I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet.
       </p>
     </td>
   </tr>
