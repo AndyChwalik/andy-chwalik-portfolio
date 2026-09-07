@@ -208,7 +208,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="bot_datum_plane.png" alt="blush_sketch" style="width:100%; height:auto;">
+      <img src="right_foot_round.png" alt="blush_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; vertical-align:top;">
       <p>
