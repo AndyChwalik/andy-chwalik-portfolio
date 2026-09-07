@@ -10,9 +10,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="constraints.png" alt="constraints" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         Started by sketching the constraints of the 3D print (1.5 in x 1.5 in x 0.5 in). It would give me a visual boundary rather than guessing.
-      </p>
     </td>
   </tr>
   <tr>
@@ -20,9 +18,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="main_body.png" alt="MainBody" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I created a centerline in the constraints box and then offset that centerline by .10 inches. I used that offset line to draw a circle from the center point of the centerline to the edge of the constraints box. I then offset that circle by 0.05 inches. I deleted the outer circle to create the main outline for Kirby's body.
-      </p>
     </td>
   </tr>
     <tr>
@@ -30,18 +26,14 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="body_extrude.png" alt="main_body_extrude" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I extruded the outline of Kirby's body to half of the height constraints because I was thinking of adding depth to his eyes, mouth, hands, and feet since one side is going to be flat to make it easier to 3D print.
-      </p>
     </td>
   </tr>    <tr>
     <td style="width:60%;">
       <img src="body_round.png" alt="main_body_round" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         To finish the main body, I rounded the edges of the side I wanted to create the details on. I didn't have a specific measurement for the round, I just kept adding more until I thought it looked good. 
-      </p>
     </td>
   </tr>
     <tr>
@@ -49,9 +41,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="initial_eye.png" alt="initial_eye_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         My first idea for the eyes was to create two ellipses on the top of the main body and then round of the edges to make it look less blocky.
-      </p>
     </td>
   </tr>
     <tr>
@@ -59,9 +49,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="mirror_attempt.png" alt="mirror_attempt" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I then mirrored this idea to the other side just to see what it looked like. I ended up not liking it because it didn't look very uniform. They looked like separate objects put together, and I didn't like that look
-      </p>
     </td>
   </tr>
   </tr>
@@ -70,9 +58,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="eye_revolve1.png" alt="eye_better_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         My other idea was to create an ellipse in the same position as my previous eyes, but revolve it around a centerline. My thought was that it would make a more football like shape which resembles eyes. I thought that it turned out much better than the previous design. To finish off the eye I rounded the edges of the eye to the body to create a more seamless transition.
-      </p>
     </td>
   </tr>
     <tr>
@@ -80,9 +66,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="both_eyes.png" alt="both_eyes" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         Once one of the eyes were completed, I just mirrored it across a centerline going through the middle of the body to keep the dimensions the exact same on both sides. 
-      </p>
     </td>
   </tr>
     </tr>
@@ -91,9 +75,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="mouth_sketch.png" alt="mouth_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I decided to make the mouth next so I would get a better feeling of where the project was going. I didn't want to make a super symmetrical mouth, because I thought it would look weird, so I used the spline tool to create similar shapes on both sides while maintaining the look I wanted. 
-      </p>
     </td>
   </tr>
       <tr>
@@ -101,9 +83,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="mouth_extrude.png" alt="mouth_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I decided to extrude the mouth downwards to create more depth to the 3D model. There was no specific measurement I had in mind for this, I just kept taking away material until I thought it looked good.
-      </p>
     </td>
   </tr>
       <tr>
@@ -111,9 +91,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="blush_datum_Plane.png" alt="blush_datum_Plane" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         To make the blush under Kirby's eyes, I created a datum plane where I wanted them to line up. Doing this allows me to use the same technique I used for the eyes. Similar to previous dimensions, I didn't have exact dimensions in mind while making it, but it ended up being .78 inches from the bottom of the constraints box.
-      </p>
     </td>
   </tr>
   <tr>
@@ -121,9 +99,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="blush_sketch.png" alt="blush_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I used the same sketch and revolve technique for the blush as I did for the eyes. The length of the ellipse was .20 inches with .08 inches between the two peaks.
-      </p>
     </td>
   </tr>
   <tr>
@@ -131,9 +107,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="left_blush.png" alt="both_blushes" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         Once the blush was sketched and revolved, I mirrored it across the same middle datum plane I used for the eyes to keep the dimensions the same on both sides of the object.
-      </p>
     </td>
   </tr>
   <tr>
@@ -141,9 +115,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="bot_datum_plane.png" alt="new_datum_plane" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         To make the arms and feet, I created another datum plane on the bottom of the main body so that I could sketch inside of the body and outside of the body. It makes it easier to create different shapes for the arms and feet.
-      </p>
     </td>
   </tr>
     <tr>
@@ -151,9 +123,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="left_arm_sketch.png" alt="left_arm_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         Making the arms, I used a similar technique as I used for the mouth. I used the spline tool from the non rounded part of the body to create a circular looking hand. I then used an arc to connect the two end points of the spline since the body was still a perfect circle. I wanted to make him look like he was waving, so that is why the left hand is high up on the body. 
-      </p>
     </td>
   </tr>
     <tr>
@@ -161,9 +131,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="left_arm_height.png" alt="left_arm_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I extruded the arm to a slightly shorter height than the main body because Kirby has really small arms in his games. I thought that it would make it look more like the character.
-      </p>
     </td>
   </tr>
     <tr>
@@ -171,9 +139,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="left_arm_round.png" alt="left_arm_round" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         Keeping the rounding consistent, I rounded Kirby's arm the same amount for when I rounded his body. I thought it would make the whole design look more uniform.
-      </p>
     </td>
   </tr>
     <tr>
@@ -181,9 +147,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="both_arms.png" alt="both_arms" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I repeated this process for the right arm, but I put it a little lower to try and give him that waving look.
-      </p>
     </td>
   </tr>
     <tr>
@@ -191,9 +155,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="right_foot_sketch.png" alt="right_foot_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I used the same spline technique for the feet as well. I couldn't use an arc for the feet like I did for the arms because Creo was acting funny every time I tried. I am assuming it's because the shape of the feet is much stranger than the arms, which causes confusion when using the arc tool. 
-      </p>
     </td>
   </tr>
     <tr>
@@ -201,9 +163,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="right_foot_height.png" alt="right_foot_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I extruded his feet slightly bigger than the main body because Kirby has massive feet in all of his games. The reason why I picked 0.05 inches was because that is how much shorter I made the arms from the body. I was trying to stay consistent with those measurements.
-      </p>
     </td>
   </tr>
     <tr>
@@ -211,9 +171,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="right_foot_round.png" alt="right_foot_round" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         The rounding isn't the same on the feet as the body and arms because the feet interacted differently with the body than the arms did. Since the feet interact with the rounding on the body, I was only able to round the feet until it met with the rounding from the body. That is why the rounding for the feet is only 0.05 inches rather than 0.09 inches.
-      </p>
     </td>
   </tr>
     <tr>
@@ -221,9 +179,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="final_design.png" alt="final_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         I followed the same process for the right foot, and Kirby was ready to be 3D printed.
-      </p>
     </td>
   </tr>
       <tr>
@@ -231,9 +187,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="model_tree.png" alt="model_tree" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         Here is the model tree of the fully 3D modeled object.
-      </p>
     </td>
   </tr>
 </table><br>
@@ -246,9 +200,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="cubic_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         The geometry for cubic infill is a structure of tilted cubes. This causes the structure inside to be air-filled cube pockets that provides the same stiffness in all directions. It distributes the stress applied on the object evenly, making it good for structural components. The air pockets created could lead to cubic infills being good heat insulators or be able to float on water. Cubic infills typically take longer to print than other infills.
-      </p>
     </td>
   </tr>
     <tr>
@@ -256,9 +208,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="triangle_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         The geometry for triangular infill is a structure with three set paths to create triangle shaped objects. It is very similar to the honeycomb and grid infills. The triangular shapes give good support for tensile strength, meaning that triangular infill would be good for support structures. Triangular infill uses slightly more material and takes longer than normal. 
-      </p>
     </td>
   </tr>
     <tr>
@@ -266,17 +216,15 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
       <img src="concentric_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <p>
         The geometry for concentric infill is a hexagon that is offset repeatedly until it hits the walls of your object. With multiple hexagons, the concentric infill provides great resistance to force coming from above it. However, due to the layers not being connected, it provides little to no resistance in the horizontal direction. This means that concentric infill is really good for flexible parts. Concentric infill uses less material than other infills, but it takes longer than average due to the amount of rings it involves.
-      </p>
     </td>
   </tr>
 </table><br>
 
 **Resources**<br>
-- [https://www.creality.com/blog/best-3d-printing-infill-patterns](https://www.creality.com/blog/best-3d-printing-infill-patterns)
-- [https://help.prusa3d.com/article/infill-patterns_177130](https://help.prusa3d.com/article/infill-patterns_177130)
-- [https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/)
-- [https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/](https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/)
+- [https://www.creality.com/blog/best-3d-printing-infill-patterns](https://www.creality.com/blog/best-3d-printing-infill-patterns) <br>
+- [https://help.prusa3d.com/article/infill-patterns_177130](https://help.prusa3d.com/article/infill-patterns_177130) <br>
+- [https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/](https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/) <br>
+- [https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/](https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/) <br>
 
 
