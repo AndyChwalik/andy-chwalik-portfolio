@@ -373,7 +373,7 @@ Our flash drive was labeled for PC-12, so we went to 3D printer PC-12. Andrew an
   </tr>
 </table><br>
 
-Click [HERE](3d_printing_video.mp4) to watch a video of the 3D printing process. You can see how the machine moves in real time. Below is a picture of what my Kirby looks like after 3D modeling and 3D printing. I think he looks pretty good, but the lines aren't as smooth as I thought it would be. I think this is because of the layer height. If I lowered the layer height, I could've made him look more smooth, but the print would've taken longer. Overall, I am extremely happy with how he came out.
+Click [HERE](https://www.youtube.com/watch?v=vRi3YmpCurw) to watch a video of the 3D printing process. You can see how the machine moves in real time. Below is a picture of what my Kirby looks like after 3D modeling and 3D printing. I think he looks pretty good, but the lines aren't as smooth as I thought it would be. I think this is because of the layer height. If I lowered the layer height, I could've made him look more smooth, but the print would've taken longer. Overall, I am extremely happy with how he came out.
 
 ![final product](final_product.jpg)
 
