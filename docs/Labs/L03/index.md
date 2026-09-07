@@ -253,7 +253,7 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
     <tr>
     <td style="width:60%;">
-      <img src="cubic_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
+      <img src="triangular_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <p>
