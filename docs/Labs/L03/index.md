@@ -238,4 +238,45 @@ I couldn't land on an object I wanted to 3D print initially, but I decided to do
   </tr>
 </table>
 
+## Research
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="cubic_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <p>
+        The geometry for cubic infill is a structure of tilted cubes. This causes the structure inside to be air-filled cube pockets that provides the same stiffness in all directions. It distributes the stress applied on the object evenly, making it good for structural components. The air pockets created could lead to cubic infills being good heat insulators or be able to float on water. Cubic infills typically take longer to print than other infills.
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="cubic_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <p>
+        The geometry for triangular infill is a structure with three set paths to create triangle shaped objects. It is very similar to the honeycomb and grid infills. The triangular shapes give good support for tensile strength, meaning that triangular infill would be good for support structures. Triangular infill uses slightly more material and takes longer than normal. 
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%;">
+      <img src="concentric_infill.jpg" alt="cubic_infill" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <p>
+        The geometry for concentric infill is a hexagon that is offset repeatedly until it hits the walls of your object. With multiple hexagons, the concentric infill provides great resistance to force coming from above it. However, due to the layers not being connected, it provides little to no resistance in the horizontal direction. This means that concentric infill is really good for flexible parts. Concentric infill uses less material than other infills, but it takes longer than average due to the amount of rings it involves.
+      </p>
+    </td>
+  </tr>
+</table>
+
+**Resources**
+- https://www.creality.com/blog/best-3d-printing-infill-patterns
+- https://help.prusa3d.com/article/infill-patterns_177130
+- https://blog.prusa3d.com/everything-you-need-to-know-about-infills_43579/
+- https://www.reddit.com/r/3Dprinting/comments/pdgbv0/infill_pattern_comparison/
+
 
