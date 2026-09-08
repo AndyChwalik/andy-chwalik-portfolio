@@ -1,8 +1,14 @@
 # L3 – Design Something Small
 
-## Design
+## Overview
+
+I was tasked with designing a small 3D printable exercises. It had to fit inside a 1.5 inch x 1.5 inch x 0.5 inches parameter. 
 
 I couldn't land on an object I wanted to 3D print initially, but I decided to do the game character Kirby because I like games and I thought it would be fun designing something that I liked. I also thought that designing Kirby inside of Creo would teach me how to use the tools again. I haven't 3D modeled in about a year, so there was a slight learning curve. 
+
+I looked up an image of Kirby 
+
+## Design
 
 <table style="width:100%;">
   <tr>
