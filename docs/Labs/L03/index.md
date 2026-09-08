@@ -5,7 +5,7 @@
 I was tasked with designing a small 3D printable artifact. It had to fit inside a 1.5 inch x 1.5 inch x 0.5 inches parameter and had to print in less than 1 hour and 30 minutes. Initially I had no idea what I wanted to design, but I decided to do the game character Kirby because I like games, and I thought it would be fun designing something that I liked. I also thought that designing Kirby inside of Creo would teach me how to use the tools again. I haven't 3D modeled in about a year, so there was a slight learning curve. 
 
 <p align="center">
-  <img src="kirby_inspiration.png" />
+  <img src="kirby_inspiration.png" alt="kirby_inspiration" style="width:50%; height=auto"/>
   <br>
   <em>This is what Kirby looks like if you're unfamiliar with the character</em>
 </p>
