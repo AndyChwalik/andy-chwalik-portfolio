@@ -2,11 +2,13 @@
 
 ## Overview
 
-I was tasked with designing a small 3D printable exercises. It had to fit inside a 1.5 inch x 1.5 inch x 0.5 inches parameter. 
+I was tasked with designing a small 3D printable artifact. It had to fit inside a 1.5 inch x 1.5 inch x 0.5 inches parameter and had to print in less than 1 hour and 30 minutes. Initially I had no idea what I wanted to design, but I decided to do the game character Kirby because I like games, and I thought it would be fun designing something that I liked. I also thought that designing Kirby inside of Creo would teach me how to use the tools again. I haven't 3D modeled in about a year, so there was a slight learning curve. 
 
-I couldn't land on an object I wanted to 3D print initially, but I decided to do the game character Kirby because I like games and I thought it would be fun designing something that I liked. I also thought that designing Kirby inside of Creo would teach me how to use the tools again. I haven't 3D modeled in about a year, so there was a slight learning curve. 
-
-I looked up an image of Kirby 
+<p align="center">
+  kirby_inspiration.png
+  <br>
+  <em>Figure 1: This is what Kirby looks like if you're unfamiliar with the character</em>
+</p>
 
 ## Design
 
