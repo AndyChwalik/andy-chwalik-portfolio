@@ -4,13 +4,10 @@
 
 The goal of Lab 4 is to show how some 3D printers can outperform or underperform different 3D printing design rules. An example of this is the overhang design rule. The general rule is to not print any 3D artifact over 45 degrees from the vertical axis. To test an individual 3D printing machine, it can print an artifact that has 1 less degree (44) or 1 more degree (46) to see how it performs. If the print isn't smooth at 44 degrees, that means the 3D printer underperforms for that specific test, and the designer should keep that in mind while designing different parts. The same thing can be said if the 3D printer outperforms the general rule. 
 
-That was just an example though. Below is a graph of all of the different 3D printing design rules. The graph gives a little information about each design rule and then the parameters for each rule. Since I am going to be using the Prusa Core One 3D printer, I am looking at the "Fused deposition modeling" requirements. 
+That was just an example though. Below is a graph of all of the different 3D printing design rules. The graph gives a little information about each design rule and then the parameters for each rule. Since I am going to be using the Prusa Core One 3D printer, I am looking at the "Fused deposition modeling" requirements. '
 
-![3D_Printing_Design_Rules](3D_Printing_Design_Rules.pdf)
 <p align="center">
-  <a href="./my-document.pdf">
-    <img src="3D_Printing_Design_Rules.pdf" alt="View PDF" height="75%" width="auto">
-  </a>
+    <img src="3D_Printing_Design_Rules.png" alt="View PDF" height="75%" width="auto">
 </p>
 
 
