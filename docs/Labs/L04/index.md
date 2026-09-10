@@ -8,7 +8,9 @@ That was just an example though. Below is a graph of all of the different 3D pri
 
 ![3D_Printing_Design_Rules](3D_Printing_Design_Rules.pdf)
 <p align="center">
-  <iframe src="3D_Printing_Design_Rules.pdf" height="75%" width=auto></iframe>
+  <a href="./my-document.pdf">
+    <img src="3D_Printing_Design_Rules.pdf" alt="View PDF" height="75%" width="auto">
+  </a>
 </p>
 
 
