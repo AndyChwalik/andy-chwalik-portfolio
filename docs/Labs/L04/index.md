@@ -31,3 +31,6 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
+</table>
+
+Once the base of my design was established, I could move onto the legs of the bridge gaps. To design the legs, I created a 5mm x 5mm box on the top left and top right corner of my base. Those represented my two extreme values. I then created another 5mm x 5mm box 8mm away from the top left and 12mm from the top right.
