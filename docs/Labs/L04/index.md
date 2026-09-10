@@ -7,6 +7,10 @@ The goal of Lab 4 is to show how some 3D printers can outperform or underperform
 That was just an example though. Below is a graph of all of the different 3D printing design rules. The graph gives a little information about each design rule and then the parameters for each rule. Since I am going to be using the Prusa Core One 3D printer, I am looking at the "Fused deposition modeling" requirements. 
 
 ![3D_Printing_Design_Rules](3D_Printing_Design_Rules.pdf)
+<p align="center">
+  <iframe src="3D_Printing_Design_Rules.pdf" height="75%" width=auto></iframe>
+</p>
+
 
 I decided to test the horizontal bridges parameter. I chose the horizontal bridges parameter because I have tried to avoid any type of gaps or overhangs in my current designs. That is why they are all flat to the ground with small bumps or rounds on top of them. If I can test the limit of the Prusa Core One for horizontal bridges, I think it would give me more freedom when designing without supports for 3D models. 
 
