@@ -125,13 +125,10 @@ I moved onto PrusaSlicer after saving my CAD model as an stl file. When I import
 
 <table style="width:100%;">
   <tr>
-    <td style="width:60%;">
+    <td style="width:50%;">
       <img src="initial_orientation.png" alt="initial_orientation" style="width:100%; height:auto;">
     </td>
-  </tr>
-  <tr>
-    <td style="width:60%;">
-      <img src="fixed_orientation.png" alt="fixed_orientation.png" style="width:100%; height:auto;">
+    <td style="width:50%; padding:28px; text-align:center; vertical-align:middle;"">
+      <img src="fixed_orientation.png" alt="fixed_orientation" style="width:100%; height:auto;">
     </td>
   </tr>
-</table>
