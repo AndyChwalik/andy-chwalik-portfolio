@@ -17,9 +17,9 @@ I decided to test the horizontal bridges parameter. I chose the horizontal bridg
 
 I am going to show 2 different designs. The first design was my first plan when going about this project. It unfortunately didn't turn out the way I wanted it to due to all of the bridges being the same height, making it hard to view the error, and there not being a big enough deviation from the 10mm rule. My second design is my revised plan, which fixes the issues of the first design. I will provide CAD files and STL files for both of the designs if you want to look into what I am talking about a little deeper.
 
-## Design 1
+### Design 1
 
-### 3D Modeling
+#### 3D Modeling
 
 Looking at the "3D Printing Design Rules", the rule for FDM is 10mm. For my testing, I will change the measurement by +/- 1mm. I will continue to do this until I have five different horizontal bridges on my 3D printing file. My final design will show horizontal bridges in measurements of 8mm, 9mm, 10mm, 11mm, and 12mm. Each horizontal bridge will have a 4mm gap between itself and the next horizontal bridge. With the wide range of measurements, it should give me a good idea of the capabilities of the Prusa Core One for this 3D design rule.
 
