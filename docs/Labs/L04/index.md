@@ -32,7 +32,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
         <img src="base_sketch_correct.png" alt="correct_base_sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:12px;">
+      <div style="font-size:14px;">
         To start 3D modeling, I created a small base layer to put all of the bridge gaps on top of. I hope this will minimize printing errors, and properly show the results of the test. When I originally did this, I tried adding all of the length values in my head, and I got the incorrect dimensions. So, I had to adjust the length of my base layer from 39mm to 41mm. The bottom image shows the correct dimensions for what I am testing.
       </div>
     </td>
@@ -42,7 +42,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       <img src="beam_dimensions.png" alt="initial_beam_dimensions" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:12px;">
+      <div style="font-size:14px;">
         Once the base of my design was established, I could move onto the legs of the bridge gaps. To design the legs, I created a 5mm x 5mm box on the top left and top right corner of my base. Those represented my two extreme values. I then created another 5mm x 5mm box 8mm away from the top left and 12mm from the top right. Those dimensions are the bridge gap dimensions. 
       </div>
     </td>
@@ -52,7 +52,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       <img src="beam_dimensions_continued.png" alt="beam_dimensions_continued" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:12px;">
+      <div style="font-size:14px;">
         Now that I have the two leg ends of my design, I can work on offsetting those points to get the rest of the bridge gaps. Since all of my bridge gaps had the same starting position, I was able to create the 5mm x 5mm boxes along the top 4mm apart from each other. After doing so, the space on the top part of my base plate was all used up because the base plate was designed for 5mm x 5mm legs that were 4mm apart from each other. Since all of the starting positions for the bridge gaps were in place, I wanted to start on creating that bridge gap on the base plate. I was able to accomplish this in the same way I did the first bridge gap and the last bridge gap (creating another 5mm x 5mm box directly across from the starting point and making sure that the starting support leg and the final support leg had the proper bridge gap distance between them).  
       </div>
     </td>
@@ -62,7 +62,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       <img src="beam_dimensions_finished.png" alt="beam_dimensions_finished" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:16px;">
+      <div style="font-size:14px;">
         I continued this process for all of my bridge gaps. The end goal for this process is to have the support legs set in place so that I could extrude all of the support legs to the same height, and then actually create the bridge gaps across the leg supports. This is shown in the final sketch for the support legs.
       </div>
     </td>
@@ -72,7 +72,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       <img src="beam_extrusion.png" alt="support_legs_extruded" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:12px;">
+      <div style="font-size:14px;">
         I wasn't really sure what height I wanted to extrude it to, but I wanted the print to not take so long, so I decided to extrude all of the support legs by 5mm. I thought that it would be a big enough gap to tell if the 3D print failed while maintaining a low print time. 
       </div>
     </td>
@@ -82,7 +82,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       <img src="bridge_sketch1.png" alt="sketch_for_one_bridge_gap" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:12px;">
+      <div style="font-size:14px;">
         My next thought was to create a sketch on the support legs that will be the width and height I wanted my bridge gaps to be. Since they're attached to the support legs, the width will be 5mm, but I decided to go with 2mm for the height. I chose 2mm because I thought with a thinner design, it would show the failure of the different bridge gaps more clearly. I also had to do each of these sketches individually since they will all be extruded to different values, since the lengths of the bridge gaps will vary by 1mm. The picture shown shows the process for the first support leg.
       </div>
     </td>
@@ -92,7 +92,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       <img src="bridge_sketch_all.png" alt="sketch_for_all_bridge_gap" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:16px;">
+      <div style="font-size:14px;">
         Here are all of the sketches drawn on the different support legs. They all have the same dimensions, but as stated earlier, they will be extruded to different values due to the different bridge gap lengths.
       </div>
     </td>
@@ -101,8 +101,8 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="bridge_extrusion1.png" alt="extruding_beam_one" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         With all of the bridge gap sketches in place, I started extruding them. The first bridge gap will be extruded by 8mm, since that was the length I have been designing this artifact for. The rest of the gaps will be extruded by exactly 1mm greater until I reach the 12mm I wanted to test. 
       </div>
     </td>
@@ -111,8 +111,8 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="finished_model.png" alt="finished_model" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Once all of the bridge gaps were extruded, I had my finished product. I was pretty happy with it, since that is what I was picturing when I first started designing the artifact.
       </div>
     </td>
@@ -171,8 +171,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="base_sketch.png" alt="base_sketch" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         I created my base by adding all of the spaces between the support legs as well as the length of the support legs. There are 7 total spaces, so it would be 70mm + (5mm * 8). Doing the calculations gave the length of my base 110mm. To find the width of the base, I just added the width of two support legs with the biggest bridge gap that will be in my design. I got the equation (5mm * 2) + 15mm. Doing the calculations gave the width of my base to be 20mm. I extrude the plate by 1mm, same as design 1.
       </div>
     </td>
@@ -181,8 +181,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="legs1_sketch.png" alt="leg1_sketch" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         I moved onto designing the support legs. Unlike design 1, the support legs will be different heights, so I have to do a separate sketch for each individual support leg. To layout the support legs, I made a 5mm x 5mm box at the top of the base plate, and then I made another 5mm x 5mm box directly below at the distance of the bridge gap. In the picture shown, I was modeling the first bridge gap, so the two support legs will be 8mm apart. The next bridge gap will be 9mm apart, continuing all the way up to the 15mm bridge gap.
       </div>
     </td>
@@ -191,8 +191,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="legs_all_sketch.png" alt="all_support_legs" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Here are all of the sketches laid out on the base plate. I extruded the first support legs in this image because I was fiddling around with what height I wanted to increment by.
       </div>
     </td>
@@ -201,8 +201,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="leg1_extrusion.png" alt="leg1_support_extruded" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         The height I decided on was 4mm for the first bridge gap and then increment the height of each of the following support legs by 2mm. I did this since the thickness of the bridge gap is 2mm, so I should be able to see the top of each bridge gap with the new height. 
       </div>
     </td>
@@ -211,8 +211,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="legs_all_extrusion.png" alt="leg_all_support_extrusion" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         The picture shown is all of the support legs extruded in the way I explained before. It is easier to see what I am picturing with it visually showing in the CAD model. If you look closer at the image, you can see there is another sketch present. I didn't mention this sketch because I tried to create the base cutout early, however the extrusion was very weird, so I decided to hold off until I completed the bridge gaps first.
       </div>
     </td>
@@ -221,8 +221,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="leg1_bridge_sketch.png" alt="leg1_bridge_gap_sketch" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Once I extruded all of the support legs, it was time to create the sketches for the bridge gaps. I kept the same thickness of the bridge gaps, since the thickness didn't seem to affect the print from design 1. Each bridge gap will be extruded to a different value, so I had to make separate sketches for each bridge gap. The image shows the sketch for the first bridge gap.
       </div>
     </td>
@@ -231,8 +231,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="leg_all_bridge_sketch.png" alt="leg_all_bridge_gap_sketch" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Here are all of the sketches on their respective support legs. All of the sketches have the exact same dimensions, they're just going to be extruded to different lengths as mentioned before.
       </div>
     </td>
@@ -241,8 +241,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="leg1_bridge_extrusion.png" alt="leg1_bridge_gap_extrusion" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         I started to extrude each of the bridge gap sketches. Their length depended on how long the gap was supposed to be. The image shown is the first one, so the length will be 8mm. I will increase the extrusion by 1mm for each bridge gap after so everything connects together.
       </div>
     </td>
@@ -251,8 +251,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="leg_all_bridge_extrusion.png" alt="legs_all_bridge_gap_extrusion" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Here are all of the bridge gaps extruded. The design changes are very noticeable now, and I think it will provide a better result than design 1. 
       </div>
     </td>
@@ -261,8 +261,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="cut_sketch.png" alt="cut_sketch" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         To make a cutout of the base plate, so I can see under the bridge gaps, I created a sketch outlining where the support legs are. Doing this will keep all of the bridge gaps connected, while giving me access to see under my design. 
       </div>
     </td>
@@ -271,8 +271,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="cut_extrusion.png" alt="cut_extrusion" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Finalizing the cutout, all I had to do was apply an extrusion to remove material from the base plate. When choosing how to remove the material, I selected "through all" rather than "blind" so if it were to get machined, there would be no wasted movements with the machine.
       </div>
     </td>
@@ -281,8 +281,8 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="final_design.png" alt="final_design" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
-      <div style="font-size:16px;">
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
         Going through this whole process, gave me this final design. I think it looks a lot better than my first design, and I have confidence that it will better show the objective of this assignment.
       </div>
     </td>
