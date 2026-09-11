@@ -121,7 +121,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
 
 ### Preprocessing
 
-I moved onto PrusaSlicer after saving my CAD model as an stl file. When I imported my model, it came in sideways again. I am not sure why this keeps happening because I thought I designed my part on the top plate, but it is a simple fix. All I had to do was just rotate the design by 90 degrees, and the design should be flat on the bed. 
+I moved onto PrusaSlicer after saving my CAD model as an stl file. When I imported my model, it came in sideways. I am not sure why this keeps happening because I thought I designed my part on the top plate, but it is a simple fix. All I had to do was just rotate the design by 90 degrees, and the design should be flat on the bed.
 
 <table style="width:100%;">
   <tr>
@@ -132,3 +132,15 @@ I moved onto PrusaSlicer after saving my CAD model as an stl file. When I import
       <img src="fixed_orientation.png" alt="fixed_orientation" align="center"; style="width:100%; height:auto;">
     </td>
   </tr>
+</table>
+
+Once my orientation was fixed, I was thinking about what infill type and infill percentage I wanted to use. I think that the structural capabilities of my artifact doesn't really matter, so I kept the default options PrusaSlicer gave (infill percentage = 15% and infill type = grid). I thought that the infill percentage was plenty for what I was working with and the grid infill gives okay structure while printing quickly. I had first pick of what 3D printer I wanted to use, so I chose PC-15. The filament inside of PC-15 was PETG, so I made sure that my model was using the correct filament. Below shows a picture of my artifact with my partners, Andrew, with all of the specifications.
+
+<p align="center">
+    <img src="petg_info" alt="Prusa_interface" height="75%" width="auto">
+</p>
+<p align="center">
+    <img src="sliced_info" alt="sliced_info" height="75%" width="auto">
+</p>
+
+### 3D Printing
