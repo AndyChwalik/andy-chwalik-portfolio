@@ -139,10 +139,10 @@ Once my orientation was fixed, I was thinking about what infill type and infill 
 
 <table style="width:100%;">
   <tr>
-    <td style="width:50%; text-align: center; vertical-align:middle;">
+    <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="petg_info.png" alt="Prusa_interface" height="100%" width="auto">
     </td>
-    <td style="width:50%; text-align: center; vertical-align:middle;">
+    <td style="width:40%; text-align: center; vertical-align:middle;">
       <img src="sliced_info.png" alt="sliced_info" height="100%" width="auto">
     </td>
   </tr>
