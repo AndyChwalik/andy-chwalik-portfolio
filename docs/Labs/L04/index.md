@@ -19,11 +19,11 @@ I am going to show 2 different designs. The first design was my first plan when 
 
 ### Design 1
 
-#### 3D Modeling
-
 Looking at the "3D Printing Design Rules", the rule for FDM is 10mm. For my testing, I will change the measurement by +/- 1mm. I will continue to do this until I have five different horizontal bridges on my 3D printing file. My final design will show horizontal bridges in measurements of 8mm, 9mm, 10mm, 11mm, and 12mm. Each horizontal bridge will have a 4mm gap between itself and the next horizontal bridge. With the wide range of measurements, it should give me a good idea of the capabilities of the Prusa Core One for this 3D design rule.
 
 To eliminate risk of other failures unrelated to the design rule I picked, I decided to make the supports for the bridge a 5mm x 5mm square. I think this will provide enough support to keep the failure isolated towards the bridge design. The thickness of the actual bridge gap will be 2mm.
+
+#### 3D Modeling
 
 <table style="width:100%;">
   <tr>
@@ -37,7 +37,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="beam_dimensions.png" alt="initial_beam_dimensions" style="width:100%; height:auto;">
     </td>
@@ -47,7 +47,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="beam_dimensions_continued.png" alt="beam_dimensions_continued" style="width:100%; height:auto;">
     </td>
@@ -57,7 +57,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="beam_dimensions_finished.png" alt="beam_dimensions_finished" style="width:100%; height:auto;">
     </td>
@@ -67,7 +67,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="beam_extrusion.png" alt="support_legs_extruded" style="width:100%; height:auto;">
     </td>
@@ -77,7 +77,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="bridge_sketch1.png" alt="sketch_for_one_bridge_gap" style="width:100%; height:auto;">
     </td>
@@ -87,7 +87,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="bridge_sketch_all.png" alt="sketch_for_all_bridge_gap" style="width:100%; height:auto;">
     </td>
@@ -97,7 +97,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="bridge_extrusion1.png" alt="extruding_beam_one" style="width:100%; height:auto;">
     </td>
@@ -107,7 +107,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
       </div>
     </td>
   </tr>
-    tr>
+    <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="finished_model.png" alt="finished_model" style="width:100%; height:auto;">
     </td>
@@ -121,7 +121,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
 
 #### Preprocessing
 
-I moved onto PrusaSlicer after saving my CAD model as an stl file. When I imported my model, it came in sideways. I am not sure why this keeps happening because I thought I designed my part on the top plate, but it is a simple fix. All I had to do was just rotate the design by 90 degrees, and the design should be flat on the bed.
+I moved onto PrusaSlicer after saving my CAD model as an stl file. When I imported my model, it came in sideways. I am not sure why this keeps happening because I thought I designed my part on the top plate, but it is a simple fix. All I had to do was just rotate the design by 90 degrees, and the design should be flat on the bed. I didn't have to scale my design at all because I designed it for the dimensions it is at currently, and I didn't have to add any supports because nothing that I wasn't testing exceeded the FEM design rules.
 
 <p align="center">
     <img src="initial_orientation.png" alt="initial_orientation" style="width:100%; height:auto;">
@@ -157,3 +157,21 @@ With all of these issues being present in the 3D print, I didn't feel like it sh
 If you are want to get a better understanding of the issues I am talking about, here is the CAD file and STL file to get a better understanding: [CAD file](bridge_test.SLDPRT)    |    [STL file](bridge_test.stl)
 
 ### Design 2
+
+I was disappointed that my original design didn't work, but it gave me good insight on what I needed to fix. The major flaw with my first design is that it was hard to view any failures after the printing was complete. To fix this, I decided to make three changes: I increased the distance between the support legs from 4mm to 10mm, I made a cutout at the bottom of the base, and I varied the height of the support legs instead of making them all the same height. I increased the distance by more than double so it was much easier to view in-between the different bridge gaps. I made the cutout at the bottom so I can view the bridge gaps from below to see if there are failures occurring that I can't see from above or the side of the artifact. I made the support legs at varied heights to better identify between the different bridge gaps and see the failures more clearly. All of these changes combined should provide a better end product that I can analyze.
+
+The other major flaw with the first design is there wasn't a major difference between 8mm and 12mm. They both didn't have any visible flaws to me, but that could also be affected by the spacing and lack of vision. I took extra caution, because I didn't want to redesign my artifact again, and I increased the number of bridge gaps from 5 to 8. What I mean by this is that there will be 8 bridge gaps, all varying in lengths from 8mm-15mm. The goal for this change is to show a bigger failure point as I go up in dimensions. I was thinking the extra 3mm will be more difficult to print, leading to more visible failures.
+
+#### 3D modeling
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_sketch_incorrect.png" alt="incorrect_base_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        I created my base by adding all of the spaces between the support legs as well as the length of the support legs. There are 7 total spaces, so it would be 70mm + (5mm * 8). Doing the calculations gave the length of my base 110mm. To find the width of the base, I just added the width of two support legs with the biggest bridge gap that will be in my design. I got the equation (5mm * 2) + 15mm. Doing the calculations gave the width of my base to be 20mm.
+      </div>
+    </td>
+  </tr>
