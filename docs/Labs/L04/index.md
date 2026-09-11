@@ -119,7 +119,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
 </table>
 
-### Preprocessing
+#### Preprocessing
 
 I moved onto PrusaSlicer after saving my CAD model as an stl file. When I imported my model, it came in sideways. I am not sure why this keeps happening because I thought I designed my part on the top plate, but it is a simple fix. All I had to do was just rotate the design by 90 degrees, and the design should be flat on the bed.
 
@@ -144,4 +144,4 @@ Once my orientation was fixed, I was thinking about what infill type and infill 
   </tr>
 </table>
 
-### 3D Printing
+#### 3D Printing
