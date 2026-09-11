@@ -313,7 +313,7 @@ I saved my CAD model as an stl file, and moved onto Prusaslicer. Similar to desi
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="base_sketch.png" alt="base_sketch" style="width:100%; height:auto;">
+      <img src="generic_info.png" alt="3D_Print_Overview" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -323,7 +323,7 @@ I saved my CAD model as an stl file, and moved onto Prusaslicer. Similar to desi
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="base_sketch.png" alt="base_sketch" style="width:100%; height:auto;">
+      <img src="sliced_info2.png" alt="sliced_info" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
