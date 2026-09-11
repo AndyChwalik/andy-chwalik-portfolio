@@ -28,8 +28,8 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
 <table style="width:100%;">
   <tr>
     <td style="width:60%;">
-      <img src="base_sketch_incorrect.png" alt="incorrect_base_sketch" class="center"; style="width:100%; height:auto;">
-        <img src="base_sketch_correct.png" alt="correct_base_sketch" class="center"; style="width:100%; height:auto;">
+      <img src="base_sketch_incorrect.png" alt="incorrect_base_sketch" align="center"; style="width:100%; height:auto;">
+        <img src="base_sketch_correct.png" alt="correct_base_sketch" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -39,7 +39,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="beam_dimensions.png" alt="initial_beam_dimensions" class="center"; style="width:100%; height:auto;">
+      <img src="beam_dimensions.png" alt="initial_beam_dimensions" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -49,7 +49,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="beam_dimensions_continued.png" alt="beam_dimensions_continued" class="center"; style="width:100%; height:auto;">
+      <img src="beam_dimensions_continued.png" alt="beam_dimensions_continued" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -59,7 +59,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="beam_dimensions_finished.png" alt="beam_dimensions_finished" class="center"; style="width:100%; height:auto;">
+      <img src="beam_dimensions_finished.png" alt="beam_dimensions_finished" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -69,7 +69,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="beam_extrusion.png" alt="support_legs_extruded" class="center"; style="width:100%; height:auto;">
+      <img src="beam_extrusion.png" alt="support_legs_extruded" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -79,7 +79,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="bridge_sketch1.png" alt="sketch_for_one_bridge_gap" class="center"; style="width:100%; height:auto;">
+      <img src="bridge_sketch1.png" alt="sketch_for_one_bridge_gap" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -89,7 +89,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="bridge_sketch_all.png" alt="sketch_for_all_bridge_gap" class="center"; style="width:100%; height:auto;">
+      <img src="bridge_sketch_all.png" alt="sketch_for_all_bridge_gap" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -99,7 +99,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="bridge_extrusion1.png" alt="extruding_beam_one" class="center"; style="width:100%; height:auto;">
+      <img src="bridge_extrusion1.png" alt="extruding_beam_one" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -109,7 +109,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="finished_model.png" alt="finished_model" class="center"; style="width:100%; height:auto;">
+      <img src="finished_model.png" alt="finished_model" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -126,9 +126,9 @@ I moved onto PrusaSlicer after saving my CAD model as an stl file. When I import
 <table style="width:100%;">
   <tr>
     <td style="width:50%;">
-      <img src="initial_orientation.png" alt="initial_orientation" class="center"; style="width:100%; height:auto;">
+      <img src="initial_orientation.png" alt="initial_orientation" align="center"; style="width:100%; height:auto;">
     </td>
     <td style="width:50%; padding:28px; text-align:center; vertical-align:middle;"">
-      <img src="fixed_orientation.png" alt="fixed_orientation" class="center"; style="width:100%; height:auto;">
+      <img src="fixed_orientation.png" alt="fixed_orientation" align="center"; style="width:100%; height:auto;">
     </td>
   </tr>
