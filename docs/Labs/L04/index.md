@@ -99,7 +99,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="beam_extrusion1.png" alt="extruding_beam_one" style="width:100%; height:auto;">
+      <img src="bridge_extrusion1.png" alt="extruding_beam_one" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -109,12 +109,16 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="beam_dimensions_continued.png" alt="beam_dimensions_continued" style="width:100%; height:auto;">
+      <img src="finished_model" alt="finished_model" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
-        Here is a picture with all of the bridge gaps in place.  
+        Once all of the bridge gaps were extruded, I had my finished product. I was pretty happy with it, since that is what I was picturing when I first started designing the artifact.
       </div>
     </td>
   </tr>
 </table>
+
+### Preprocessing
+
+
