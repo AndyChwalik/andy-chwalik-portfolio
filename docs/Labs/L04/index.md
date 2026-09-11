@@ -145,3 +145,13 @@ Once my orientation was fixed, I was thinking about what infill type and infill 
 </table>
 
 #### 3D Printing
+
+I noticed that this design wasn't as good as I initially thought it was after 3D printing was completed. The 3D printing step went really well, and I will go more in depth of what exactly I did to 3D print in design 2, but the resulting product isn't what I hoped for. It is extremely hard to see if something failed due to all of the support legs being the same height, and going to just 2mm above the recommended bridge gap didn't really show any difference from the 8mm bridge gap. I had to bend the design, using pliers, just to see what happened in the middle. That is why my artifact looks warped in the picture. It was still hard to see because the artifact is so small.
+
+<p align="center">
+    <img src="first_design.jpg" alt="first_design_3D_printed" style="width:100%; height:auto;">
+</p>
+
+With all of these issues being present in the 3D print, I didn't feel like it showed enough information for what the goal of the assignment was. That is why I will keep all of the issues with design 1 in mind while designing design 2.
+
+### Design 2
