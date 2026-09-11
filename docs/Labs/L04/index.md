@@ -51,7 +51,27 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
-        Now that I have the two leg ends of my design, I can work on offsetting those points to get the rest of the bridge gaps. Since all of my bridge gaps had the same starting position, I was able to create the 5mm x 5mm boxes along the top 4mm apart from each other. After doing so, the space on the top part of my base plate was all used up because the base plate was designed for 5mm x 5mm legs that were 4mm apart from each other. Since all of the bridge gaps are in place, I also decided to start creating those bridge gaps I wanted to test. 
+        Now that I have the two leg ends of my design, I can work on offsetting those points to get the rest of the bridge gaps. Since all of my bridge gaps had the same starting position, I was able to create the 5mm x 5mm boxes along the top 4mm apart from each other. After doing so, the space on the top part of my base plate was all used up because the base plate was designed for 5mm x 5mm legs that were 4mm apart from each other. Since all of the starting positions for the bridge gaps were in place, I wanted to start on creating that bridge gap on the base plate. I was able to accomplish this in the same way I did the first bridge gap and the last bridge gap (creating another 5mm x 5mm box directly across from the starting point and making sure that the starting support leg and the final support leg had the proper bridge gap distance between them).  
+      </div>
+    </td>
+  </tr>
+    tr>
+    <td style="width:60%;">
+      <img src="beam_dimensions_finished.png" alt="beam_dimensions_finished" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        I continued this process for all of my bridge gaps. The end goal for this process is to have the support legs set in place so that I could extrude all of the support legs to the same height, and then actually create the bridge gaps across the leg supports. This is shown in the final sketch for the support legs.
+      </div>
+    </td>
+  </tr>
+    tr>
+    <td style="width:60%;">
+      <img src="beam_extrusion.png" alt="support_legs_extruded" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        I wasn't really sure what height I wanted to extrude it to, but I wanted the print to not take so long, so I decided to extrude all of the support legs by 5mm. I thought that it would be a big enough gap to tell if the 3D print failed while maintaining a low print time. 
       </div>
     </td>
   </tr>
