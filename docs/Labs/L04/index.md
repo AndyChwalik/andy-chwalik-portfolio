@@ -13,11 +13,13 @@ That was just an example though. Below is a graph of all of the different 3D pri
 
 I decided to test the horizontal bridges parameter. I chose the horizontal bridges parameter because I have tried to avoid any type of gaps or overhangs in my current designs. That is why they are all flat to the ground with small bumps or rounds on top of them. If I can test the limit of the Prusa Core One for horizontal bridges, I think it would give me more freedom when designing without supports for 3D models. 
 
-## 3D Modeling
+## Designing
 
 I am going to show 2 different designs. The first design was my first plan when going about this project. It unfortunately didn't turn out the way I wanted it to due to all of the bridges being the same height, making it hard to view the error, and there not being a big enough deviation from the 10mm rule. My second design is my revised plan, which fixes the issues of the first design. I will provide CAD files and STL files for both of the designs if you want to look into what I am talking about a little deeper.
 
 ## Design 1
+
+### 3D Modeling
 
 Looking at the "3D Printing Design Rules", the rule for FDM is 10mm. For my testing, I will change the measurement by +/- 1mm. I will continue to do this until I have five different horizontal bridges on my 3D printing file. My final design will show horizontal bridges in measurements of 8mm, 9mm, 10mm, 11mm, and 12mm. Each horizontal bridge will have a 4mm gap between itself and the next horizontal bridge. With the wide range of measurements, it should give me a good idea of the capabilities of the Prusa Core One for this 3D design rule.
 
@@ -72,6 +74,46 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
         I wasn't really sure what height I wanted to extrude it to, but I wanted the print to not take so long, so I decided to extrude all of the support legs by 5mm. I thought that it would be a big enough gap to tell if the 3D print failed while maintaining a low print time. 
+      </div>
+    </td>
+  </tr>
+    tr>
+    <td style="width:60%;">
+      <img src="bridge_sketch1.png" alt="sketch_for_one_bridge_gap" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        My next thought was to create a sketch on the support legs that will be the width and height I wanted my bridge gaps to be. Since they're attached to the support legs, the width will be 5mm, but I decided to go with 2mm for the height. I chose 2mm because I thought with a thinner design, it would show the failure of the different bridge gaps more clearly. I also had to do each of these sketches individually since they will all be extruded to different values, since the lengths of the bridge gaps will vary by 1mm. The picture shown shows the process for the first support leg.
+      </div>
+    </td>
+  </tr>
+    tr>
+    <td style="width:60%;">
+      <img src="bridge_sketch_all.png" alt="sketch_for_all_bridge_gap" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        Here are all of the sketches drawn on the different support legs. They all have the same dimensions, but as stated earlier, they will be extruded to different values due to the different bridge gap lengths.
+      </div>
+    </td>
+  </tr>
+    tr>
+    <td style="width:60%;">
+      <img src="beam_extrusion1.png" alt="extruding_beam_one" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        With all of the bridge gap sketches in place, I started extruding them. The first bridge gap will be extruded by 8mm, since that was the length I have been designing this artifact for. The rest of the gaps will be extruded by exactly 1mm greater until I reach the 12mm I wanted to test. 
+      </div>
+    </td>
+  </tr>
+    tr>
+    <td style="width:60%;">
+      <img src="beam_dimensions_continued.png" alt="beam_dimensions_continued" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        Here is a picture with all of the bridge gaps in place.  
       </div>
     </td>
   </tr>
