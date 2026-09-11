@@ -154,4 +154,6 @@ I noticed that this design wasn't as good as I initially thought it was after 3D
 
 With all of these issues being present in the 3D print, I didn't feel like it showed enough information for what the goal of the assignment was. That is why I will keep all of the issues with design 1 in mind while designing design 2.
 
+If you are want to get a better understanding of the issues I am talking about, here is the CAD file and STL file to get a better understanding: [CAD file](bridge_test.SLDPRT)    |    [STL file](bridge_test.stl)
+
 ### Design 2
