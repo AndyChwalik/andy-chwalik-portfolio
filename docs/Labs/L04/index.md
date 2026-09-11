@@ -109,7 +109,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
   </tr>
     tr>
     <td style="width:60%;">
-      <img src="finished_model" alt="finished_model" style="width:100%; height:auto;">
+      <img src="finished_model.png" alt="finished_model" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
       <div style="font-size:16px;">
@@ -121,4 +121,17 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
 
 ### Preprocessing
 
+I moved onto PrusaSlicer after saving my CAD model as an stl file. When I imported my model, it came in sideways again. I am not sure why this keeps happening because I thought I designed my part on the top plate, but it is a simple fix. All I had to do was just rotate the design by 90 degrees, and the design should be flat on the bed. 
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="initial_orientation.png" alt="initial_orientation" style="width:100%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="fixed_orientation.png" alt="fixed_orientation.png" style="width:100%; height:auto;">
+    </td>
+  </tr>
+</table>
