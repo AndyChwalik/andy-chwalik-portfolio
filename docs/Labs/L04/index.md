@@ -288,3 +288,49 @@ Adding all of these extra features will definitely increase my print time, but n
     </td>
   </tr>
 </table>
+
+#### Preprocessing
+
+I saved my CAD model as an stl file, and moved onto Prusaslicer. Similar to design 1, the model was imported in sideways. It was probably imported sideways because I did all of my CAD modifications on the same file for design 1. Since design 1 was put in sideways, that means design 2 would be imported sideways. It is not that big of a deal though because I just rotated my artifact 90 degrees. I didn't have to scale my design at all because the dimensions I put into the design are pretty delicate, and I think it would mess up the whole test. There are no supports, besides the support legs I made through CAD, because that would defeat the purpose of the test.
+
+<p align="center">
+    <img src="original_position.png" alt="initial_orientation" style="width:100%; height:auto;">
+</p>
+<p align="center">
+    <img src="fixed_position.png" alt="fixed_orientation" align="center"; style="width:100%; height:auto;">
+</p>
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="infill_used.png" alt="infill" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Me and Andrew are still printing together because he also had an error occur with his artifact. We decided to use the same filament settings, infill type = grid and infill percent = 15%, because the 3D printing process went smoothly the first time, it was just the end products that didn't deliver on the goal of the project
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_sketch.png" alt="base_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        We also tried to keep the settings of our 3D print as similar as possible to design 1 for the same reasons as why we kept the same infill. Since we are 3D printing on a later day, we ere able to use the same 3D printer (PC-15), so we didn't have change the filament from PETG.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_sketch.png" alt="base_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is the sliced info of our file. The printing time is much higher than last time, almost twice as long, but we are both okay with the longer printing times if our product is better than our first print.
+      </div>
+    </td>
+  </tr>
+</table>
+
+#### 3D Printing
