@@ -136,11 +136,16 @@ I moved onto PrusaSlicer after saving my CAD model as an stl file. When I import
 
 Once my orientation was fixed, I was thinking about what infill type and infill percentage I wanted to use. I think that the structural capabilities of my artifact doesn't really matter, so I kept the default options PrusaSlicer gave (infill percentage = 15% and infill type = grid). I thought that the infill percentage was plenty for what I was working with and the grid infill gives okay structure while printing quickly. I had first pick of what 3D printer I wanted to use, so I chose PC-15. The filament inside of PC-15 was PETG, so I made sure that my model was using the correct filament. Below shows a picture of my artifact with my partners, Andrew, with all of the specifications.
 
-<p align="center">
-    <img src="petg_info.png" alt="Prusa_interface" height="75%" width="auto">
-</p>
-<p align="center">
-    <img src="sliced_info.png" alt="sliced_info" height="75%" width="auto">
-</p>
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; text-align: center; vertical-align:middle;">
+      <img src="petg_info.png" alt="Prusa_interface" height="100%" width="auto">
+    </td>
+    <td style="width:50%; text-align: center; vertical-align:middle;">
+      <img src="sliced_info.png" alt="sliced_info" height="100%" width="auto">
+    </td>
+  </tr>
+</table>
 
 ### 3D Printing
