@@ -183,7 +183,7 @@ I noticed that this design wasn't as good as I initially thought it was after 3D
 
 With all of these issues being present in the 3D print, I didn't feel like it showed enough information for what the goal of the assignment was. That is why I will keep all of the issues with design 1 in mind while designing design 2.
 
-If you are want to get a better understanding of the issues I am talking about, here is the CAD file and STL file to get a better understanding: [CAD file](bridge_test.SLDPRT)    |    [STL file](bridge_test.stl)
+If you are want to get a better understanding of the issues I am talking about, here is the CAD file and STL file to get a better understanding: [CAD file](bridge_test.SLDPRT)    |    [STL file](bridge_test.STL)
 
 ### Design 2
 
@@ -452,7 +452,7 @@ I was able to get a video of our artifacts being printed at about 60% completion
 
 Based on the results of design 2, the Prusa Core One 3D printers are able to print bridge gaps up to 12mm. 12mm doesn't seem to be 100%, as there was slight variance from design 1 to design 2, but I think it is similar in quality as the bridge gaps before it. I do wonder if the results would change if I switched the filament from PETG to PLA. From my understanding, PETG is more sturdy than PLA, so it is possible that PETG is helping the Prusa Core One outperform the design rule.
 
-Here is the CAD file and STL file if you'd like to test out your own 3D printing machine: [CAD file](bridge_test2.SLDPRT)    |    [STL file](bridge_test2.stl)
+Here is the CAD file and STL file if you'd like to test out your own 3D printing machine: [CAD file](bridge_test2.SLDPRT)    |    [STL file](bridge_test2.STL)
 
 ## Things to Change
 
