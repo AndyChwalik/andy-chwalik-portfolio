@@ -440,7 +440,7 @@ I was able to get a video of our artifacts being printed at about 60% completion
   </tr>
     <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design2_front.pdf" alt="front_of_finished_design" style="width:100%; height:auto;">
+      <img src="design2_front.jpg" alt="front_of_finished_design" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
