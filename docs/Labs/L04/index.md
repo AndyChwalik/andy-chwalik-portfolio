@@ -402,6 +402,9 @@ Andrew and I were able to get the same 3D printer as last time, PC-15, so we exp
 
 I was able to get a video of our artifacts being printed at about 60% completion. The video shows a full layer being 3D printed. Since my part has a lot of spaced out support legs, it makes it a much more time consuming process than if everything was connected together. 
 
+<p align="center">
+  <img src="full_video.gif" alt="3D_printing_process">
+</p>
 
 
 <table style="width:100%;">
