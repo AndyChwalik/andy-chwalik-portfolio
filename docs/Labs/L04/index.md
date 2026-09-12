@@ -43,7 +43,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        Once the base of my design was established, I could move onto the legs of the bridge gaps. To design the legs, I created a 5mm x 5mm box on the top left and top right corner of my base. Those represented my two extreme values. I then created another 5mm x 5mm box 8mm away from the top left and 12mm from the top right. Those dimensions are the bridge gap dimensions. 
+        Once the base of my design was established, I could move onto the legs of the bridge gaps. To design the support legs, I created a 5mm x 5mm box on the top left and top right corner of my base. Those support legs were the starting positions for my 8mm bridge gap and 12mm bridge gap. To finish the design for the support legs, I created another 5mm x 5mm box directly under the starting position with the bridge gap distance between them. So, the 8mm bridge gap will have a 8mm gap between the support legs and the 12mm bridge gap will have a 12mm gap between the support legs 
       </div>
     </td>
   </tr>
@@ -53,7 +53,7 @@ To eliminate risk of other failures unrelated to the design rule I picked, I dec
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        Now that I have the two leg ends of my design, I can work on offsetting those points to get the rest of the bridge gaps. Since all of my bridge gaps had the same starting position, I was able to create the 5mm x 5mm boxes along the top 4mm apart from each other. After doing so, the space on the top part of my base plate was all used up because the base plate was designed for 5mm x 5mm legs that were 4mm apart from each other. Since all of the starting positions for the bridge gaps were in place, I wanted to start on creating that bridge gap on the base plate. I was able to accomplish this in the same way I did the first bridge gap and the last bridge gap (creating another 5mm x 5mm box directly across from the starting point and making sure that the starting support leg and the final support leg had the proper bridge gap distance between them).  
+        Now that I have the smallest and largest support legs for my design, I can work on offsetting those points to get the rest of the support legs. Since all of my bridge gaps had the same starting position, I was able to create the 5mm x 5mm boxes along the top 4mm apart from each other. Since all of the starting positions for the support legs were in place, I wanted to start making the support legs on the bottom side of the base plate. I was able to accomplish this in the same way I did the first bridge gap and the last bridge gap (creating another 5mm x 5mm box directly across from the starting point and making sure that the starting support leg and the final support leg had the proper bridge gap distance between them).  
       </div>
     </td>
   </tr>
@@ -449,3 +449,11 @@ I was able to get a video of our artifacts being printed at about 60% completion
     </td>
   </tr>
 </table>
+
+Based on the results of design 2, the Prusa Core One 3D printers are able to print bridge gaps up to 12mm. 12mm doesn't seem to be 100%, as there was slight variance from design 1 to design 2, but I think it is similar in quality as the bridge gaps before it. I do wonder if the results would change if I switched the filament from PETG to PLA. From my understanding, PETG is more sturdy than PLA, so it is possible that PETG is helping the Prusa Core One outperform the design rule.
+
+Here is the CAD file and STL file if you'd like to test out your own 3D printing machine: [CAD file](sdgogn)    |    [STL file](sodgsodg)
+
+## Things to Change
+
+## Lessons Learned
