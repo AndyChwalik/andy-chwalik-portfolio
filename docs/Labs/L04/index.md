@@ -146,11 +146,40 @@ Once my orientation was fixed, I was thinking about what infill type and infill 
 
 #### 3D Printing
 
-I noticed that this design wasn't as good as I initially thought it was after 3D printing was completed. The 3D printing step went really well, and I will go more in depth of what exactly I did to 3D print in design 2, but the resulting product isn't what I hoped for. It is extremely hard to see if something failed due to all of the support legs being the same height, and going to just 2mm above the recommended bridge gap didn't really show any difference from the 8mm bridge gap. I had to bend the design, using pliers, just to see what happened in the middle. That is why my artifact looks warped in the picture. It was still hard to see because the artifact is so small.
+I noticed that this design wasn't as good as I initially thought it was after 3D printing was completed. The 3D printing step went really well, and I will go more in depth of what exactly I did to 3D print in design 2, but the resulting product isn't what I hoped for. It is extremely hard to see if something failed due to all of the support legs being the same height, and going to just 2mm above the recommended bridge gap didn't really show any difference from the 8mm bridge gap. I had to bend the design, using pliers, just to see what happened in the middle.
 
-<p align="center">
-    <img src="first_design.jpg" alt="first_design_3D_printed" style="width:100%; height:auto;">
-</p>
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_side.jpg" alt="Prusa_interface" height="100%" width="auto">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;">
+        <div style="font-size:14px;">
+      Here is the design printed out from the side. As I said, I bent the back of the design so that I could get a better look at the individual bridge gaps.
+        </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_bent.jpg" alt="Prusa_interface" height="100%" width="auto">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;">
+        <div style="font-size:14px;">
+      Here is the design from behind the bent part of the design. It was the only way I could get a good look at what was happening in the middle of my artifact.
+        </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_front.jpg" alt="Prusa_interface" height="100%" width="auto">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;">
+        <div style="font-size:14px;">
+      Here is the design from the front. As you can see, it is extremely difficult to see anything that is happening. The bridge gaps that are visible, have no errors with them.
+        </div>
+    </td>
+  </tr>
+</table>
 
 With all of these issues being present in the 3D print, I didn't feel like it showed enough information for what the goal of the assignment was. That is why I will keep all of the issues with design 1 in mind while designing design 2.
 
@@ -181,7 +210,7 @@ Adding all of these extra features will definitely increase my print time, but n
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="legs1_sketch.png" alt="leg1_sketch" style="width:100%; height:auto;">
     </td>
-    <td style="width:40%; padding:28px; vertical-align:middle;"">
+    <td style="width:40%; padding:28px; vertical-align:middle;">
       <div style="font-size:14px;">
         I moved onto designing the support legs. Unlike design 1, the support legs will be different heights, so I have to do a separate sketch for each individual support leg. To layout the support legs, I made a 5mm x 5mm box at the top of the base plate, and then I made another 5mm x 5mm box directly below at the distance of the bridge gap. In the picture shown, I was modeling the first bridge gap, so the two support legs will be 8mm apart. The next bridge gap will be 9mm apart, continuing all the way up to the 15mm bridge gap.
       </div>
@@ -334,3 +363,86 @@ I saved my CAD model as an stl file, and moved onto Prusaslicer. Similar to desi
 </table>
 
 #### 3D Printing
+
+Andrew and I were able to get the same 3D printer as last time, PC-15, so we exported the g-code file from Prusaslicer onto the USB labeled PC-15 and plugged it into the 3D printer. When I plugged in the USB, our file popped up onto the little screen at the bottom of the 3D printer
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="standby_screen.jpg" alt="standby_screen" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is the popup screen. It shows the parts print time and the type of material that is on the file. I am assuming that material is on there to make sure the user is using the correct filament, but that is just a guess.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="standby_screen.jpg" alt="standby_screen" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        When I pressed print, a percentage bar came up with some settings and the options of stopping or pausing the print. In this picture, the 3D printer was heating up. The nozzle and the bed need to heat up before the printer can print so that filament melts properly.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="3d_printing_full.jpg" alt="3d_printing_full" style="width:100%; height:auto;">
+        <img src="3d_24_percent.jpg" alt="24% completed" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        This is what the 3D printer looks like at 24% completed. The bed is raised near the top of the machine, and it moves down as the print gets taller. I think this is if someone decided to print a larger object
+      </div>
+    </td>
+  </tr>
+</table>
+
+I was able to get a video of our artifacts being printed at about 60% completion. The video shows a full layer being 3D printed. Since my part has a lot of spaced out support legs, it makes it a much more time consuming process than if everything was connected together. 
+
+
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_front_angle.jpg" alt="finished_design" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is what my artifact looked like after the 3D print was fully completed. I think the changes definitely helped with analyzing the bridge gap test. The varying height makes it much more noticeable to see issues than previously, and the hole in the bottom gives me easy access to see problems under the bridge gaps.
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_front.jpg" alt="front_of_finished_design" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        This is a more clear picture of the height difference between the different bridge gaps. Unfortunately my camera focused on the bridge gap that follows the original rule, 10mm, so it is kind of hard to see the differences. 
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_back.jpg" alt="front_of_finished_design" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Due to the lack of visibility from the front, because of the blurriness, here is a picture of the back. Looking at the longest bridge gaps, it is more noticeable that there is a little bit of failure occurring. In the middle to right side, there is a little bit of material sagging down. This effect is even present on the third longest bridge 
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_front.pdf" alt="front_of_finished_design" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is the bottom view of my artifact. I couldn't see as much failure as I wanted to from this angle, but I think it still made it more convenient to look around the object. 
+      </div>
+    </td>
+  </tr>
+</table>
