@@ -452,7 +452,7 @@ I was able to get a video of our artifacts being printed at about 60% completion
 
 Based on the results of design 2, the Prusa Core One 3D printers are able to print bridge gaps up to 12mm. 12mm doesn't seem to be 100%, as there was slight variance from design 1 to design 2, but I think it is similar in quality as the bridge gaps before it. I do wonder if the results would change if I switched the filament from PETG to PLA. From my understanding, PETG is more sturdy than PLA, so it is possible that PETG is helping the Prusa Core One outperform the design rule.
 
-Here is the CAD file and STL file if you'd like to test out your own 3D printing machine: [CAD file](sdgogn)    |    [STL file](sodgsodg)
+Here is the CAD file and STL file if you'd like to test out your own 3D printing machine: [CAD file](bridge_test2.SLDPRT)    |    [STL file](bridge_test2.stl)
 
 ## Things to Change
 
