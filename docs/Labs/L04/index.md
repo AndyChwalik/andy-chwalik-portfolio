@@ -472,4 +472,9 @@ Even though I thought the second test went better, there could always be improve
 - It is my second time using SolidWorks, and I am getting more used to how the environment and tools work inside SolidWorks.
 - How to actually download SolidWorks on my laptop so I can work on projects anywhere.
 
+## Resources
+
+- [3d_printing_design_rules](3D_Printing_Design_Rules.pdf)
+- [FDM Design Rules](https://3dput.com/how-to-design-3d-printable-parts-fdm-design-rules-and-best-practices/)
+
 This assignment took me about 8 hours.
