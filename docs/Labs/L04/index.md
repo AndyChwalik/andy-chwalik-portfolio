@@ -456,4 +456,20 @@ Here is the CAD file and STL file if you'd like to test out your own 3D printing
 
 ## Things to Change
 
+Even though I thought the second test went better, there could always be improvements made on the design.
+
+- I thought that I probably should've switched from PETG to PLA filament. Since PETG is made for sturdier components, it is possible that it influenced how well the 3D printer could print my artifact. Switching to PLA would've given a better benchmark.
+- Even though the height adaptation from the first design was good, I think if I made the whole design a single line with varying bridge lengths, it would've made it easier to view the failures. So a single line with every bridge gap on it to view each individual bridge gap from the side.
+- I should've varied my bridge lengths by greater margins. I only added or took away 1mm. Although there are signs of failure, I wish I had different visuals for the start of a failure to full failure. So maybe if I did +/- 2mm since that seemed to be where the failure started to occur.
+- With my printing time not being limited anymore, I should've made the whole structure bigger and easier to look at. The bridge gaps can remain the same distance, but the leg supports could be much larger as well as the distance between each bridge gap.
+- Maybe I should've used a different infill. I was focused on printing speed with little stability. I think if I used concentric infill, it would've allowed my structure to more flexible, allowing me to look around without elongating the filament.
+
 ## Lessons Learned
+
+- Based on how I had to make a second design, the results are not what I expected. I thought that the margins for error were much thinner than they actually were. In hind sight, I should've expected that the 3D printers would outperform a little bit, but I didn't expect the Prusa Core One to do as well as it did.
+- From my results, the Prusa Core One outperforms the design rule by 2mm. Right after 12mm, there are signs of slight failure occurring.
+- Some testing and projects take multiple different designs that go through the exact same design process every time.
+- It is my second time using SolidWorks, and I am getting more used to how the environment and tools work inside SolidWorks.
+- How to actually download SolidWorks on my laptop so I can work on projects anywhere.
+
+This assignment took me about 8 hours.
