@@ -7,7 +7,7 @@ The goal for Lab 5 was to create two separate parts that are able to connect wit
 Snap fits use the property of elastic deformation in order to connect and disconnect. The pressure bends part of the connection, so you are able to slide the parts together. To lock them in place, there is a lip to stop the parts from coming out. To unlock them, you use the same elastic deformation properties to bend the locking material away, so that they can detach from each other.
 
 <p align="center">
-  <img src="example.jpeg" alt="example_snap_fit" style="width:50%; height=auto"/>
+  <img src="example.jpg" alt="example_snap_fit" style="width:50%; height=auto"/>
   <br>
   <em>Here are some different types of snap fits and a visual representation if it is hard to picture through words.</em>
 </p>
