@@ -339,16 +339,6 @@ My allowable stress and axial stress were still the exact same as design because
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="deisgn2_clip_width.png" alt="clip_width" style="width:100%; height:auto;">
-    </td>
-    <td style="width:40%; padding:28px; vertical-align:middle;"">
-      <div style="font-size:14px;">
-        I then made sure that the widths of each clip were correct. I assigned each value with the width global variable. I made sure to assign the same values to the left side as I did for the right side.
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="design2_clip_catchers.png" alt="clip_catchers" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
@@ -484,4 +474,115 @@ This print would take a decent amount of time, 45 minutes, but it isn't nearly a
 </p>
 
 ### 3D Printing
+
+3D printing went pretty smoothly. I used PC-10 because it was the first 3D printer I saw that had PLA filament in it and wasn't being used. I didn't check if the filament was tangled before 3D printing, but it didn't cause any issues. I was untangling it as it printed. Here is what the 3D print looked like around 40% completed.
+
+<p align="center">
+    <img src="design2_midprint.jpg" alt="midprint" height="75%" width="auto">
+</p>
+
+It is kind of hard to see, due to the white filament, but this is where the supports were being made. It was interesting to see the difference between the infill pattern vs the support pattern. Here is a video of the machine 3D printing around the same percentage.
+
+[video]
+
+The 3D print took about as long as the estimated amount of time. If anything, it finished slightly faster, but only by a minute. My completed 3D print looked really promising on the bed. I didn't see any printing flaws, and the dimensions looked perfect.
+
+<p align="center">
+    <img src="design2_finished_bed.jpg" alt="finished_bed" height="75%" width="auto">
+</p>
+
+It was super easy to get the objects off the printing bed as well. I was able to just grab the part and peel it off with very little force. I didn't have to use a scrapper like I did for the previous labs. I thought it was super cool to see the supports on my design. I have never used supports before, so it was something new. Here is what my attachment looks like with the supports still in vs the supports removed.
+
+<p align="center">
+    <img src="design2_attachment_support.jpg" alt="supports" height="75%" width="auto">
+</p>
+<p align="center">
+    <img src="design2_attachment_support_broken.jpg" alt="supports_broken" height="75%" width="auto">
+</p>
+
+### Testing
+
+Once the supports were broken off, I tried out my design, and I ran into some issues. My measurements were so exact while designing, that it was really hard to actually detach the clip from the snap fit. To get the clip to detach, I had to use a flat-head screwdriver to pry it away from the attachment. It was still pretty difficult to seperate them. Here is a video of me demonstrating.
+
+[video]
+
+Struggling so much to detach my snap fit from each other, I decided to change the attachment part of my design. Since I made the dimensions so exact, it made it hard to separate the two objects. That is why I was thinking of giving more tolerance to the attachment piece so there is more wiggle room. This is also the reason why my CAD files and STL files have different dimensions from what I designed previously.
+
+#### Modifications
+
+##### CAD
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_base_modifications.png" alt="base_modifications" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The first thing I changed was the width of the prongs. I thought if I made them thinner, I would have more room to pull the clip out, making it easier to detach the two objects. I decided to halve it just because it was easy to write since I already had them assigned to the base value.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_base_modified_length.png" alt="length_modified" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Next, I made the width of the entire object smaller. It is the same theory for why I made the prongs thinner. I also made the prongs shorter so that there was more room for the clip to move. This will make the prong lose, but it should stay attached until I put pressure on it.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_hole_modifications.png" alt="hole_modifications" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I also decided to add 0.05in to both dimensions for the hole. It has the same theory behind it as the previous changes. I am worried that this may make it too lose, but it was kind of hard to get the clip to clip all the way in, so I think it is necessary.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_extra_walls.png" alt="extra_walls" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The final thing I decided to add was two extra walls, making the entire attachment a box. This was to stop the walls from flexing as much as the clip. Since they were made with similar dimensions, I found that they both flexed similar amounts to connect. I didn't like that, so I created those two extra walls to stop that from happening.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_modified_assembly.png" alt="modified_assembly" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is what my final design should look like. It looks a little loose in the assembly, but it should still work as intended.
+      </div>
+    </td>
+  </tr>
+
+##### PrusaSlicer
+
+This really changed two things for my PrusaSlicer file: Supports and the time it takes to print. Now that I have an entire box, I have to think about supports. I decided not to avoid the supports by aligning upright because it would make it structurally worse, and I wanted to explore supports. To see which supports I needed, I used the automatically paint supports button, and it created this line down the middle. I am excited to see what it looks like printed out.
+
+<p align="center">
+    <img src="design2_modified_painted_supports.png" alt="painted_supports" height="75%" width="auto">
+</p>
+
+With my new supports, here is what my file should look like about half of the way through printing.
+
+<p align="center">
+    <img src="design2_modified_infill.png" alt="infill" height="75%" width="auto">
+</p>
+
+Overall, I think these modifications should fix the design even though the print will take slightly longer than previously.
+
+<p align="center">
+    <img src="design2_modified_prusa.png" alt="modified_prusa" height="75%" width="auto">
+</p>
+
+##### 3D Printing
 
