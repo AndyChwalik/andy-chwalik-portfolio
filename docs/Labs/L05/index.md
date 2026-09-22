@@ -145,11 +145,71 @@ I did the same thing with axial stress, but used the axial load instead of the t
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design1_base_box.png" alt="base_dimensions" style="width:100%; height:auto;">
+      <img src="design1_extrusion.png" alt="clip_base_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        The first thing I did was make an outline of the box that would be holding all of my 3D designed parts. Based on my drawings, this would be 6in x 12 in x 6in.
+        After finishing the hollowed out top, I moved onto actually designing the clips that will connect the two boxes together. To do this, I created a box with the dimensions of the width and base of the clip at the very edge of the hollowed out top.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_clip_extrusion.png" alt="clip_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once this part was extruded, I had the correct dimensions for the clip, and I could extrude this extension to the length I calculated earlier. I used the length global variable for this.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_clip_catch_extrusion.png" alt="catch_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then started to create a catching mechanism so that the clip snap into place. To do this, I made another box, the dimensions being the base and width, at the very edge of the clip. I then extruded this by 0.15in. I chose 0.15in so that it would be easier to detach once it was snapped together.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_clip_catch_angle.png" alt="clip_catch_angle" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To add some angle to the design, I added a 44 degree angle at the catch point. I am actually not sure what it does, but I see it pretty often on these type of snap fits. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_clip_catch_angle_extrusion.png" alt="clip_catch_angle_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I extruded this angle through the entire catching mechanism.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_mirror.png" alt="mirror" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        My snap clip is now finished. Instead of repeating all of the steps I just did on the other side, I created a plane in the middle of my object so that I could mirror it to the other side with the exact same dimensions. This also makes it so that both clips dimensions will change together if I decide to change them. It also rounds out the design for the top of my part.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_assembly.png" alt="assembly" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I put both of them in an assembly to get a good idea of what everything will look like together. I made the top of the clip catch coincident with the top of the hole on the base and I made the walls of those two objects coincident to each other. This gave me a picture of what my model would look like all put together.
       </div>
     </td>
   </tr>
