@@ -277,7 +277,7 @@ All of the other values stayed the same because they either had to, young's modu
 ##### Length
 
 <p align="center">
-    <img src="design2_calculations.jpg" alt="calculations" height="75%" width="auto">
+    <img src="design2_length.jpg" alt="calculations" height="75%" width="auto">
 </p>
 
 My calculations for length are very similar to design 1. I used the exact same equation, and did the exact same algebra as before but I substituted my new values into the equation. My new values lowered the length of my snap by about a full inch, so I think the new numbers are working well.
@@ -301,7 +301,7 @@ Once I had my free-body-diagrams, I drew an isometric drawing for what I was thi
 I used the same equation from design 1 for the same reasons, but with different numbers. Since my transverse load is higher, my bending stress will also be higher, but after calculations, I was still under the safety factor by over 1000psi. I think it is mostly because of the reduced length, and the switched width and base values in the denominator.
 
 <p align="center">
-    <img src="design2_stresses.jpg" alt="stress calculations" height="75%" width="auto">
+    <img src="design2_stress.jpg" alt="stress calculations" height="75%" width="auto">
 </p>
 
 My allowable stress and axial stress were still the exact same as design because I didn't change any of the values for those two calculations. This means my design meets all of the design requirements, and I am ready to 3D model again.
