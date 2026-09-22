@@ -602,7 +602,7 @@ Overall, I think these modifications should fix the design even though the print
 I used the same printer as before because I nobody is using it. I also made my modifications pretty quickly. The printing process went just as smooth as before. I made sure to untangle all of the filament this time so I don't have to micromanage the filament. I thought it was really cool seeing the support being made in the middle while printing. It is much more noticeable on this print because it is more isolated than before. That is probably why the last print didn't necessarily need it.
 
 <p align="center">
-    <img src="design2_modifications_halfprint.png" alt="half_print" height="75%" width="auto">
+    <img src="design2_modifications_halfprint.jpg" alt="half_print" height="75%" width="auto">
 </p>
 
 Here is the process of my modified object being 3D printed.
@@ -612,7 +612,7 @@ Here is the process of my modified object being 3D printed.
 I think the final product turned out really well. Even though the fit isn't that tight, the snap fit does it's job. Pulling on the snap fit, it feels like it can hold a lot of weight. I also made sure that the snap fit can't slide off due to my modifications. It looks close, but it can't unless you put in a some effort. 
 
 <p align="center">
-    <img src="design2_finished_print.png" alt="finished_print" height="75%" width="auto">
+    <img src="design2_finished_print.jpg" alt="finished_print" height="75%" width="auto">
 </p>
 
 Here is a video of me playing around with it. This design actually has that snapping sound, which I am assuming is how the snap fit got its name.
