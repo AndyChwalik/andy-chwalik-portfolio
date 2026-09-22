@@ -214,6 +214,11 @@ I did the same thing with axial stress, but used the axial load instead of the t
     </td>
   </tr>
 
+After I 3D modeled my snap fit, I exported my individual part files as stl files to combine in a PrusaSlicer file. Here are my CAD files if you'd like to replicate what I have made: [Body_PART](body.SLDPRT)  |  [Body_STL](body.STL)  |  [Top_PART](top.SLDPRT)  |  [Top_STL](top.STL)  |  [Assembly](final_box.SLDASM)
+
+#### Prusa Slicer
+
+Now that my part is fully 3D modeled
 
 ### Design 2
 
