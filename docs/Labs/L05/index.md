@@ -495,7 +495,9 @@ This print would take a decent amount of time, 45 minutes, but it isn't nearly a
 
 It is kind of hard to see, due to the white filament, but this is where the supports were being made. It was interesting to see the difference between the infill pattern vs the support pattern. Here is a video of the machine 3D printing around the same percentage.
 
-[video]
+<p align="center">
+  <img src="design1_printing_video.gif" alt="testing">
+</p>
 
 The 3D print took about as long as the estimated amount of time. If anything, it finished slightly faster, but only by a minute. My completed 3D print looked really promising on the bed. I didn't see any printing flaws, and the dimensions looked perfect.
 
@@ -516,7 +518,9 @@ It was super easy to get the objects off the printing bed as well. I was able to
 
 Once the supports were broken off, I tried out my design, and I ran into some issues. My measurements were so exact while designing, that it was really hard to actually detach the clip from the snap fit. To get the clip to detach, I had to use a flat-head screwdriver to pry it away from the attachment. It was still pretty difficult to seperate them. Here is a video of me demonstrating.
 
-[video]
+<p align="center">
+  <img src="design1_demo.gif" alt="3D_printing_process">
+</p>
 
 Struggling so much to detach my snap fit from each other, I decided to change the attachment part of my design. Since I made the dimensions so exact, it made it hard to separate the two objects. That is why I was thinking of giving more tolerance to the attachment piece so there is more wiggle room. This is also the reason why my CAD files and STL files have different dimensions from what I designed previously.
 
@@ -607,7 +611,9 @@ I used the same printer as before because I nobody is using it. I also made my m
 
 Here is the process of my modified object being 3D printed.
 
-[video]
+<p align="center">
+  <img src="design2_printing.gif" alt="3D_printing_process">
+</p>
 
 I think the final product turned out really well. Even though the fit isn't that tight, the snap fit does it's job. Pulling on the snap fit, it feels like it can hold a lot of weight. I also made sure that the snap fit can't slide off due to my modifications. It looks close, but it can't unless you put in a some effort. 
 
@@ -617,6 +623,8 @@ I think the final product turned out really well. Even though the fit isn't that
 
 Here is a video of me playing around with it. This design actually has that snapping sound, which I am assuming is how the snap fit got its name.
 
-[video]
+<p align="center">
+  <img src="design2_demo.gif" alt="testing">
+</p>
 
 ## Lessons Learned
