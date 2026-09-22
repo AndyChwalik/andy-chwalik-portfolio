@@ -465,3 +465,23 @@ These values are modified from what I designed here, and I will talk about why a
 
 ### PrusaSlicer
 
+Moving into PrusaSlicer, I imported my two STL files from before. These objects were much better on size. I didn't have to re-scale either of them. I mostly kept the default orientation, since I didn't really have a reason to change it. I think if I were to change something, I probably should've decreased the wall thickness so that my part could flex a little more, but it shouldn't be that noticeable.
+
+<p align="center">
+    <img src="design2_prusa" alt="pursa" height="75%" width="auto">
+</p>
+
+I was slightly nervous about the hole in the attachment part so I went to go paint on supports for it. I used the automatic painting tool, but it didn't paint anything on my part. I think that means that it doesn't think that it is necessary to add a support to this part, but I decided to paint a little area for support anyway. I would rather be safe than sorry.
+
+<p align="center">
+    <img src="design2_painted_supports.png" alt="painted_supports" height="75%" width="auto">
+</p>
+
+This print would take a decent amount of time, 45 minutes, but it isn't nearly as long as design 1. The printing time is actually really similar to design 2 from L04. This design also saves a ton on filament, which was my goal.
+
+<p align="center">
+    <img src="design2_prusa_info.png" alt="calculations" height="75%" width="auto">
+</p>
+
+### 3D Printing
+
