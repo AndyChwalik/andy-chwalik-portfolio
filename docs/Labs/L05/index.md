@@ -497,7 +497,7 @@ It was super easy to get the objects off the printing bed as well. I was able to
     <img src="design2_attachment_support.jpg" alt="supports" height="75%" width="auto">
 </p>
 <p align="center">
-    <img src="design2_attachment_support_broken.jpg" alt="supports_broken" height="75%" width="auto">
+    <img src="deisng2_attachment_support_broken.jpg" alt="supports_broken" height="75%" width="auto">
 </p>
 
 ### Testing
