@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# L06 - Design Fits for an Artifact
 
 ## Objective
 
