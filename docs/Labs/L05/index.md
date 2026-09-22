@@ -33,11 +33,24 @@ For me to decide on my maximum deflection, I had to gauge how big I wanted my la
 Now that I had all of my known values, I started solving for the important mechanical properties of my snap fit: length and bending stress. To get the length of my snap fit, I used the beam equation for the cantilever beam from A03 from the lecture portion of this class. P represents the transverse load, L represents the length, E represents young's modulus, I represents moment of inertia, and δ is the max deflection I want. When I solve for L, and plug in the known values, I get the length of my snap fit to be 3.49in. This is longer than I expected, but I was trusting the process.
 
 ##### Free-Body-Diagram
+
 Once I had the length of my snap fit, I decided to create free-body-diagrams of the clip and what the clip is connected to. The clip has the transverse load acting on it, creating a moment about the clip. There is also the axial force acting on the clip from the connection point. The axial load doesn't affect the moment as it is apart of the axis I was taking the moment from. 
+
+<p align="center">
+    <img src="design1_FBD_clips.jpg" alt="FBD Clips" height="75%" width="auto">
+</p>
 
 The connection point for the clip was a simple free-body-diagram since the axial force is the only thing that really affected it. The transverse load affected it slightly, but I didn't think it would be severe enough to take any major considerations into.
 
+<p align="center">
+    <img src="design1_FBD_connection.jpg" alt="FBD Connection" height="75%" width="auto">
+</p>
+
 I also drew some isometric pictures to get a general idea of what I was expecting when 3D printing this material. The box would be 6in by 12in, meaning that it is too large for the 3D printer to print, but I didn't know that at the time. It would also take up a lot of material.
+
+<p align="center">
+    <img src="design1_isometric.jpg" alt="isometric" height="75%" width="auto">
+</p>
 
 
 ##### Bending and Axial Stress
@@ -213,12 +226,73 @@ I did the same thing with axial stress, but used the axial load instead of the t
       </div>
     </td>
   </tr>
+</table>
 
 After I 3D modeled my snap fit, I exported my individual part files as stl files to combine in a PrusaSlicer file. Here are my CAD files if you'd like to replicate what I have made: [Body_PART](body.SLDPRT)  |  [Body_STL](body.STL)  |  [Top_PART](top.SLDPRT)  |  [Top_STL](top.STL)  |  [Assembly](final_box.SLDASM)
 
-#### Prusa Slicer
+#### PrusaSlicer
 
-Now that my part is fully 3D modeled
+Moving onto PrusaSlicer, I imported my stl files from my two CAD models. When I imported the base, I got a very good understanding how big of a part I was actually designing. It was too large for the bed of the 3D printer, so I scaled down both parts by 50% so that they would both still fit on the bed.
+
+<p align="center">
+    <img src="design1_prusa.png" alt="Prusa_slicer" height="75%" width="auto">
+</p>
+
+Since I am new to using supports, I used the automatically paint supports feature inside PrusaSlicer. This will identify the parts of my design that needed to be supported and apply supports to them during the 3D print.
+
+<p align="center">
+    <img src="design1_painted_supports.png" alt="painted_supports" height="75%" width="auto">
+</p>
+
+After I painted my supports, I really started to realize how much material I was using just to demonstrate a simple snap fit. I really started to rethink my design choices because I didn't want to spend an unnecessary amount of money just so that I can hold my 3D prints. If I really wanted to hold my 3D prints, I could find any cardboard box that I have lying around to hold them. 
+
+Because of these reasons, I decided to abandon design 1 here at the PrusaSlicer step. I didn't 3D print it for material cost and time. It would about 2 and a half hours to 3D print, which is just an absurd amount of time for such a simple project. I think everything was a little extreme on every scale.
 
 ### Design 2
+
+Going into design 2, I really wanted to limit the material I was going to use in comparison to design 1. It should be very achievable given the size of design 1, but to make sure, I tried to decrease the length of the snap fit. To do this, while staying within the safety factor, I decided to increase the transverse load from 2.5llbf to 5.0lbf, switch the base and width values, and make the max deflection a smaller value.
+
+#### Paper Calculations
+
+The point of the increased transverse load was to create a bigger denominator for the length calculation. Since transverse load is on the bottom, it should decrease the length of the snap fit. I switched the base and width values not for the snap length, but to keep my design within the safety factor. If I kept them the way they were, my design would've failed. I know this because I changed the values inside of my equation sheet from design 1, and calculated it. Making the max deflection a smaller value is to make the numerator for the length equation smaller, making the length smaller.
+
+<p align="center">
+    <img src="design2_knowns.jpg" alt="Knowns and Unknowns" height="75%" width="auto">
+</p>
+
+All of the other values stayed the same because they either had to, young's modulus and yield strength, or they had little to no affect on the physical capabilities of my design, axial load.
+
+##### Length
+
+<p align="center">
+    <img src="design2_calculations.jpg" alt="calculations" height="75%" width="auto">
+</p>
+
+My calculations for length are very similar to design 1. I used the exact same equation, and did the exact same algebra as before but I substituted my new values into the equation. My new values lowered the length of my snap by about a full inch, so I think the new numbers are working well.
+
+##### Free-Body-Diagrams
+
+As I did in design 1, I created free-body-diagrams for the different components apart of my design. I created two FBDs for the two clips that will be attaching and the connection point for them. The FBDs are mirrored for the clips since they are the exact same dimensions and forces but on opposite sides of each other. The connection FBD is the same as design 1, where I just have the axial load applied to it. The moments from the clips shouldn't affect the connection point at all since everything should cancel out.
+
+<p align="center">
+    <img src="design2_FBD.jpg" alt="free-body-diagrams" height="75%" width="auto">
+</p>
+
+Once I had my free-body-diagrams, I drew an isometric drawing for what I was thinking. It is a little zoomed in, as the length isn't very proportional on the isometric view. If it were proportional, there would be a lot of wasted material.
+
+<p align="center">
+    <img src="design2_isometric.jpg" alt="isometric" height="75%" width="auto">
+</p>
+
+##### Bending and Axial Stress
+
+I used the same equation from design 1 for the same reasons, but with different numbers. Since my transverse load is higher, my bending stress will also be higher, but after calculations, I was still under the safety factor by over 1000psi. I think it is mostly because of the reduced length, and the switched width and base values in the denominator.
+
+<p align="center">
+    <img src="design2_stresses.jpg" alt="stress calculations" height="75%" width="auto">
+</p>
+
+My allowable stress and axial stress were still the exact same as design because I didn't change any of the values for those two calculations. This means my design meets all of the design requirements, and I am ready to 3D model again.
+
+### CAD Modeling
 
