@@ -85,7 +85,7 @@ I did the same thing with axial stress, but used the axial load instead of the t
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design1_base.png" alt="base_shell" style="width:100%; height:auto;">
+      <img src="design1_shell.png" alt="base_shell" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
