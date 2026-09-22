@@ -563,6 +563,7 @@ Struggling so much to detach my snap fit from each other, I decided to change th
       </div>
     </td>
   </tr>
+</table>
 
 ##### PrusaSlicer
 
