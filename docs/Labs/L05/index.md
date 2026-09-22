@@ -519,7 +519,7 @@ It was super easy to get the objects off the printing bed as well. I was able to
 Once the supports were broken off, I tried out my design, and I ran into some issues. My measurements were so exact while designing, that it was really hard to actually detach the clip from the snap fit. To get the clip to detach, I had to use a flat-head screwdriver to pry it away from the attachment. It was still pretty difficult to seperate them. Here is a video of me demonstrating.
 
 <p align="center">
-  <img src="design1_demo.gif" alt="3D_printing_process">
+  <img src="design1_demo.gif" alt="testing">
 </p>
 
 Struggling so much to detach my snap fit from each other, I decided to change the attachment part of my design. Since I made the dimensions so exact, it made it hard to separate the two objects. That is why I was thinking of giving more tolerance to the attachment piece so there is more wiggle room. This is also the reason why my CAD files and STL files have different dimensions from what I designed previously.
