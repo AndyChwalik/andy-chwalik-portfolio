@@ -296,3 +296,172 @@ My allowable stress and axial stress were still the exact same as design because
 
 ### CAD Modeling
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_equations.png" alt="equations" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The first thing I did was fill out the global variables and equations that I will be using to design my snap fit. I put in every single known variable that would be useful while designing. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_clip_length.png" alt="clip_length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I decided to 3D model the clip first this time. I made a rough outline for what I wanted the clip to look like. The first dimension I assigned was the length of the clip. I made it equal to the global variable that I set.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="deisgn2_clip_width.png" alt="clip_width" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then made sure that the widths of each clip were correct. I assigned each value with the width global variable. I made sure to assign the same values to the left side as I did for the right side.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_clip_attachment_length.png" alt="attachment_length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I adjusted the length of the beam attaching the two clips together. I decided to just make the length equal to the length variable for simplicity and consistency.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="deisgn2_clip_width.png" alt="clip_width" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then made sure that the widths of each clip were correct. I assigned each value with the width global variable. I made sure to assign the same values to the left side as I did for the right side.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_clip_catchers.png" alt="clip_catchers" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The next thing I did was design the catchers that are on the clip. I just drew a rough triangle shape. I didn't measure them initially, but I later assigned them the base value. I used a centerline to mirror the exact shape across the middle.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_clip_fillets.png" alt="clip_fillet" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After, I applied fillets to the rough corners of the design. I thought it would make the design look better and perform better under higher stresses.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_clip_extrusion.png" alt="clip_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once the fillets were finished, the clip was completed and ready to be extruded. I extruded the clip to the width value. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_base_length.png" alt="base_length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that the snap clip is completed, I had to design the object it was going to snap to. I started very similarly to how I designed the clip. I made a rough U shape, and assigned the long part on the bottom with the length - 2*base. I did this so that my clip would fit perfectly over my connection and everything would be snug. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_base_attachment.png" alt="base_width" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Next, I gave values to the long prongs on the sides. Since the width of my prongs on the clip were equal to the base variable, I made these equal to the base variable. This will make everything snug.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_base_extrusion.png" alt="base_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once all of these dimensions were defined, I extruded the object. I made this equal to the width * 2 so that I could put the snap fit in the middle of my attachment and not be worried about anything breaking. This should give me enough material to connect the snap fit while being structurally sound.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_hole_base.png" alt="hole_base" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After extruding, I worked on the hole the clip will connect though. I made a box, and defined the height of the box to the base variable.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_hole_width.png" alt="hole_width" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After I made the width of the hole equal to the width variable and centered the sketch. The clip should perfectly fit inside these dimensions.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_hole_length.png" alt="hole_length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To finish the dimensions on the hole, I made sure that the bottom of the sketch was the same as the length of the prongs on the clip. If everything is correct, the clip will snap in perfectly.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_hole_extrusion.png" alt="hole_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once I thought the dimensions were perfect, I extruded the hole across the whole object. This made the dimensions equal on both sides and made it so I didn't have to redo my work on the left side. Doing so completed the attachment for the clip on my snap fit.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design2_assembly.png" alt="assembly" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After completing both objects, I made an assembly to get a view of what the real life product will look like. Based on the results, it looks like it fits perfectly!
+      </div>
+    </td>
+  </tr>
+</table>
+
+After I 3D modeled my snap fit, I exported both files as an STL file so that I could work with them in PrusaSlicer. If you are interested in my CAD files here they are: [clip_CAD](clip.SLDPRT)  |  [clip_STL](clip.STL)  |  [attachment_CAD](snap_fit.SLDPRT)  |  [attachment_STL](snap_fit.STL)  |  [Assembly](final_assembly.SLDASM)
+
+These values are modified from what I designed here, and I will talk about why after I 3D print my design.
+
+### PrusaSlicer
+
