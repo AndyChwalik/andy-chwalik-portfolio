@@ -28,22 +28,26 @@ For me to decide on my maximum deflection, I had to gauge how big I wanted my la
 
 #### Paper Calculations
 
+<p align="center">
+    <img src="design1_knowns.jpg" alt="Knowns" height="75%" width="auto">
+</p>
+
 ##### Length
 
 Now that I had all of my known values, I started solving for the important mechanical properties of my snap fit: length and bending stress. To get the length of my snap fit, I used the beam equation for the cantilever beam from A03 from the lecture portion of this class. P represents the transverse load, L represents the length, E represents young's modulus, I represents moment of inertia, and δ is the max deflection I want. When I solve for L, and plug in the known values, I get the length of my snap fit to be 3.49in. This is longer than I expected, but I was trusting the process.
+
+<p align="center">
+    <img src="design1_length.jpg" alt="length" height="75%" width="auto">
+</p>
 
 ##### Free-Body-Diagram
 
 Once I had the length of my snap fit, I decided to create free-body-diagrams of the clip and what the clip is connected to. The clip has the transverse load acting on it, creating a moment about the clip. There is also the axial force acting on the clip from the connection point. The axial load doesn't affect the moment as it is apart of the axis I was taking the moment from. 
 
-<p align="center">
-    <img src="design1_FBD_clips.jpg" alt="FBD Clips" height="75%" width="auto">
-</p>
-
 The connection point for the clip was a simple free-body-diagram since the axial force is the only thing that really affected it. The transverse load affected it slightly, but I didn't think it would be severe enough to take any major considerations into.
 
 <p align="center">
-    <img src="design1_FBD_connection.jpg" alt="FBD Connection" height="75%" width="auto">
+    <img src="design1_FBD.jpg" alt="FBD" height="75%" width="auto">
 </p>
 
 I also drew some isometric pictures to get a general idea of what I was expecting when 3D printing this material. The box would be 6in by 12in, meaning that it is too large for the 3D printer to print, but I didn't know that at the time. It would also take up a lot of material.
@@ -59,9 +63,17 @@ Now that I had my FBD's down, I could start to calculate the bending stress and 
 
 To make sure that this bending stress won't exceed my safety factor, I had to calculate the allowable stress for my snap fit. To do this I used the simple equation of yield strength/safety factor.
 
+<p align="center">
+    <img src="design1_bending.jpg" alt="bending" height="75%" width="auto">
+</p>
+
 Comparing my calculated bending stress to my allowable stress, my design should be well in the specifications. 
 
 I did the same thing with axial stress, but used the axial load instead of the transverse load from the bending stress calculations. This gave me a super low axial stress. When compared to the allowed stress, I am well under the specifications once again.
+
+<p align="center">
+    <img src="design1_axial.jpg" alt="Knowns" height="75%" width="auto">
+</p>
 
 #### CAD Modeling
 
@@ -587,3 +599,24 @@ Overall, I think these modifications should fix the design even though the print
 
 ##### 3D Printing
 
+I used the same printer as before because I nobody is using it. I also made my modifications pretty quickly. The printing process went just as smooth as before. I made sure to untangle all of the filament this time so I don't have to micromanage the filament. I thought it was really cool seeing the support being made in the middle while printing. It is much more noticeable on this print because it is more isolated than before. That is probably why the last print didn't necessarily need it.
+
+<p align="center">
+    <img src="design2_modifications_halfprint.png" alt="half_print" height="75%" width="auto">
+</p>
+
+Here is the process of my modified object being 3D printed.
+
+[video]
+
+I think the final product turned out really well. Even though the fit isn't that tight, the snap fit does it's job. Pulling on the snap fit, it feels like it can hold a lot of weight. I also made sure that the snap fit can't slide off due to my modifications. It looks close, but it can't unless you put in a some effort. 
+
+<p align="center">
+    <img src="design2_finished_print.png" alt="finished_print" height="75%" width="auto">
+</p>
+
+Here is a video of me playing around with it. This design actually has that snapping sound, which I am assuming is how the snap fit got its name.
+
+[video]
+
+## Lessons Learned
