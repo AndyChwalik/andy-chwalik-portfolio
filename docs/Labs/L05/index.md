@@ -628,3 +628,21 @@ Here is a video of me playing around with it. This design actually has that snap
 </p>
 
 ## Lessons Learned
+
+- I learned how cantilever beams can be designed for much more than just statics problems. I can use to design connections without welding or screwing parts in.
+- I learned how to apply supports to a 3D design through PrusaSlicer
+- I learned the process of going through multiple designs. If I was to make another design, I probably would make the holes a little tighter, but I have already spent a lot of time on this lab.
+- I learned about all of the different snap fits. I could only really think of a buckle, but I thought the ball in socket snap fits were really interesting. I didn't do those because I was unsure how to design that.
+- I learned that snap fits are used in a lot more products than I originally thought. I didn't know they were applied to water bottles and pens.
+- I learned the importance of time management as it is better to start these projects sooner.
+
+## Resources
+
+- [https://waykenrm.com/blogs/snap-fit-joints/](https://waykenrm.com/blogs/snap-fit-joints/) <br>
+- [https://www.dsource.in/course/designing-plastic-products-injection-moulding/assembly-techniques-plastics/snap-fits](https://www.dsource.in/course/designing-plastic-products-injection-moulding/assembly-techniques-plastics/snap-fits)<br>
+- [https://bcn3d.com/wp-content/uploads/2019/09/BCN3D_FILAMENTS_TechnicalDataSheet_PLA_EN.pdf](https://bcn3d.com/wp-content/uploads/2019/09/BCN3D_FILAMENTS_TechnicalDataSheet_PLA_EN.pdf) <br>
+- [https://www.iemai3d.com/wp-content/uploads/2021/03/PLA_TDS__EN.pdf](https://www.iemai3d.com/wp-content/uploads/2021/03/PLA_TDS__EN.pdf) <br>
+- [https://proleantech.com/snap-fits-design-types-and-applications/](https://proleantech.com/snap-fits-design-types-and-applications/) <br>
+- [https://www.dsource.in/course/designing-plastic-products-injection-moulding/assembly-techniques-plastics/snap-fits](https://www.dsource.in/course/designing-plastic-products-injection-moulding/assembly-techniques-plastics/snap-fits) <br>
+
+This assignment took me about 11 hours to complete.
