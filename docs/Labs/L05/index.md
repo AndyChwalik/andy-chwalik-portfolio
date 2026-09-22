@@ -55,16 +55,104 @@ I did the same thing with axial stress, but used the axial load instead of the t
 <table style="width:100%;">
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="base_sketch_incorrect.png" alt="incorrect_base_sketch" style="width:100%; height:auto;">
-        <img src="base_sketch_correct.png" alt="correct_base_sketch" style="width:100%; height:auto;">
+      <img src="design1_equations.png" alt="equations" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        
+        The first thing I did was fill out the global variables and equations that I will be using to design my snap fit. I put in every single known variable that would be useful while designing.
       </div>
     </td>
   </tr>
-
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_base_box.png" alt="base_dimensions" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The first thing I did after the equations was make an outline of the box that would be holding all of my 3D designed parts. Based on my drawings, this would be 6in x 12 inq
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_base_extrusion.png" alt="base_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I wasn't sure how tall I should make it, but I ended up making it the same as the width of the box for consistency. I also thought it would've been good for stacking 3D prints on top of each other.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_base.png" alt="base_shell" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After extruding the basic shape, I used the shell tool to make the box empty. It will allow me to use it for storage and it will save on material. I decided to make the shell 1/8in.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_connection_base.png" alt="hole_length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once I had my hollowed out box, I moved onto the connection point. I knew the length of the snap fit would be 3.49in, so I made sure to make the hole 3.49in from the top of the box. I did this through the global variable I made.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_connection_centered.png" alt="hole_connection" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once I had the length down, I then used the global variables for width and base to create the dimensions for the hole. I also made sure that the hole was centered in the middle of the box, so that it would be easy to line up the snap fit.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_connection_extrusion.png" alt="connection_extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After the hole was dimensioned correctly and centered, I extruded it through the whole object. Doing so finished the design for the main base of the snap fit.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_base_top_extrusion" alt="design1_top" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To design the top of the snap fit, I copied the equations and global variables from the first design to this new part file. I then copied the base dimensions of base to the top of the box. I decided to extrude it only 2in to give it a more chest feel to it.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_base_top_shell.png" alt="top_shell" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I used the shell tool again to hollow out the top. I made sure that the thickness of the walls were the same as the base of the snap fit.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="design1_base_box.png" alt="base_dimensions" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The first thing I did was make an outline of the box that would be holding all of my 3D designed parts. Based on my drawings, this would be 6in x 12 in x 6in.
+      </div>
+    </td>
+  </tr>
 
 
 ### Design 2
