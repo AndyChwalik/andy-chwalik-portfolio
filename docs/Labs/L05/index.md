@@ -527,7 +527,7 @@ Struggling so much to detach my snap fit from each other, I decided to change th
 <table style="width:100%;">
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design2_base_modifications.png" alt="base_modifications" style="width:100%; height:auto;">
+      <img src="design2_base_modification.png" alt="base_modifications" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -547,7 +547,7 @@ Struggling so much to detach my snap fit from each other, I decided to change th
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design2_hole_modifications.png" alt="hole_modifications" style="width:100%; height:auto;">
+      <img src="design2_hole_modification.png" alt="hole_modifications" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
