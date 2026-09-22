@@ -28,7 +28,43 @@ For me to decide on my maximum deflection, I had to gauge how big I wanted my la
 
 #### Paper Calculations
 
-Now that I had all of my known values, I started solving for the important mechanical properties of my snap fit: length and bending stress. To get the length of my snap fit, I used the beam equation for the cantilever beam from A03 from the lecture portion of this class. P represents the transverse load, L represents the length, E represents young's modulus, I represents moment of inertia, and <img width="624" height="310" alt="image" src="https://github.com/user-attachments/assets/172c83a6-d263-46ff-bc6e-7914e354a6c0" /> is the max deflection I want.
+##### Length
+
+Now that I had all of my known values, I started solving for the important mechanical properties of my snap fit: length and bending stress. To get the length of my snap fit, I used the beam equation for the cantilever beam from A03 from the lecture portion of this class. P represents the transverse load, L represents the length, E represents young's modulus, I represents moment of inertia, and δ is the max deflection I want. When I solve for L, and plug in the known values, I get the length of my snap fit to be 3.49in. This is longer than I expected, but I was trusting the process.
+
+##### Free-Body-Diagram
+Once I had the length of my snap fit, I decided to create free-body-diagrams of the clip and what the clip is connected to. The clip has the transverse load acting on it, creating a moment about the clip. There is also the axial force acting on the clip from the connection point. The axial load doesn't affect the moment as it is apart of the axis I was taking the moment from. 
+
+The connection point for the clip was a simple free-body-diagram since the axial force is the only thing that really affected it. The transverse load affected it slightly, but I didn't think it would be severe enough to take any major considerations into.
+
+I also drew some isometric pictures to get a general idea of what I was expecting when 3D printing this material. The box would be 6in by 12in, meaning that it is too large for the 3D printer to print, but I didn't know that at the time. It would also take up a lot of material.
+
+
+##### Bending and Axial Stress
+
+Now that I had my FBD's down, I could start to calculate the bending stress and the axial stress of my snap fit. To calculate bending stress, I used the same equation I used in A04 for the lecture portion of this class. Since I know more of the variables, I don't have to break it down quite as far as A04, but I am still using it to calculate bending stress.
+
+To make sure that this bending stress won't exceed my safety factor, I had to calculate the allowable stress for my snap fit. To do this I used the simple equation of yield strength/safety factor.
+
+Comparing my calculated bending stress to my allowable stress, my design should be well in the specifications. 
+
+I did the same thing with axial stress, but used the axial load instead of the transverse load from the bending stress calculations. This gave me a super low axial stress. When compared to the allowed stress, I am well under the specifications once again.
+
+#### CAD Modeling
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_sketch_incorrect.png" alt="incorrect_base_sketch" style="width:100%; height:auto;">
+        <img src="base_sketch_correct.png" alt="correct_base_sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        
+      </div>
+    </td>
+  </tr>
+
 
 
 ### Design 2
