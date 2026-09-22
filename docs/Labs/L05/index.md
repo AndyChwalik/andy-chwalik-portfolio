@@ -125,7 +125,7 @@ I did the same thing with axial stress, but used the axial load instead of the t
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design1_base_top_extrusion" alt="design1_top" style="width:100%; height:auto;">
+      <img src="design1_base_top_extrusion.png" alt="design1_top" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -145,7 +145,7 @@ I did the same thing with axial stress, but used the axial load instead of the t
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="design1_extrusion.png" alt="clip_base_extrusion" style="width:100%; height:auto;">
+      <img src="design1_extension.png" alt="clip_base_extrusion" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
