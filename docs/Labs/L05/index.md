@@ -14,7 +14,7 @@ Snap fits use the property of elastic deformation in order to connect and discon
 
 ## Analyze
 
-Before I think of possible snap fits, I want to make sure I have all of the variables for my design. I looked up the mechanical properties for PLA on Google, and I found a pdf from [Ultimaker](https://um-support-files.ultimaker.com/materials/2.85mm/tds/PLA/Ultimaker-PLA-TDS-v5.00.pdf). The young's modulus displayed found that PLA was around 3.25 GPa with a variance of 101 MPa. The listed yield strength is around 52.50 MPa with a variance of 0.9 MPa. Comparing this to other sites, it looks like the young's modulus ranges from 2.5GPa-3.5GPa and the yield strength ranges from 40MPa to 60MPa. For my project, I decided to use the middle of both of both of those: 3.0GPa, or 435000 psi, for young's modulus and 50GPa, or 7250psi, for yield strength. There had to be a transverse load of 0.25lbf - 5lbf, and there had to be an axial load of 5lbf - 10 lbf. The transverse load is the load required to unlock the objects from each other, and the axial load is the laod required to push the parts together. Everything had to be designed with a safety factor of 3.5.
+Before I think of possible snap fits, I want to make sure I have all of the variables for my design. I looked up the mechanical properties for PLA on Google, and I found a pdf from [Ultimaker](https://um-support-files.ultimaker.com/materials/2.85mm/tds/PLA/Ultimaker-PLA-TDS-v5.00.pdf). The young's modulus displayed found that PLA was around 3.25 GPa with a variance of 101 MPa. The listed yield strength is around 52.50 MPa with a variance of 0.9 MPa. Comparing this to other sites, it looks like the young's modulus ranges from 2.5GPa-3.5GPa and the yield strength ranges from 40MPa to 60MPa. For my project, I decided to use the middle of both of those: 3.0GPa, or 435000 psi, for young's modulus and 50GPa, or 7250psi, for yield strength. There had to be a transverse load of 0.25lbf - 5lbf, and there had to be an axial load of 5lbf - 10 lbf. The transverse load is the load required to unlock the objects from each other, and the axial load is the laod required to push the parts together. Everything had to be designed with a safety factor of 3.5.
 
 Similar to my last project, I made two different designs. This wasn't on purpose, but I noticed at the end that my project was probably way too big and unnecessary for the assignment. I used the same math and process of development for both, but I will show the entire process for both designs. The second design is my final design, where there are some modifications at the end due to careless mistakes.
 
@@ -513,6 +513,8 @@ It was super easy to get the objects off the printing bed as well. I was able to
 <p align="center">
     <img src="deisng2_attachment_support_broken.jpg" alt="supports_broken" height="75%" width="auto">
 </p>
+
+## Discussion
 
 ### Testing
 
