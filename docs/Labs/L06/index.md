@@ -208,6 +208,7 @@ I also had to take new dimensions from those original ones because the supports 
       </div>
     </td>
   </tr>
+</table>
 
 once I had my design fully 3D modeled, I exported the file as an STL file so that I could move onto PrusaSlicer. If you are interested in looking at my CAD file or my STL file, here are the downloads: [CAD file](final_design.SLDPRT)  |  [STL file](final_design.STL)
 
