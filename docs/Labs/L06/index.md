@@ -8,6 +8,8 @@ The goal of lab 6 is to create a snap fit design for an artifact. The artifact w
   <img src="artifact.jpg" alt="artifact" style="width:50%; height=auto"/>
 </p>
 
+## Analyze
+
 ### Initial Design
 
 When I was first thinking of snap fits that I could put on this circuit board, I originally thought of an electrical box (a box where you keep all of your electronics). I didn't want the board to moving around a whole bunch while in the electrical box, so I also wanted to add these little supports through the holes in the circuit board. To make this a reality, I was given a pair of calipers to measure the different dimensions of the circuit board. The important dimensions I measured were the length, width, height, location of holes, and the hole diameters. Unfortunately the hole diameters were different from each other, so I will have to be super careful when designing.
@@ -305,7 +307,8 @@ My circuit board fit really well into my design. The pin supports are perfectly 
 
 ## Mistakes Through Design Process
 
-
+I have made a lot of mistakes through my design process. With my initial design, I made my shell thickness really thin. I made it 0.02in instead of 0.1in. I did this so that I could keep my original measurements as close as I could, but it ended up making my part really thin and flexible. I didn't really want this to happen, which is why I switched to the 0.1in. My next major mistake was only taking my initial measurements once. This caused my supports not to lineup, and leading me to retake my measurements two times. After I redid my measurements, everything fell into place correctly. The next mistake I made was making the larger supports a little too thick. When I put the snap fits on the supports, the circuit board couldn't snap into place. That is why I had to make my diameter 100 thousandths smaller than what I previously measured. The next mistake I made was printing the same design multiple times. I didn't change the name of my designs as I progressed, and I just exported the same file onto the same drive. I didn't realize it, but this printed the first design of that file name every time. So, I would print a failed design even though I changed my design three different times. The last major mistake was the orientation. With my orientation being horizontal, it makes it incredibly easy to snap the supports off the design. If I changed the orientation, it would make it a little more sturdy.
 
 ## Lessons Learned
+
 
