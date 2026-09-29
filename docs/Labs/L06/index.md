@@ -214,7 +214,94 @@ once I had my design fully 3D modeled, I exported the file as an STL file so tha
 
 #### PrusaSlicer
 
-When I imported my design into PrusaSlicer, it came in sideways again, so I had to rotate it by 90 degrees to make it lay flat. I didn't add many settings to the 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_sketch.png" alt="base" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        My part came in sideways, so I had to rotate it 90 degrees along the x-axis to lay it flat on the printing bed
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="infill.png" alt="base" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I have done a lot of test prints at this point so I wanted my print to have a lower print time. To have a lower print time, I thought lowering the infill would be a good idea. I lowered it to 10% infill from the default 15%.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="layer_height.png" alt="layer height" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To make it print faster, I decided to keep the layer height at 0.2mm. I think it will keep the design somewhat consistent while keeping a faster print time.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="skirt.png" alt="skirt" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I put a skirt on my previous prints, because the walls were much thinner, but I decided to have no skirt on this print. Also, it will increase my print time.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_sketch.png" alt="base" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Here is the final specifications of my design. It will take about 28 minutes to print, which is almost 10 minutes faster than my previous prints. I am also using PETG. There is no real reason behind using PETG other than that was the printer had PETG loaded into it.
+      </div>
+    </td>
+  </tr>
+</table>
+
+I exported my file as a G-code file and went to use the 3D printers.
+
+#### 3D Printing
+
+For my prints, I decided to use printer 4. It was out of filament when I got there, but it was the only one open. I was able to reload it with the same material that was in it before, so I had a lot of material to play with for testing. To reload the 3D printer, I purged the previous filament while feeding the new filament through the intake. I was surprised with how much filament I had to purge even though there was nothing on the roll.
+
+<p align="center">
+  <img src="filament_refill.jpg" alt="filament refill" style="width:50%; height=auto"/>
+</p>
+
+After I refilled the 3D printer, I put the usb into the 3D printer and started my print. It will take about 15 minutes for the printer to heat up and then 28 minutes to print the full design.
+
+<p align="center">
+  <img src="usb.jpg" alt="ubs" style="width:50%; height=auto"/>
+</p>
+
+Most of my printing experience was just watching a box being completely filled in with filament. It was really interesting to see the infill pattern once I got past the original wall thickness. I know I have used the same infill pattern for each project, but I still think it looks really cool. Here is a video of my design 3D printing:
+
+[video](printing_video.MP4)
+
+The total time spent printing was 48 minutes according to the end screen on the printer. Here is what the final design looked like:
+
+<p align="center">
+  <img src="final_print.jpg" alt="final_print" style="width:50%; height=auto"/>
+</p>
+
+My 3D printing process was my longest process. I found that dimensioning the holes using calipers is really optimistic, so I spent a lot of time playing around with the thickness and height of the supports. I did end up getting it to fit, and I am pretty happy with it.
+
+#### Snapping Fit
+
+My circuit board fit really well into my design. The pin supports are perfectly lined up, and locks in place really well. It doesn't move much when I shake it, and I can hold it all the way upside down. I am really happy with how it turned out. Here is a picture of the final snap:
+
+<p align="center">
+  <img src="final_snap.jpg" alt="demo" style="width:50%; height=auto"/>
+</p>
 
 ## Mistakes Through Design Process
 
