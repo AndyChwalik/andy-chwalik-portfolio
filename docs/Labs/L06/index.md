@@ -21,7 +21,7 @@ When I was first thinking of snap fits that I could put on this circuit board, I
 </p>
 
 <p align="center">
-  <img src="original_design" alt="original design" style="width:50%; height=auto"/>
+  <img src="original_design.jpg" alt="original design" style="width:50%; height=auto"/>
   <br>
   <em>Original design</em>
 </p>
