@@ -20,6 +20,7 @@ When I was first thinking of snap fits that I could put on this circuit board, I
 
 <p align="center">
   <img src="artifact.jpg" alt="artifact" style="width:50%; height=auto"/>
+  <br>
   <em>Original design</em>
 </p>
 
@@ -29,6 +30,7 @@ When I was designing the electrical box, I wanted to first design the base. Sinc
 
 <p align="center">
   <img src="final_design.jpg" alt="final design" style="width:50%; height=auto"/>
+  <br>
   <em>Final design idea</em>
 </p>
 
@@ -36,6 +38,7 @@ I also had to take new dimensions from those original ones because the supports 
 
 <p align="center">
   <img src="final_dimensions.jpg" alt="final dimensions" style="width:50%; height=auto"/>
+  <br>
   <em>Final measured dimensions</em>
 </p>
 
