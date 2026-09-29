@@ -83,7 +83,7 @@ I also had to take new dimensions from those original ones because the supports 
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        After that was completed, I could move onto dimensioning the supports for the holes of the circuit board. To do this, I created global variables for the smaller hole diameters, the distance the smaller holes are from the right wall, the bigger hole diameters, and the distance the bigger holes are from the bottom wall. 
+        After that was completed, I could move onto dimensioning the supports for the holes of the circuit board. To do this, I created global variables for the smaller hole diameters, the distance the smaller holes are from the right wall, the bigger hole diameters, and the distance the bigger holes are from the bottom wall. I made these the variables since there are a lot more dimensions associated with the supports. There is a lot more that can fail during the designing of these than the rest of the design.
       </div>
     </td>
   </tr>
