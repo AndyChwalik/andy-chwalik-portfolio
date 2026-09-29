@@ -100,6 +100,7 @@ I also had to take new dimensions from those original ones because the supports 
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="hole1_hor.png" alt="horizontal measuremet." style="width:100%; height:auto;">
+      <img src="hole2_hor.png" alt="horizontal measuremet." style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -192,7 +193,7 @@ I also had to take new dimensions from those original ones because the supports 
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="plane.png" alt="plane" style="width:100%; height:auto;">
+      <img src="fillet.png" alt="fillet snap edges" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -219,7 +220,7 @@ once I had my design fully 3D modeled, I exported the file as an STL file so tha
 <table style="width:100%;">
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="base_sketch.png" alt="base" style="width:100%; height:auto;">
+      <img src="rotation.png" alt="rotation" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -259,7 +260,7 @@ once I had my design fully 3D modeled, I exported the file as an STL file so tha
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="base_sketch.png" alt="base" style="width:100%; height:auto;">
+      <img src="final_specs" alt="base" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -279,13 +280,7 @@ For my prints, I decided to use printer 4. It was out of filament when I got the
   <img src="filament_refill.jpg" alt="filament refill" style="width:50%; height=auto"/>
 </p>
 
-After I refilled the 3D printer, I put the usb into the 3D printer and started my print. It will take about 15 minutes for the printer to heat up and then 28 minutes to print the full design.
-
-<p align="center">
-  <img src="usb.jpg" alt="ubs" style="width:50%; height=auto"/>
-</p>
-
-Most of my printing experience was just watching a box being completely filled in with filament. It was really interesting to see the infill pattern once I got past the original wall thickness. I know I have used the same infill pattern for each project, but I still think it looks really cool. Here is a video of my design 3D printing:
+After I refilled the 3D printer, I put the usb into the 3D printer and started my print. It will take about 15 minutes for the printer to heat up and then 28 minutes to print the full design. Most of my printing experience was just watching a box being completely filled in with filament. It was really interesting to see the infill pattern once I got past the original wall thickness. I know I have used the same infill pattern for each project, but I still think it looks really cool. Here is a video of my design 3D printing:
 
 [video](printing_video.MP4)
 
@@ -310,5 +305,7 @@ My circuit board fit really well into my design. The pin supports are perfectly 
 I have made a lot of mistakes through my design process. With my initial design, I made my shell thickness really thin. I made it 0.02in instead of 0.1in. I did this so that I could keep my original measurements as close as I could, but it ended up making my part really thin and flexible. I didn't really want this to happen, which is why I switched to the 0.1in. My next major mistake was only taking my initial measurements once. This caused my supports not to lineup, and leading me to retake my measurements two times. After I redid my measurements, everything fell into place correctly. The next mistake I made was making the larger supports a little too thick. When I put the snap fits on the supports, the circuit board couldn't snap into place. That is why I had to make my diameter 100 thousandths smaller than what I previously measured. The next mistake I made was printing the same design multiple times. I didn't change the name of my designs as I progressed, and I just exported the same file onto the same drive. I didn't realize it, but this printed the first design of that file name every time. So, I would print a failed design even though I changed my design three different times. The last major mistake was the orientation. With my orientation being horizontal, it makes it incredibly easy to snap the supports off the design. If I changed the orientation, it would make it a little more sturdy.
 
 ## Lessons Learned
+
+With lots of failures comes a lot of lessons learned. The first thing that I learned from this project was how to refill the filament on a 3D printer. I have never had to refill the filament before, but I am glad I learned how to. I just have to purge the remaining material while feeding the new filament into the nozzle. I wait until the filament is the same color as the filament I am replacing it with. The next thing I learned is that I should measure things way more than once. It saves so much time and energy when everything is measured correctly on the first go around. I am not sure how common that is, as it is a common mistake, but it is crucial. The next lesson I learned was that I should be naming all of my prototypes different names. Either that or delete the file off the USB that I previously used. Doing so will actually print the product that I want. There was a point during this process where I printed the same design twice, and when I printed the design I made changes to, my support pins were not aligned anymore. It was very frustrating dealing with, but it is completely my fault that happened. The last thing I learned from this assignment is the importance of orientation. I keep my orientation defaulted, but it caused my pins to be super fragile. If I put just a little shear force on those pins, they would snap off. I would actually snap the pins from my failed designs while I was waiting for my next 3D print to finish.
 
 
