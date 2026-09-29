@@ -282,7 +282,7 @@ For my prints, I decided to use printer 4. It was out of filament when I got the
 
 After I refilled the 3D printer, I put the usb into the 3D printer and started my print. It will take about 15 minutes for the printer to heat up and then 28 minutes to print the full design. Most of my printing experience was just watching a box being completely filled in with filament. It was really interesting to see the infill pattern once I got past the original wall thickness. I know I have used the same infill pattern for each project, but I still think it looks really cool. Here is a video of my design 3D printing:
 
-[video](printing_video.MP4)
+<video src="printing_video.mp4" controls width="600"></video>
 
 The total time spent printing was 48 minutes according to the end screen on the printer. Here is what the final design looked like:
 
