@@ -21,7 +21,7 @@ When I was first thinking of snap fits that I could put on this circuit board, I
 </p>
 
 <p align="center">
-  <img src="artifact.jpg" alt="artifact" style="width:50%; height=auto"/>
+  <img src="original_design" alt="original design" style="width:50%; height=auto"/>
   <br>
   <em>Original design</em>
 </p>
@@ -31,17 +31,17 @@ When I was first thinking of snap fits that I could put on this circuit board, I
 When I was designing the electrical box, I wanted to first design the base. Since I had so many more dimensions for the supports I was putting through the holes, I thought it would've been important to get a template for this part of my design. However, through designing, I realized that this would take way longer than I expected. There was a lot of trial and error when printing just the base of the electrical box. This is why I changed my design from an electrical box to just a platform that the circuit board will snap onto. I decided to make the snap points on the supports for the holes because they took me the longest to validate the dimensions. 
 
 <p align="center">
-  <img src="final_design.jpg" alt="final design" style="width:50%; height=auto"/>
+  <img src="final_dimensions.jpg" alt="final dimensions" style="width:50%; height=auto"/>
   <br>
-  <em>Final design idea</em>
+  <em>Dimensions used when making the project</em>
 </p>
 
 I also had to take new dimensions from those original ones because the supports didn't line up correctly with the holes. I had to validate all of my dimensions once again, and they ended up being more accurate than previously.
 
 <p align="center">
-  <img src="final_dimensions.jpg" alt="final dimensions" style="width:50%; height=auto"/>
+  <img src="final_design.jpg" alt="final design" style="width:50%; height=auto"/>
   <br>
-  <em>Final measured dimensions</em>
+  <em>Final design</em>
 </p>
 
 #### 3D Modeling
