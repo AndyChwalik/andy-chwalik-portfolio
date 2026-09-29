@@ -260,7 +260,7 @@ once I had my design fully 3D modeled, I exported the file as an STL file so tha
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="final_specs" alt="base" style="width:100%; height:auto;">
+      <img src="final_specs.png" alt="base" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
