@@ -208,5 +208,66 @@ I decided to use PLA because I thought it would give me a smoother finish than P
 
 ## 3D Printing
 
+To start 3D printing, I exported my PrusaSlicer file as a Gcode onto a usb stick and looked for a 3D printing machine to use. I saw the machine 15 had the most filament left in it, while using PLA, so I decided to use machine 15 to 3D print my design.
+
+<p align="center">
+  <img src="machine.jpg" alt="machine" style="width:50%; height=auto"/>
+</p>
+
+The 3D printing process was going to take a while, so I decided to a few progress pictures. The picture below  shows the printing process in it's early stages. It is still printing the first layer. You can see the supports starting to form on the disc already with that little square coming off of the disc.
+
+<p align="center">
+  <img src="early_print.jpg" alt="early print" style="width:50%; height=auto"/>
+</p>
+
+I also wanted to get a video of the infill getting 3D printed, since I thought that was the most interesting process. The video below shows the print at around 50% completion. The infill is still visible, but it is starting to get covered by another solid layer as seen for the disc. The supports are also very noticeable for the disc as the entire hole is pretty much completed now.
 
 
+<p align="center">
+  <img src="printing_video.gif" alt="printing video" style="width:100%; height=auto"/>
+</p>
+
+The last progress update I did before letting the print finish was at 63%. This was the time in the 3D print where each part is starting to really take shape, and you can picture how everything will fit together.
+
+
+<p align="center">
+  <img src="print_63.jpg" alt="print 63%" style="width:50%; height=auto"/>
+</p>
+
+Here is what the final print looks like. I think the surface looks pretty smooth for being 0.2mm layer thickness and it appears that everything printed correctly. I didn't need the scraper to get my parts off the bed, since I could just pull them off by themself. It was kind of hard to get the supports removed from the hole in the disc since it was a lot tighter than I expected. To get rid of it, I started with a file and then worked my way to smaller and smaller tools until all of the supports fell out of the hole.
+
+
+<p align="center">
+  <img src="print_completed.jpg" alt="final print" style="width:50%; height=auto"/>
+</p>
+
+## CAD Files
+<p align="center">
+  If you are interested in the CAD files, here they are.
+  Base: [CAD File](Base.SLDPRT)  |  [STL File](Base.STL)
+  Disc: [CAD File](Disc.SLDPRT)  |  [STL File](Disc.STL)
+  Pin: [CAD File](Pin.SLDPRT)  |  [STL File](Pin.STL)
+  Final Design: [Assembly File](final_design.SLDASM)  |  [PrusaSlicer](final_design.3mf)
+
+
+## Demonstration
+
+Here is a demonstration of me using my design. I think it works pretty well. I am able to put multiple objects on the wheel while spinning the disc to access whatever I want. It fits what I wanted to fit on there originally, and I think I can add different things to it in the future. The pin also doesn't have as much room to move around as I thought because the hole for the base became a little deformed during the printing process.
+
+<p align="center">
+  <img src="demo.gif" alt="demo" style="width:100%; height=auto"/>
+</p>
+
+## Improvements
+
+The main improvement that I can think about is adding some type of ball on the bottom of the disc to make it spin more smoothly. It spins pretty well currently, but I think it will spin better if it was apart of some ball bearing system somehow. I just don't have marbles that small, and I don't think 3D printing something that small will turn out well, so I wasn't able to test it.
+
+The next improvement I was thinking about was creating a second hole on the exact opposite side of the design. I think if I had two holes, it would make the disc more secure during the none rotating moments. Currently, the disc flips up on one side when some pressure is applied, and I don't really like it.
+
+The last improvement would be to add some type of rubber feet to the bottom of the base. To spin the disc, you kind of have to be holding the base in order for it not to twist with the disc because it is not really grounded to whatever surface it is on. I think if I add rubber feet to the base, it will become more stable and better to use. 
+
+# Lessons Learned
+
+I learned about different methods for creating smarter questions. I learned that slowing down the process to really understand what is going on can help accelerate production and have an overall better product. I should probably have more medicine than just ibuprofen for any situation after this because it was really hard to get all of this done while being sick. There is less noticeable error in 3D printing the bigger the parts are. My previous designs have been smaller, and I have had to do a lot of reprints for those designs because of inconsistencies in smaller measurements. With this larger design, I was able to print it on the first try with pretty good accuracy. Some of that may be from experience from past projects though.
+
+This assignment took me about 6 and a half hours.
