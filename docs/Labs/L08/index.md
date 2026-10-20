@@ -242,13 +242,11 @@ Here is what the final print looks like. I think the surface looks pretty smooth
 </p>
 
 ## CAD Files
-<p align="center">
-  If you are interested in the CAD files, here they are.
+If you are interested in the CAD files, here they are.
   Base: [CAD File](Base.SLDPRT)  |  [STL File](Base.STL)
   Disc: [CAD File](Disc.SLDPRT)  |  [STL File](Disc.STL)
   Pin: [CAD File](Pin.SLDPRT)  |  [STL File](Pin.STL)
   Final Design: [Assembly File](final_design.SLDASM)  |  [PrusaSlicer](final_design.3mf)
-</p>
 
 
 ## Demonstration
