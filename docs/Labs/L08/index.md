@@ -248,6 +248,7 @@ Here is what the final print looks like. I think the surface looks pretty smooth
   Disc: [CAD File](Disc.SLDPRT)  |  [STL File](Disc.STL)
   Pin: [CAD File](Pin.SLDPRT)  |  [STL File](Pin.STL)
   Final Design: [Assembly File](final_design.SLDASM)  |  [PrusaSlicer](final_design.3mf)
+</p>
 
 
 ## Demonstration
