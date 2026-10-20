@@ -186,7 +186,7 @@ I decided to model the base first, the disc second, and then the pin last. I the
 I imported everything at once, and I had to flip the base and disc by 90 degrees along the x-axis in order for them to be flat on the bed. The base and disc didn't fit next to each other, so I had to set them in the corners of the printing bed. I made sure that they weren't too far in the corners where it would interfere with the initial filament process of the Pursa printer. The pin is very small compared to the base and disc, so I placed it anywhere on the plate. 
 
 <p align="center">
-  <img src="initial_layout.png" alt="initial layout" style="width:50%; height=auto"/>
+  <img src="inital_layout.png" alt="initial layout" style="width:50%; height=auto"/>
 </p>
 
 To see if I needed supports, I went to the paint on supports options and clicked the "automatic painting" option. Based on the "automatic painting" option, the only object that needed supports was the disc. This is probably because the whole inside the disc is 1.0in long, which is a pretty long distance without supports. This is shown g
