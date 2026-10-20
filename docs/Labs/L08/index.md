@@ -1,18 +1,18 @@
 # L8 - Design Something Useful
 
-# Reading
+## Reading
 
 Designers must ask smart questions throughout the design process to help clarify what the issue is and possible ways of fixing it. There are two different types of questions a designer can ask: Open-ended questions and closed questions. Open-ended questions are questions that help designers explore and clarify what is going on where closed questions are typical yes or no questions. A good question doesn't depend on the type of question where it focuses more on empowering creativity, challenging assumptions, encourage reflection, and often lead to breakthroughs. Good questions will find the root of the problem, challenge assumptions, and give a better understanding of context. There are many methods to asking questions, but one big is the 5 whys. This method has the designer ask why to a general statement 5 times. When you ask why 5 times, the theory is that you should have found the root issue after those5 questions.
 
-# Problem Statement
+## Problem Statement
 
 The first idea that I had was some type of display area. I was thinking of creating a platform with a cutout of a circle. I will then place a separate circular piece in that cutout so that it will spin - displaying whatever you want to put on the platform. I didn't really like this idea though, so I started to think about stuff that is happening to me currently. I have become incredibly sick over the weekend, and I wish I had somewhere to put all of my miscellaneous stuff and medicine. I didn't really have anywhere to put it, so I think this will be a useful product I can use and other people going through a similar situation can use.
 
 When I started to think of solutions for this problem, I thought of the same spinning platform. I can put a rod in the middle of the rotating disc, and spin the platform using this rod. This will allow me to store whatever I want on a circular platform while being able to easily access different items in storage. I also thought it may be a good idea to put some type of stopper for the rotating disc, so it can act as just a regular platform. 
 
-# Design
+## Design
 
-## CAD Modeling
+### CAD Modeling
 
 There will be 3 different parts for my design: The base, the disc, and the pin. The base will hold the disc to spin around in while having a hole in it to stop the spinning with the pin. The disc will be able to fit inside of the base while having a tall rod in the middle of the disc. The rod in the middle will make it easy to twist the design around. There will also be a hole in the disc so I can slide the pin through the base and disc, stopping the rotation. 
 
@@ -181,7 +181,7 @@ I decided to model the base first, the disc second, and then the pin last. I the
   </tr>
 </table>
 
-## PrusaSlicer
+### PrusaSlicer
 
 I imported everything at once, and I had to flip the base and disc by 90 degrees along the x-axis in order for them to be flat on the bed. The base and disc didn't fit next to each other, so I had to set them in the corners of the printing bed. I made sure that they weren't too far in the corners where it would interfere with the initial filament process of the Pursa printer. The pin is very small compared to the base and disc, so I placed it anywhere on the plate. 
 
@@ -206,7 +206,7 @@ I decided to use PLA because I thought it would give me a smoother finish than P
   <img src="slice_info.png" alt="slice info" style="width:50%; height=auto"/>
 </p>
 
-## 3D Printing
+### 3D Printing
 
 To start 3D printing, I exported my PrusaSlicer file as a Gcode onto a usb stick and looked for a 3D printing machine to use. I saw the machine 15 had the most filament left in it, while using PLA, so I decided to use machine 15 to 3D print my design.
 
@@ -241,7 +241,7 @@ Here is what the final print looks like. I think the surface looks pretty smooth
   <img src="print_completed.jpg" alt="final print" style="width:50%; height=auto"/>
 </p>
 
-## CAD Files
+### CAD Files
 If you are interested in the CAD files, here they are.
   Base: [CAD File](Base.SLDPRT)  |  [STL File](Base.STL)
   Disc: [CAD File](Disc.SLDPRT)  |  [STL File](Disc.STL)
@@ -249,7 +249,7 @@ If you are interested in the CAD files, here they are.
   Final Design: [Assembly File](final_design.SLDASM)  |  [PrusaSlicer](final_design.3mf)
 
 
-## Demonstration
+### Demonstration
 
 Here is a demonstration of me using my design. I think it works pretty well. I am able to put multiple objects on the wheel while spinning the disc to access whatever I want. It fits what I wanted to fit on there originally, and I think I can add different things to it in the future. The pin also doesn't have as much room to move around as I thought because the hole for the base became a little deformed during the printing process.
 
@@ -257,7 +257,7 @@ Here is a demonstration of me using my design. I think it works pretty well. I a
   <img src="demo.gif" alt="demo" style="width:100%; height=auto"/>
 </p>
 
-## Improvements
+### Improvements
 
 The main improvement that I can think about is adding some type of ball on the bottom of the disc to make it spin more smoothly. It spins pretty well currently, but I think it will spin better if it was apart of some ball bearing system somehow. I just don't have marbles that small, and I don't think 3D printing something that small will turn out well, so I wasn't able to test it.
 
