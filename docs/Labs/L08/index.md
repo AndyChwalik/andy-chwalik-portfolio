@@ -12,3 +12,5 @@ When I started to think of solutions for this problem, I thought of the same spi
 
 # Design
 
+To first start designing, I wanted to know how big I should make my base for the platform. To do this, I measured the only medicine I own, an ibuprofen bottle. I measure the diameter of the ibuprofen bottle to be about 1 and a fourth inches. This means my base should have at least a radius of 1 and a fourth inch. I think I want to make it slightly bigger though, so I am going to make the radius of the platform 2 and and a half inches.
+
