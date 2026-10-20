@@ -12,6 +12,8 @@ When I started to think of solutions for this problem, I thought of the same spi
 
 # Design
 
+## CAD Modeling
+
 There will be 3 different parts for my design: The base, the disc, and the pin. The base will hold the disc to spin around in while having a hole in it to stop the spinning with the pin. The disc will be able to fit inside of the base while having a tall rod in the middle of the disc. The rod in the middle will make it easy to twist the design around. There will also be a hole in the disc so I can slide the pin through the base and disc, stopping the rotation. 
 
 I decided to model the base first, the disc second, and then the pin last. I then combined all of them in an assembly at the end to see how everything would work together.
@@ -119,7 +121,7 @@ I decided to model the base first, the disc second, and then the pin last. I the
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="disc_rod_extrude.png" alt="base" style="width:100%; height:auto;">
+      <img src="disc_pin_cutout_extrude.png" alt="disc pin cutout extrude" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -137,5 +139,74 @@ I decided to model the base first, the disc second, and then the pin last. I the
       </div>
     </td>
   </tr>
-  
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_pin_cutout_extrude.png" alt="base pin cutout extrude" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Extruding this cutout was super easy since it will go through the entire face of the base so that the pin can connect to the hole created in the disc. So I chose the "to next' option when choosing my cut value.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="pin_sketch.png" alt="pin sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        My base and disc are complete now. The only thing I need to model is the pin to stop the rotation. Since the diameter of the holes were 0.2in, I decided to make the diameter of the pin to be 0.175in. This should give it enough room to fit between the holes created even if the 3D printer doesn't print the exact values. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="pin_extrude.png" alt="pin extrude" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The combined length of the holes is 1.25in, so I decided to make the pin slightly longer so that it is easy to put in and take out. This is why I made the pin length 1.5in.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="final_model.png" alt="final model" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        All of my parts are completed, so I can put it all in an assembly to see how everything will fit together before committing to 3D printing. Based on my assembly, it looks like everything fits well together, and I think it should fulfill the job I want it to do.
+      </div>
+    </td>
+  </tr>
+</table>
+
+## PrusaSlicer
+
+I imported everything at once, and I had to flip the base and disc by 90 degrees along the x-axis in order for them to be flat on the bed. The base and disc didn't fit next to each other, so I had to set them in the corners of the printing bed. I made sure that they weren't too far in the corners where it would interfere with the initial filament process of the Pursa printer. The pin is very small compared to the base and disc, so I placed it anywhere on the plate. 
+
+<p align="center">
+  <img src="initial_layout.png" alt="initial layout" style="width:50%; height=auto"/>
+</p>
+
+To see if I needed supports, I went to the paint on supports options and clicked the "automatic painting" option. Based on the "automatic painting" option, the only object that needed supports was the disc. This is probably because the whole inside the disc is 1.0in long, which is a pretty long distance without supports. This is shown g
+
+I kept my layer infill the same as the default: 15% infill with the grid pattern. I thought that with my simple design, the infill I chose wouldn't matter that much. That is why I kept it as default. I applied similar thinking to the rest of my settings as well. My layer thickness is 0.2mm, there was no need for a raft, and my wall thickness was 0.9mm.
+
+<p align="center">
+  <img src="infill.png" alt="infill" style="width:50%; height=auto"/>
+</p>
+<p align="center">
+  <img src="layer_height.png" alt="layer height" style="width:50%; height=auto"/>
+</p>
+
+I decided to use PLA because I thought it would give me a smoother finish than PETG, and there was a 3D printer with a lot of PLA filament already loaded in it. The total number of layers my print will have is 418, which is a lot more than my previous prints. The total time it will take my artifact to print is 2 hours and 26 minutes.
+
+<p align="center">
+  <img src="slice_info.png" alt="slice info" style="width:50%; height=auto"/>
+</p>
+
+## 3D Printing
+
+
 
