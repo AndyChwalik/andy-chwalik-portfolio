@@ -265,7 +265,7 @@ The next improvement I was thinking about was creating a second hole on the exac
 
 The last improvement would be to add some type of rubber feet to the bottom of the base. To spin the disc, you kind of have to be holding the base in order for it not to twist with the disc because it is not really grounded to whatever surface it is on. I think if I add rubber feet to the base, it will become more stable and better to use. 
 
-# Lessons Learned
+## Lessons Learned
 
 I learned about different methods for creating smarter questions. I learned that slowing down the process to really understand what is going on can help accelerate production and have an overall better product. I should probably have more medicine than just ibuprofen for any situation after this because it was really hard to get all of this done while being sick. There is less noticeable error in 3D printing the bigger the parts are. My previous designs have been smaller, and I have had to do a lot of reprints for those designs because of inconsistencies in smaller measurements. With this larger design, I was able to print it on the first try with pretty good accuracy. Some of that may be from experience from past projects though.
 
