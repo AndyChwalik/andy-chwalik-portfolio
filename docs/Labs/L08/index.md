@@ -79,7 +79,7 @@ I decided to model the base first, the disc second, and then the pin last. I the
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="disc_rod_setch" alt="base" style="width:100%; height:auto;">
+      <img src="disc_rod_sketch.png" alt="disc rod sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -89,12 +89,53 @@ I decided to model the base first, the disc second, and then the pin last. I the
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="disc_sketch.png" alt="base" style="width:100%; height:auto;">
+      <img src="disc_rod_extrude.png" alt="disc rod extrude" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        To find the extrusion height I wanted to use, I had to make sure that it was taller than most of the products I would be putting on it. I measured the height of my ibuprofen bottle to be 2 and a fourth inches
+        To find the extrusion height I wanted to use, I had to make sure that it was taller than most of the products I would be putting on it. I measured the height of my ibuprofen bottle to be 2 and a fourth inches. To clear this measurement, I made the height of the rod to be 3.0in. It is a round number and should give me enough space to spin the disc to what I want to access.
       </div>
     </td>
   </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="disc_fillet.png" alt="disc fillet" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that all of the main features of the disc were created, I rounded all of the edges to make it nicer to look at and hopefully function better. The fillet radius is the same as the base: 0.1in.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="disc_pin_cutout_sketch.png" alt="disc pin cutout sketch style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that I have the disc designed, I can start to think of where to put the holes on the disc and base for the pin to slide in. To create the sketch for the pin on the disc, I just create a circle that has a diameter of 0.2in that was in the middle of the extruded part. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="disc_rod_extrude.png" alt="base" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I could make the depth of the hole a bunch of different values, but I decided to use 1.0in just because it was a round number. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="base_pin_cutout_sketch.png" alt="base pin cutout sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that I have a diameter size, and the exact location for the pin hole on the disc, I can create the hole for the base. I made the diameter of the circle 0.2in and the distance from the bottom of the base equal to the shell value plus the radius of the hole and the extra material on the bottom of the disc. This gave me a height of 0.375in.
+      </div>
+    </td>
+  </tr>
+  
 
