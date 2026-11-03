@@ -27,6 +27,8 @@ To check the clearance range I got from the Machinery Handbook, I decided to loo
 
 To solidify what clearance I will be using for my part, I decided to ask my classmates that have already printed their part. I heard that someone printed their part at a clearance of 6 thou of an inch, which was to small for their fit. I heard a different person printed their part at 10 thou of an inch, and this value worked for that user; however, I heard that it was a really tight fit. Based on this knowledge, I think this gives me a range of 10 thou of an inch to 15 thou of an inch. Since 10 thou of an inch already worked for someone, I am thinking of going right in the middle of that range: 12 thou of an inch. 
 
+When thinking about the entire process for SLA, it makes sense for the clearance to be greater after curing has occurred for the design. This is because everything will undergo shrinking and expansion. In result, the clearance will be larger than what the machinery handbook or the PROTOLABS design rules are showing. 
+
 ### Shrinkage and Expansion in Resin Prints
 
 The reason why resin prints will shrink during the 3D printing process is because they have to go through a curing process to become a stronger material. During this process the molecules will pack closer together, decreasing the overall volume while increasing the strength of the material. The main factors that affect the shrinking of resin prints is the type of resin, casting thickness, and curing temperatures
@@ -41,9 +43,13 @@ When looking at actual applications, it looks like RC2 fits are used a lot of pr
 
 When I hear tight fits that are able to slide freely, it makes me think of a gear shaft and electrical components. My first idea was the charging port of a phone, but when I asked AI if that would classify as a RC2 fit or not, it was questionable about it since it snaps into place rather than a freely moving part. If that is the case, I feel like a lot of electrical equipment gets thrown out the window due to everything needed to be connected for electrical signals. Due to this fact, I think that electrical equipment is still a good example for an RC2 fit despite the locking mechanism. 
 
-The application for my fit will be for a sim card on your computer. It is small, has free range of motion, and has similar applications outside of electronics. An example could be how drawers slide freely. They're just connected on a rail with minimal friction. I think drawers would be a little bigger than an RC2 fit, but I think the same concept still stands. To create my sim car slider, I will take the dimensions of a normal sim card, and then design around that using the clearance I researched prior.
+The application for my fit will be for a sim card on your computer. It is small, has free range of motion, and has similar applications outside of electronics. An example could be how drawers slide freely. They're just connected on a rail with minimal friction. I think drawers would be a little bigger than an RC2 fit, but I think the same concept still stands. To create my sim card slider, I will be using the dimensions from a micro-SIM card.
 
+<p align="center">
+    <img src="sim_card_compare.png" alt="sim card dimensions" height="75%" width="auto">
+</p>
 
+Looking at the micro sim card, it should be 15mm in length, 12mm in width, and 0.76mm in thickness according to [this](https://measurebeam.com/objects/sim-card/) website. In inches it would be 0.591 inches in length, 0.472 inches in width, and 0.030 inches in thickness. 
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
