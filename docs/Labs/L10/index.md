@@ -27,9 +27,13 @@ To check the clearance range I got from the Machinery Handbook, I decided to loo
 
 To solidify what clearance I will be using for my part, I decided to ask my classmates that have already printed their part. I heard that someone printed their part at a clearance of 6 thou of an inch, which was to small for their fit. I heard a different person printed their part at 10 thou of an inch, and this value worked for that user; however, I heard that it was a really tight fit. Based on this knowledge, I think this gives me a range of 10 thou of an inch to 15 thou of an inch. Since 10 thou of an inch already worked for someone, I am thinking of going right in the middle of that range: 12 thou of an inch. 
 
-### Shrinkage
+### Shrinkage and Expansion in Resin Prints
 
+The reason why resin prints will shrink during the 3D printing process is because they have to go through a curing process to become a stronger material. During this process the molecules will pack closer together, decreasing the overall volume while increasing the strength of the material. The main factors that affect the shrinking of resin prints is the type of resin, casting thickness, and curing temperatures
 
+To account for shrinkage, make sure to check the shrinkage percentage of whatever resin you're using. Apparently epoxy shrinks less than polyester, so if you want less shrinkage, try to use epoxy resin. The thicker castings cause a higher volume of resin to be spread about the print. This will cause higher stresses and possible warping during the curing process. The higher the temperature is during curing, the faster shrinkage could occur. 
+
+I got all of this information from [this](https://artsshala.com/blogs/resin-art/resin-shrinkage-a-comprehensive-guide-for-makers-and-hobbyists) website.
 
 ## Planning
 
