@@ -20,7 +20,7 @@ For this part of the project we had to take a pair of calipers and measure the t
 
 | | Thickness 1 | Thickness 2 | Thickness 3 | Average |
 |---|---|---|---|---|
-| Measurement | 0.114in | 0.117in | 0.111in | 0.114in|
+| Measurement | 0.114in | 0.117in | 0.111in | 0.114in |
 
 </div>
 
@@ -32,7 +32,7 @@ The next step is to measure the kerf. We didn't really know what the kerf was be
 
 <div align="center">
 
-|| Width (x-axis) | Length (y-axis) | Average |
+| | Width (x-axis) | Length (y-axis) | Average |
 |---|---|---|---|---|
 | Measurement | 0.584in | 0.582in | |
 | Kerf | 0.007in | 0.009in | 0.008in |
