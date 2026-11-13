@@ -30,7 +30,26 @@ After measurements our average ended up being 0.114in. This is a little below wh
 
 The next step is to measure the kerf. We didn't really know what the kerf was before this assignment, so it is important to talk about what the kerf is. While laser cutting, the laser will burn through a small amount of material to cutout whatever design you want. That small material the laser cutter cuts out is what we call the kerf. To measure the kerf, we will make a 15mm x 15mm, 0.591in x 0.591in, square and then measure the length and width with calipers. We will then measure the measured values from what's supposed to be the actual value to find what our kerf is.
 
+To setup the square, I drew a sketch of a 15mm x 15mm box in SolidWorks. I then opened the solidworks file in Inkscape. This will show me what the cut will look like beforehand. Once everything looked good, I printed my inkscape file into Epilog. When in epilog I went to the material properties and selected vector for the process type. This will mean that I am cutting out my design rather than engraving. I also made sure to specify a 3mm wooden board and kept the default settings for that.
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; align="center"">
+      <div style="font-size:18px; text-align: center;">
+        <b>Inkscape view for our square</b>
+      </div>
+      <img src="square_inkscape.png" alt="square inkscape" style="width:100%; height:auto;">
+    </td>
+    <td style="width:50%; align="center"">
+      <div style="font-size:18px; text-align: center;">
+        <b>Epilog view for our square</b>
+      </div>
+      <img src="sqaure_epilog.png" alt="square epilog" style="width:100%; height:auto;">
+    </td>
+  </tr>
+</table>
+
+Here are our measured values from the calipers after laser cutting
 
 <div align="center">
 
