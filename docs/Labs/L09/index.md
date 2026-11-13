@@ -16,10 +16,9 @@
 
 For this part of the project we had to take a pair of calipers and measure the thickness of the wood board. We did this 3 times, and then measured the average of those thicknesses. This is important process because everything that is manufactured has some type of error that we need to account for. The board we were using is 3mm, so we should expect 0.118in. 
 
-|| Thickness 1 | Thickness 2 | Thickness 3 |
-|---|---|---|---|
-| Measurement | 0.114in | 0.117in | 0.111in |
-| Average |  |  |  |
+|| Thickness 1 | Thickness 2 | Thickness 3 | Average |
+|---|---|---|---|---|
+| Measurement | 0.114in | 0.117in | 0.111in | 0.114in|
 
 ## Decide
 
