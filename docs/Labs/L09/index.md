@@ -18,7 +18,7 @@ For this part of the project we had to take a pair of calipers and measure the t
 
 <div align="center">
 
-|| Thickness 1 | Thickness 2 | Thickness 3 | Average |
+| | Thickness 1 | Thickness 2 | Thickness 3 | Average |
 |---|---|---|---|---|
 | Measurement | 0.114in | 0.117in | 0.111in | 0.114in|
 
