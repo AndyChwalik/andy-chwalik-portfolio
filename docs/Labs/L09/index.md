@@ -43,9 +43,11 @@ After cutting out our square and measuring it, we found a kerf of 0.007in in the
 
 ### Step 3: Run a Fit Test
 
-This project requires to fit different cutout pieces together, so we needed to find out what the best measurements would be for that. In order to do that, we made a coupon that will test different measurements to give us a clearance for our design. 
+This project requires to fit different cutout pieces together, so we needed to find out what the best measurements would be for that. In order to do that, we made a coupon that will test different measurements to give us a clearance for our design based on the cutout square from the previous step.
 
-The coupon will have five different measurements. The middle slot will be what our measured thickness is supposed to be: 0.114in. 
+The coupon will have five different measurements. The middle slot will be what our measured thickness is supposed to be: 0.114in. The slots to the right increase by 1 kerf all the way to the end. So the far right slot should add 2 kerf onto the average thcinkess: 0.13in. The reverse is true when going to the left. It will subtract by 1 kerf all the way to the end. So the far left slot will be subtracting2 kerf from the average thickness: 0.098in. 
+
+
 
 ## Decide
 
