@@ -33,7 +33,7 @@ The next step is to measure the kerf. We didn't really know what the kerf was be
 <div align="center">
 
 | | Width (x-axis) | Length (y-axis) | Average |
-|---|---|---|---|---|
+|---|---|---|---|
 | Measurement | 0.584in | 0.582in | |
 | Kerf | 0.007in | 0.009in | 0.008in |
 
