@@ -30,6 +30,8 @@ After measurements our average ended up being 0.114in. This is a little below wh
 
 The next step is to measure the kerf. We didn't really know what the kerf was before this assignment, so it is important to talk about what the kerf is. While laser cutting, the laser will burn through a small amount of material to cutout whatever design you want. That small material the laser cutter cuts out is what we call the kerf. To measure the kerf, we will make a 15mm x 15mm, 0.591in x 0.591in, square and then measure the length and width with calipers. We will then measure the measured values from what's supposed to be the actual value to find what our kerf is.
 
+
+
 <div align="center">
 
 | | Width (x-axis) | Length (y-axis) | Average |
