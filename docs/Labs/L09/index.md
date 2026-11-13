@@ -34,7 +34,7 @@ The next step is to measure the kerf. We didn't really know what the kerf was be
 
 | | Width (x-axis) | Length (y-axis) | Average |
 |---|---|---|---|
-| Measurement | 0.584in | 0.582in | |
+| Measurement | 0.584in | 0.582in | 0.583in |
 | Kerf | 0.007in | 0.009in | 0.008in |
 
 </div>
