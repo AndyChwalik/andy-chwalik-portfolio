@@ -44,7 +44,7 @@ To setup the square, I drew a sketch of a 15mm x 15mm box in SolidWorks. I then 
       <div style="font-size:18px; text-align: center;">
         <b>Epilog view for our square</b>
       </div>
-      <img src="sqaure_epilog.png" alt="square epilog" style="width:100%; height:auto;">
+      <img src="square_epilog.png" alt="square epilog" style="width:100%; height:auto;">
     </td>
   </tr>
 </table>
