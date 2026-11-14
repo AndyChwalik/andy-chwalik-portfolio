@@ -18,9 +18,22 @@ For this part of the project we had to take a pair of calipers and measure the t
 
 <div align="center">
 
-| | Thickness 1 | Thickness 2 | Thickness 3 | Average |
-|---|---|---|---|---|
-| Measurement | 0.114in | 0.117in | 0.111in | 0.114in |
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td></td>
+    <td>Thickness 1</td>
+    <td>Thickness 2</td>
+    <td>Thickness 3</td>
+    <td>Average</td>
+  </tr>
+  <tr>
+    <td>Measurement</td>
+    <td>0.114in</td>
+    <td>0.117in</td>
+    <td>0.111in</td>
+    <td>0.114in</td>
+  </tr>
+</table>
 
 </div>
 
@@ -67,10 +80,26 @@ Here are our measured values from the calipers after laser cutting
 
 <div align="center">
 
-| | Width (x-axis) | Length (y-axis) | Average |
-|---|---|---|---|
-| Measurement | 0.584in | 0.582in | 0.583in |
-| Kerf | 0.007in | 0.009in | 0.008in |
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td></td>
+    <td>Width (x-axis)</td>
+    <td>Length (y-axis)</td>
+    <td>Average</td>
+  </tr>
+  <tr>
+    <td>Measurement</td>
+    <td>0.584in</td>
+    <td>0.582in</td>
+    <td>0.583in</td>
+  </tr>
+  <tr>
+    <td>Kerf</td>
+    <td>0.007in</td>
+    <td>0.009in</td>
+    <td>0.008in</td>
+  </tr>
+</table>
 
 </div>
 
@@ -119,9 +148,42 @@ The coupon will have five different measurements. The middle slot will be what o
 
 ### Step 4: Choose your clearance
 
-To choose our clearance we used our cutout coupon to see which slot would have the best fit for our square. Whichever slot would hold our square without us touching it, and allow us to put it together relatively easily would be the clearance we chose. Through testing this way, we found that two times the kerf was the best value for us to use for our clearance: 0.016in. 
+To choose our clearance we used our cutout coupon to see which slot would have the best fit for our square. Whichever slot would hold our square without us touching it, and allow us to put it together relatively easily would be the clearance we chose. Through testing this way, we found that the farthest left slot on our coupon was the best: 0.098in. This will be our clearance
 
 ## Design
+
+To summarize the previous steps before going to CAD modeling, here is a table with all of the values that are relevant to the model.
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td>Variable name</td>
+    <td>Value Units</td>
+    <td>Source (measured or chosen)</td>
+    <td>What it controls</td>
+  </tr>
+  <tr>
+    <td>Material Thickness</td>
+    <td>0.114in</td>
+    <td>Measured in step 1</td>
+    <td>This tells us what the actual thickness of the board we are using is</td>
+  </tr>
+  <tr>
+    <td>Kerf</td>
+    <td>0.008in</td>
+    <td>Measured in step 2</td>
+    <td>This tells us how much material is burned away by the laser cuter</td>
+  </tr>
+  <tr>
+    <td>Clearance</td>
+    <td>0.098in</td>
+    <td>Chosen in step 4</td>
+    <td>This will tell us how thick our connection points will be so that everything fits correctly</td>
+  </tr>
+  <tr>
+    <td>Slot Width</td>
+  </tr>
+</table>
+
 
 ## Decide
 
