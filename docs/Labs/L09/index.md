@@ -364,6 +364,9 @@ I repeated this step until I had a semi-circle for the large ring as well.
   </tr>
   <tr>
     <td>Laser Cutter (name or number)</td>
+    <td>Machine 2</td>
+    <td>Machine 2</td>
+    <td>Machine 2</td>
   </tr>
   <tr>
     <td>Material Type</td>
