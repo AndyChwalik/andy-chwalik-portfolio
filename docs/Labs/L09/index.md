@@ -315,8 +315,8 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
 </table>
   
 That completes the CAD model for the silhouette. If you notice in the full picture of the sketch, there are dimensions show the diameter of the connection points. This was so Eshan knew what diameter the donuts had to be in order for all of our parts to fit correctly.
-  
-  
+
+Here is the file for [silhouette 1](Rocket_Base.SLDPRT), [silhouette 2](Rocket_Base2.SLDPRT), and the [assembly](Full_Rocket.SLDASM)
 
 ### Rocket Rings (Donuts)
 
