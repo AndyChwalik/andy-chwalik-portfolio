@@ -95,7 +95,7 @@ The coupon will have five different measurements. The middle slot will be what o
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="coupon_sldworks.png" alt="coupon solidworks" style="width:100%; height:auto;">
+      <img src="coupon_inkscape.png" alt="coupon inkscape" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -105,7 +105,7 @@ The coupon will have five different measurements. The middle slot will be what o
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="square_sldworks.png" alt="square solidworks" style="width:100%; height:auto;">
+      <img src="coupon_epliog.png" alt="coupon epilog" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
