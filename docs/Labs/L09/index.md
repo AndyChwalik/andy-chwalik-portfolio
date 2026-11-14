@@ -33,7 +33,7 @@ The next step is to measure the kerf. We didn't really know what the kerf was be
 <table style="width:100%;">
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="square_sldworks.png" alt="square inkscape" style="width:100%; height:auto;">
+      <img src="square_sldworks.png" alt="square solidworks" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
