@@ -1,4 +1,4 @@
-# L9 – Laser Cutter
+<img width="921" height="969" alt="image" src="https://github.com/user-attachments/assets/fece558f-1739-4bf0-99e9-08aa32aa1e3e" /><img width="871" height="823" alt="image" src="https://github.com/user-attachments/assets/fc41bc9a-7387-4e48-b17b-16389a8acc73" /># L9 – Laser Cutter
 
 **Group:** Eshan Thaker and Andy Chwalik
 
@@ -154,6 +154,8 @@ To choose our clearance we used our cutout coupon to see which slot would have t
 
 To summarize the previous steps before going to CAD modeling, here is a table with all of the values that are relevant to the model.
 
+### Parameter Table
+
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td>Variable name</td>
@@ -186,6 +188,8 @@ To summarize the previous steps before going to CAD modeling, here is a table wi
 
 With all of this in mind, it is time to start designing. We weren't sure what to laser cut, so we looked up other laser cuts online. A lot of them were way to complicated for this project, but we kept seeing rocket ships and had a design in mind. Below are the two concepts we would be using.
 
+### Inspiration
+
 <table style="width:100%;">
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
@@ -209,9 +213,111 @@ With all of this in mind, it is time to start designing. We weren't sure what to
   </tr>
 </table>
 
-Using these two techniques together should make our final product recognizable.
+Using these two techniques together should make our final product recognizable. I will be calling the outline of the rocket as the silhouette and the rings for the rocket donuts. We decided to divide those two techniques among us. I will be designing the silhouette while Eshan will be designing the donuts.
 
+### Rocket Outline (Silhouette)
 
+I forgot to take pictures as I was designing, so I will be taking screenshots of the final design and then explain what I did during that process. There will be extra information shown in each step because of this, but I think this is the most simple way to explain my design process without redesigning the whole silhouette.
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="elipse.png" alt="silhouette elipse" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        For the first step, I wanted to make the shape of the body for a rocket. Originally I wanted to use a spline tool to do this, but I heard from another group that Inkspace reacts weirdly to the spline tool. To get around this, I just created an elipse that was 4.5in in length and 1in in width. I then offset the elipse I created 0.25in to create the body without the connections. Using an elipse like this will make our rocket ship look more round, but we thought that was fine.
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="connection_center.png" alt="connection point center" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The next step I took was creating the first connection point. We are going to have five connection points up the side of the body to connect the donuts to. I decided to start with the middle one first. To do this, I created a centerline through the middle of my elipse and then offset that line by our clearance: 0.098in. Next, we decided how long we wanted our connection point to be. We decided on 0.15in, so I made sure the connection point was 0.15in in from the outside of the body. I then trimmed the body to make it all of the geometry work together
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="connection_top3.png" alt="connection top 3" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that the center connection point is done, I had to find the location for the other four location points. To do this, I took the height of the inner elipse (4in) and then divided it by five for the five connections we have. This gave me 0.8in which will be the gap between each of our connection points. Using this value, I created the two connection points of the center one. The top connection point is on the inside of the body because I am going to mirror it, and I didn't want the connection point to mess with the fins.
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="connection_right5.png" alt="connection right 5" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that I have all of my connection points, I can mirror my connection points over the centerline I created earlier for the center connection. This will give me all five of my connection points on one side of the body.
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket_fin.png" alt="rocket fin" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once I had all of the connection points, it was time to move onto the fins. To do this, I used the line tool and made my first click between the bottom connection and the one above it. There is no real measurement with it, I just clicked between them. I then created a triangle shape that connected to the bottom of the rocket. We wanted the rocket to be about 5.5in tall, so I made the bottom of the triangle 1in from the bottom of the body. To make it look more like a fin, I rounded the sharp edge by 0.1. 
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket_mirror.png" alt="rocket mirrored" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that I had one side completed, I made a centerline going from the top of the ellipse all the way to the bottom. I then mirrored the entire shape over that centerline to complete the main shape of the silhouette.
+    </td>
+      </div>
+  </tr>
+  tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="silhouette_connection_top1.png" alt="silhouette connection top" style="width:100%; height:auto;">
+      <img src="silhouette_connection_bottom1.png" alt="silhouette connection bottom" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The last thing I had to worry about was creating a connection between the two different silhouettes. To do this I decided to make a cutout at the very bottom of the rocket and then a small cutout at the top of the rocket. The idea is that the bottom of this silhouette will slide over the top of the other, and they will connect with the two indents at the top.
+    </td>
+      </div>
+  </tr>
+  tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="silhouette_connection_top2.png" alt="silhouette connection top" style="width:100%; height:auto;">
+      <img src="silhouette_connection_bottom2.png" alt="silhouette connection bottom" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To make the second silhouette, I saved the previous file as is and then undid the previous step. To finish the connection points, I did the exact same thing as the previous step by opposite. For the top connection, I made the connection point on the top. For the bottom connection. it is just solid material for the other silhouette to slide over
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket_mirror.png" alt="rocket mirrored" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once I had both silhouettes finished, I extruded them by 0.114in (the thickness of our board) and then put them in an assembly. This will give a better understanding of what our vision for this rocket ship is like.
+    </td>
+      </div>
+  </tr>
+  
+  
+  
+  
+
+### Rocket Rings (Donuts)
 
 ## Decide
 
