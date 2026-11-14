@@ -184,6 +184,34 @@ To summarize the previous steps before going to CAD modeling, here is a table wi
   </tr>
 </table>
 
+With all of this in mind, it is time to start designing. We weren't sure what to laser cut, so we looked up other laser cuts online. A lot of them were way to complicated for this project, but we kept seeing rocket ships and had a design in mind. Below are the two concepts we would be using.
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket1.jpg" alt="rocket 1" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        This one creates a frame and then slides the frames over each other. It creates some depth to the rocket ship, making it look 3D even though it is a 2D shape. We thought we could use this technique for our design as well
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket2.jpg" alt="rocket 2" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        This one uses a bunch of circles around the frame to create what looks like a body for the rocket ship. We thought we could use this technique to give our rocket more of circular shape than the first rocket we looked at.
+      </div>
+    </td>
+  </tr>
+</table>
+
+Using these two techniques together should make our final product recognizable.
+
+
 
 ## Decide
 
