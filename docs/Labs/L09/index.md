@@ -363,16 +363,61 @@ I repeated this step until I had a semi-circle for the large ring as well.
     <td>Final Cut</td>
   </tr>
   <tr>
-    
+    <td>Laser Cutter (name or number)</td>
   </tr>
   <tr>
-    
+    <td>Material Type</td>
+    <td>Wood</td>
+    <td>Wood</td>
+    <td>Wood</td>
   </tr>
   <tr>
-    
+    <td>Nominal Thickness</td>
+    <td>0.118in</td>
+    <td>0.118in</td>
+    <td>0.118in</td>
   </tr>
   <tr>
-    
+    <td>Measured Thickness (mean)</td>
+    <td>0.114in</td>
+    <td>0.114in</td>
+    <td>0.114in</td>
+  </tr>
+  <tr>
+    <td>Speed</td>
+    <td>20%</td>
+    <td>20%</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Power</td>
+    <td>100%</td>
+    <td>100%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Frequency or PPI (if applicable)</td>
+    <td>20%</td>
+    <td>20%</td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td>Number of Passes</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Focus method and how you confirmed it</td>
+  </tr>
+  <tr>
+    <td>Air assist on? Exhaust on?</td>
+    <td>No</td>
+    <td>Yes to both</td>
+    <td>Yes to both</td>
+  </tr>
+  <tr>
+    <td>How you set origin and alignment</td>
   </tr>
 </table>
 
