@@ -1,4 +1,4 @@
-<img width="921" height="969" alt="image" src="https://github.com/user-attachments/assets/fece558f-1739-4bf0-99e9-08aa32aa1e3e" /><img width="871" height="823" alt="image" src="https://github.com/user-attachments/assets/fc41bc9a-7387-4e48-b17b-16389a8acc73" /># L9 – Laser Cutter
+# L9 – Laser Cutter
 
 **Group:** Eshan Thaker and Andy Chwalik
 
