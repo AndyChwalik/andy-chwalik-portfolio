@@ -312,6 +312,7 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
     </td>
       </div>
   </tr>
+</table>
   
   
   
