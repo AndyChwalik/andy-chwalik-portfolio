@@ -177,12 +177,15 @@ To summarize the previous steps before going to CAD modeling, here is a table wi
   </tr>
   <tr>
     <td>Clearance</td>
-    <td>0.098in</td>
+    <td>-0.016in</td>
     <td>Chosen in step 4</td>
-    <td>This will tell us how thick our connection points will be so that everything fits correctly</td>
+    <td>This tells us how much we deviate from the actual value while laser cutting</td>
   </tr>
   <tr>
     <td>Slot Width</td>
+    <td>0.098in</td>
+    <td>Measured in step 4</td>
+    <td>This tells us how big our connection slots will be when assembling our design</td>
   </tr>
 </table>
 
