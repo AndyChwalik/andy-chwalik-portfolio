@@ -220,6 +220,8 @@ Using these two techniques together should make our final product recognizable. 
 
 ### Rocket Outline (Silhouette)
 
+Andy:
+
 I forgot to take pictures as I was designing, so I will be taking screenshots of the final design and then explain what I did during that process. There will be extra information shown in each step because of this, but I think this is the most simple way to explain my design process without redesigning the whole silhouette.
 
 <table style="width:100%;">
@@ -332,6 +334,23 @@ That completes the CAD model for the silhouette. If you notice in the full pictu
 Here is the file for [silhouette 1](Rocket_Base.SLDPRT), [silhouette 2](Rocket_Base2.SLDPRT), and the [assembly](Full_Rocket.SLDASM)
 
 ### Rocket Rings (Donuts)
+
+Eshan:
+
+My task in the design process was to design the rings that would attach onto the frame. We wanted five rings in total with two small rings, two medium rings, and one large ring. The rings would have to be designed in halves since the frame was going to cut through them. Unlike the other rings, the small ring at the bottom of the rocket was going to be attached from the inside of the frame to account for the shape of the frame and to maintain the overall aesthetics of the rocket. I began by inputting the clearance, kerf, and thickness into the parameters section. Using these values, I created equations to automatically set the inner and outer radius of each ring.  
+
+<img width="343" height="183" alt="Screenshot 2026-10-26 214013" src="https://github.com/user-attachments/assets/7a46d7b5-02aa-43af-8da8-9290c01a5951" />
+
+Using the parameters, I first designed the small bottom ring. This means that the opening had to be drawn on the inside of the semi-circle so that it could be attached on the inside of the frame, as shown in the image. 
+
+<img width="405" height="234" alt="Screenshot 2026-10-26 224856" src="https://github.com/user-attachments/assets/064fb831-7ecd-4260-9ceb-d7c1c720e01b" />
+
+Next, I designed the medium ring. Using the equations I set earlier, I just changed the radius values and updated my model. For the medium and large rings, the opening had to be drawn on the outside of the semi-circle since they were being attached on the outside of the frame. 
+
+<img width="276" height="153" alt="Screenshot 2026-10-26 224913" src="https://github.com/user-attachments/assets/156a1055-cb10-4b38-ab65-02689632afb6" />
+
+I repeated this step until I had a semi-circle for the large ring as well. 
+
 
 ## Decide
 
