@@ -409,6 +409,9 @@ I repeated this step until I had a semi-circle for the large ring as well.
   </tr>
   <tr>
     <td>Focus method and how you confirmed it</td>
+    <td>Auto focus button and we confirmed it by checking with a staff member</td>
+    <td>Auto focus button and we confirmed it by checking with a staff member</td>
+    <td>Auto focus button and we confirmed it by checking with a staff member</td>
   </tr>
   <tr>
     <td>Air assist on? Exhaust on?</td>
@@ -418,6 +421,9 @@ I repeated this step until I had a semi-circle for the large ring as well.
   </tr>
   <tr>
     <td>How you set origin and alignment</td>
+    <td>We used the auto align button</td>
+    <td>We used the auto align button</td>
+    <td>We used the auto align button</td>
   </tr>
 </table>
 
