@@ -304,7 +304,7 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="rocket_mirror.png" alt="rocket mirrored" style="width:100%; height:auto;">
+      <img src="rocket_full.png" alt="rocket model completed" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -314,7 +314,7 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
   </tr>
 </table>
   
-  
+That completes the CAD model for the silhouette. If you notice in the full picture of the sketch, there are dimensions show the diameter of the connection points. This was so Eshan knew what diameter the donuts had to be in order for all of our parts to fit correctly.
   
   
 
