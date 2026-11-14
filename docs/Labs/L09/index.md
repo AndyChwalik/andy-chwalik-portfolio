@@ -113,6 +113,7 @@ The coupon will have five different measurements. The middle slot will be what o
       </div>
     </td>
   </tr>
+</table>
 
 
 
