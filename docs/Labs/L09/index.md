@@ -363,56 +363,16 @@ I repeated this step until I had a semi-circle for the large ring as well.
     <td>Final Cut</td>
   </tr>
   <tr>
-    <td>Laser cutter (name or number)/td>
-    <td>Material type</td>
-    <td>Nominal thickness</td>
-    <td>Measured thickness (mean)</td>
-    <td>Speed</td>
-    <td>Power</td>
-    <td>Frequency or PPI (if applicable)</td>
-    <td>Number of passes</td>
-    <td>Focus method and how you confirmed it</td>
-    <td>Air assist on? Exhaust on?</td>
-    <td>How you set origin and alignment</td>
+    
   </tr>
   <tr>
-    <td>Laser cutter (name or number)/td>
-    <td>Material type</td>
-    <td>Nominal thickness</td>
-    <td>Measured thickness (mean)</td>
-    <td>Speed</td>
-    <td>Power</td>
-    <td>Frequency or PPI (if applicable)</td>
-    <td>Number of passes</td>
-    <td>Focus method and how you confirmed it</td>
-    <td>Air assist on? Exhaust on?</td>
-    <td>How you set origin and alignment</td>
+    
   </tr>
   <tr>
-    <td>Laser cutter (name or number)/td>
-    <td>Material type</td>
-    <td>Nominal thickness</td>
-    <td>Measured thickness (mean)</td>
-    <td>Speed</td>
-    <td>Power</td>
-    <td>Frequency or PPI (if applicable)</td>
-    <td>Number of passes</td>
-    <td>Focus method and how you confirmed it</td>
-    <td>Air assist on? Exhaust on?</td>
-    <td>How you set origin and alignment</td>
+    
   </tr>
   <tr>
-    <td>Laser cutter (name or number)/td>
-    <td>Material type</td>
-    <td>Nominal thickness</td>
-    <td>Measured thickness (mean)</td>
-    <td>Speed</td>
-    <td>Power</td>
-    <td>Frequency or PPI (if applicable)</td>
-    <td>Number of passes</td>
-    <td>Focus method and how you confirmed it</td>
-    <td>Air assist on? Exhaust on?</td>
-    <td>How you set origin and alignment</td>
+    
   </tr>
 </table>
 
