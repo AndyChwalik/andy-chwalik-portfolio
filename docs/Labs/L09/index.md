@@ -115,7 +115,13 @@ The coupon will have five different measurements. The middle slot will be what o
   </tr>
 </table>
 
+## Decide
 
+### Step 4: Choose your clearance
+
+To choose our clearance we used our cutout coupon to see which slot would have the best fit for our square. Whichever slot would hold our square without us touching it, and allow us to put it together relatively easily would be the clearance we chose. Through testing this way, we found that two times the kerf was the best value for us to use for our clearance: 0.016in. 
+
+## Design
 
 ## Decide
 
