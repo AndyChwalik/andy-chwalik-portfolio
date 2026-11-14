@@ -30,7 +30,37 @@ After measurements our average ended up being 0.114in. This is a little below wh
 
 The next step is to measure the kerf. We didn't really know what the kerf was before this assignment, so it is important to talk about what the kerf is. While laser cutting, the laser will burn through a small amount of material to cutout whatever design you want. That small material the laser cutter cuts out is what we call the kerf. To measure the kerf, we will make a 15mm x 15mm, 0.591in x 0.591in, square and then measure the length and width with calipers. We will then measure the measured values from what's supposed to be the actual value to find what our kerf is.
 
-To setup the square, I drew a sketch of a 15mm x 15mm box in SolidWorks. I then opened the solidworks file in Inkscape. This will show me what the cut will look like beforehand. Once everything looked good, I printed my inkscape file into Epilog. When in epilog I went to the material properties and selected vector for the process type. This will mean that I am cutting out my design rather than engraving. I also made sure to specify a 3mm wooden board and kept the default settings for that.
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="square_sldworks.png" alt="square inkscape" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To setup the square I drew a sketch of a 15mm x 15mm box in SolidWorks.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="square_inkscape.png" alt="square inkscape" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then opened the SolidWorks file into inkscape. This will allow me to see how big my design actually is and if I need to change anything. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="square_epilog.png" alt="square epilog" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Once everything looked good, I printed my inkscape file into Epilog. When in epilog I went to the material properties and selected vector for the process type. This will mean that I am cutting out my design rather than engraving. I also made sure to specify a 3mm wooden board and kept the default settings for that.
+      </div>
+    </td>
+  </tr>
 
 <table style="width:100%;">
   <tr>
@@ -66,8 +96,9 @@ After cutting out our square and measuring it, we found a kerf of 0.007in in the
 
 This project requires to fit different cutout pieces together, so we needed to find out what the best measurements would be for that. In order to do that, we made a coupon that will test different measurements to give us a clearance for our design based on the cutout square from the previous step.
 
-The coupon will have five different measurements. The middle slot will be what our measured thickness is supposed to be: 0.114in. The slots to the right increase by 1 kerf all the way to the end. So the far right slot should add 2 kerf onto the average thcinkess: 0.13in. The reverse is true when going to the left. It will subtract by 1 kerf all the way to the end. So the far left slot will be subtracting2 kerf from the average thickness: 0.098in. 
+The coupon will have five different measurements. The middle slot will be what our measured thickness is supposed to be: 0.114in. The slots to the right increase by 1 kerf all the way to the end. So the far right slot should add 2 kerf onto the average thcinkess: 0.13in. The reverse is true when going to the left. It will subtract by 1 kerf all the way to the end. So the far left slot will be subtracting 2 kerf from the average thickness: 0.098in. 
 
+To setup the coupon, I created a sketch inside Solidworks. I separated the slots by 0.05in and I made the height 0.599in so we didn't run into any issues outside of what we wanted to measure. 
 
 
 ## Decide
