@@ -61,22 +61,6 @@ The next step is to measure the kerf. We didn't really know what the kerf was be
       </div>
     </td>
   </tr>
-
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%; align="center"">
-      <div style="font-size:18px; text-align: center;">
-        <b>Inkscape view for our square</b>
-      </div>
-      <img src="square_inkscape.png" alt="square inkscape" style="width:100%; height:auto;">
-    </td>
-    <td style="width:50%; align="center"">
-      <div style="font-size:18px; text-align: center;">
-        <b>Epilog view for our square</b>
-      </div>
-      <img src="square_epilog.png" alt="square epilog" style="width:100%; height:auto;">
-    </td>
-  </tr>
 </table>
 
 Here are our measured values from the calipers after laser cutting
@@ -98,7 +82,38 @@ This project requires to fit different cutout pieces together, so we needed to f
 
 The coupon will have five different measurements. The middle slot will be what our measured thickness is supposed to be: 0.114in. The slots to the right increase by 1 kerf all the way to the end. So the far right slot should add 2 kerf onto the average thcinkess: 0.13in. The reverse is true when going to the left. It will subtract by 1 kerf all the way to the end. So the far left slot will be subtracting 2 kerf from the average thickness: 0.098in. 
 
-To setup the coupon, I created a sketch inside Solidworks. I separated the slots by 0.05in and I made the height 0.599in so we didn't run into any issues outside of what we wanted to measure. 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="coupon_sldworks.png" alt="coupon solidworks" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To setup the coupon, I created a sketch inside Solidworks. I separated the slots by 0.05in and I made the height 0.599in so we didn't run into any issues outside of what we wanted to measure. 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="coupon_sldworks.png" alt="coupon solidworks" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Next, I imported the file into Inkscape. I didn't change anything inside Inkscape, I just made sure everything looked to be sized correctly.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="square_sldworks.png" alt="square solidworks" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then printed the Inkscape file into Epilog. In Epilog I made sure to choose vector as the processing type so that our design would be cut out rather than engraved. I then went to material properties and chose the 3mm wooden board so that the correct laser settings would be applied.
+      </div>
+    </td>
+  </tr>
+
 
 
 ## Decide
