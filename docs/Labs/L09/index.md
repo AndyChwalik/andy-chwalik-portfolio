@@ -280,7 +280,7 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
     </td>
       </div>
   </tr>
-  tr>
+  <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="silhouette_connection_top1.png" alt="silhouette connection top" style="width:100%; height:auto;">
       <img src="silhouette_connection_bottom1.png" alt="silhouette connection bottom" style="width:100%; height:auto;">
@@ -291,7 +291,7 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
     </td>
       </div>
   </tr>
-  tr>
+  <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="silhouette_connection_top2.png" alt="silhouette connection top" style="width:100%; height:auto;">
       <img src="silhouette_connection_bottom2.png" alt="silhouette connection bottom" style="width:100%; height:auto;">
