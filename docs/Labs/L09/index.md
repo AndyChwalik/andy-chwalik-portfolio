@@ -225,11 +225,21 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
 <table style="width:100%;">
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="parameters.png" alt="Parametric table" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I first created a table for critical global variables. This will make it easy to change the design later if we want to.
+    </td>
+      </div>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
       <img src="elipse.png" alt="silhouette elipse" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        For the first step, I wanted to make the shape of the body for a rocket. Originally I wanted to use a spline tool to do this, but I heard from another group that Inkspace reacts weirdly to the spline tool. To get around this, I just created an elipse that was 4.5in in length and 1in in width. I then offset the elipse I created 0.25in to create the body without the connections. Using an elipse like this will make our rocket ship look more round, but we thought that was fine.
+        I wanted to make the shape of the body for a rocket. Originally I wanted to use a spline tool to do this, but I heard from another group that Inkspace reacts weirdly to the spline tool. To get around this, I just created an elipse that had the length as the body_height variable and 1in in width. I then offset the elipse I created 0.25in to create the body without the connections. Using an elipse like this will make our rocket ship look more round, but we thought that was fine.
     </td>
       </div>
   </tr>
@@ -239,7 +249,7 @@ I forgot to take pictures as I was designing, so I will be taking screenshots of
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        The next step I took was creating the first connection point. We are going to have five connection points up the side of the body to connect the donuts to. I decided to start with the middle one first. To do this, I created a centerline through the middle of my elipse and then offset that line by our clearance: 0.098in. Next, we decided how long we wanted our connection point to be. We decided on 0.15in, so I made sure the connection point was 0.15in in from the outside of the body. I then trimmed the body to make it all of the geometry work together
+        The next step I took was creating the first connection point. We are going to have five connection points up the side of the body to connect the donuts to. I decided to start with the middle one first. To do this, I created a centerline through the middle of my elipse and then offset that line by our slot width: 0.098in. Next, I applied the slot_depth variable from the outside of the ellipse to finish the general shape of the central connection. I then trimmed the body to make it all of the geometry work together
     </td>
       </div>
   </tr>
