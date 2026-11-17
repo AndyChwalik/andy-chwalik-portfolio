@@ -357,7 +357,7 @@ Next, I designed the medium ring. Using the equations I set earlier, I just chan
 
 I repeated this step until I had a semi-circle for the large ring as well. 
 
-Here is the file for the [small ring](sdlab9small.prt). Here is the file for the [middle ring](sdlab9medium2.prt). Here is the file for the [big ring](sdlab9big.prt).
+Here is the file for the [small ring](sdlab9small.prt.zip). Here is the file for the [middle ring](sdlab9medium2.prt.zip). Here is the file for the [big ring](sdlab9big.prt.zip).
 ## Manufacturing
 
 ### Research
