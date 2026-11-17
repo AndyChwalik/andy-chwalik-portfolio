@@ -222,7 +222,6 @@ The 3D printing process was going to take a while, so I decided to a few progres
 
 I also wanted to get a video of the infill getting 3D printed, since I thought that was the most interesting process. The video below shows the print at around 50% completion. The infill is still visible, but it is starting to get covered by another solid layer as seen for the disc. The supports are also very noticeable for the disc as the entire hole is pretty much completed now.
 
-
 <p align="center">
 <iframe width="315" height="560" src="https://www.youtube.com/embed/uBdS72QqGIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
@@ -255,7 +254,7 @@ Here is a demonstration of me using my design. I think it works pretty well. I a
 
 ## Video Tutorial
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube.com/embed/-OKmsjly5lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ### Improvements
