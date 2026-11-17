@@ -224,7 +224,9 @@ I also wanted to get a video of the infill getting 3D printed, since I thought t
 
 
 <p align="center">
-  <img src="printing_video.gif" alt="printing video" style="width:100%; height=auto"/>
+
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/uBdS72QqGIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </p>
 
 The last progress update I did before letting the print finish was at 63%. This was the time in the 3D print where each part is starting to really take shape, and you can picture how everything will fit together.
@@ -254,9 +256,9 @@ If you are interested in the CAD files, here they are.
 Here is a demonstration of me using my design. I think it works pretty well. I am able to put multiple objects on the wheel while spinning the disc to access whatever I want. It fits what I wanted to fit on there originally, and I think I can add different things to it in the future. The pin also doesn't have as much room to move around as I thought because the hole for the base became a little deformed during the printing process.
 
 ## Video Tutorial
-<div>
+<p align="center">
 <iframe width="315" height="560" src="https://www.youtube.com/embed/-OKmsjly5lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+</p>
 
 ### Improvements
 
