@@ -252,13 +252,10 @@ If you are interested in the CAD files, here they are.
 ### Demonstration
 
 Here is a demonstration of me using my design. I think it works pretty well. I am able to put multiple objects on the wheel while spinning the disc to access whatever I want. It fits what I wanted to fit on there originally, and I think I can add different things to it in the future. The pin also doesn't have as much room to move around as I thought because the hole for the base became a little deformed during the printing process.
-
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/shorts/-OKmsjly5lc"
-  title="Demo"
-  frameborder="0"
+  src="https://www.youtube.com/embed/-OKmsjly5lc"
   allowfullscreen>
 </iframe>
 
