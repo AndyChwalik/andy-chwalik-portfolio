@@ -254,7 +254,7 @@ Here is a demonstration of me using my design. I think it works pretty well. I a
 
 ## Video Tutorial
 <p align="center">
-<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/-OKmsjly5lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ### Improvements
