@@ -255,14 +255,10 @@ Here is a demonstration of me using my design. I think it works pretty well. I a
 
 ## Video Tutorial
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://www.youtube.com/shorts/-OKmsjly5lc" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
-</div>
+<video width="100%" controls>
+  <source src="https://www.youtube.com/shorts/-OKmsjly5lc" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Improvements
 
