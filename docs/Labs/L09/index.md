@@ -466,7 +466,7 @@ While the laser cutter was on, we opened the exhaust valve and turned on the air
 Here is what our design looked like when put together.
 
 <p align="center">
-  <img src="final_design.png" alt="final design" style="width:50%; height=auto"/>
+  <img src="final_design.jpg" alt="final design" style="width:50%; height=auto"/>
 </p>
 
 ## Lessons Learned
