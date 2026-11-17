@@ -144,6 +144,12 @@ The coupon will have five different measurements. The middle slot will be what o
   </tr>
 </table>
 
+Here is what our coupon looked like with the square cutout.
+
+<p align="center">
+  <img src="coupon.jpg" alt="coupon" style="width:50%; height=auto"/>
+</p>
+
 ## Decide
 
 ### Step 4: Choose your clearance
@@ -353,7 +359,26 @@ I repeated this step until I had a semi-circle for the large ring as well.
 
 ## Manufacturing
 
+### Research
+
+Laser cutting works by using a concentrated beam of light to cut through different materials. To concentrate the beam of light, it uses mirrors and lenses to focus all of the light together. This concentrated beam of light generates a lot of heat, which will cut/burn through the material you want to laser cut. It is a viable manufacturing process because it can be used with a wide range of materials and provides low uncertainty values.
+
+When you compare this to FDM, there are a lot of differences that show up. The first major difference is that it is a different type of manufacturing. FDM adds material to the part until it is fully finish. Laser cutting will already have a piece of material and then cut away the parts that aren't needed. Laser cutting is also much faster due to how quickly its concentrated laser can cut through material. 
+
 ### Laser Process Record
+Here is the layout for all of our parts. There was no real reason behind the layout. We just tried to lay them out in a way that way conserve space, while not being too close to affect each other with the laser.
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket_inkscape.png" alt="Parametric table" style="width:100%; height:auto;">
+    </td>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="rocket_epilog.png" alt="Parametric table" style="width:100%; height:auto;">
+    </td>
+  </tr>
+
+Here are all of the settings that we used while manufacturing our different parts.
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
@@ -430,8 +455,35 @@ I repeated this step until I had a semi-circle for the large ring as well.
   </tr>
 </table>
 
-## Decide
+This is a video of the laser cutting process. As you can see the laser follows what our layout was on epilog and then cycles through it however many times we told it to. For this project, we only had it cycle one time.
 
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Communicate
+While the laser cutter was on, we opened the exhaust valve and turned on the air compressor underneath. We are not sure what the air compressor does, but the staff told us to do so. Once everything was printed out, there was a noticeable burn on the edge of each material. It also smelt like burnt wood. We had to let it sit in the laser cutter for a little bit before taking it out so we didn't stink up the whole fablab.
 
+## Lessons Learned
+
+### Process Log
+
+<p align="center">
+  <img src="process_log.png" alt="process log" style="width:50%; height=auto"/>
+</p>
+
+### Mistakes
+
+I would say we didn't make many mistakes during this project. We did make our small donuts a little to small. They didn't connect all of the way. I think this was either a possible miscommunication or a miscalculation with the kerf. I will say that the biggest mistake we had was that one of us used Creo while one of used SolidWorks. This was fine in the end, but we couldn't see everything on the assembly at one time to check everything. We just had to cut it and hope it worked. Luckily it did. We only used that one board for our laser cutting, so I thought we were pretty efficient.
+
+### Reflection Prompts
+
+1. Our measured values varied when it came to the thickness of the board. The board was supposed to be 3mm, but we were measure a 0.004in under that assumed value. If we took the 3mm at face value, we may of had to laser cut again since our parts wouldn't fit together. Our kerf only varied by 0.002in, and it would've had the same affect as the thickness of the board.
+2. The small rings on the rocket work, but don't fit together how we would like. They don't touch together and leave a noticeable gap. If we mass produced our rockets, this defect would show up in all of them, and the lower ring could possibly fall off due to the inconsistent measurement.
+3. A real life example that would use cutouts is a DIY birdhouse. They typically come into a kit where you connect all of the different parts together, similar to how we made our rocket. A kerf error could show up if the thickness of the board kept on changing. It could lead to some parts being too small while some are too big. It would create weird attachments, and it could leave gaps in the design depending how severe it is.
+4. If we had another cut, we would better fit the small ring to the design. That was the only major flaw with our design. I think we would also increase the number of cycles for the laser cutting process because it was a little hard to get a few of the pieces out due to them not being cut all the way through. If we did another cycle, it would've been easier to take out all of our pieces.
+
+### Resources
+
+- [https://www.twi-global.com/technical-knowledge/faqs/what-is-laser-cutting](https://www.twi-global.com/technical-knowledge/faqs/what-is-laser-cutting)
+- [https://www.torontomu.ca/content/dam/design-technology-lab/services/laser-cutting/LaserCuttingBasics_F25.pdf](https://www.torontomu.ca/content/dam/design-technology-lab/services/laser-cutting/LaserCuttingBasics_F25.pdf)
+- [https://www.thomasnet.com/articles/custom-manufacturing-fabricating/laser-cutting-technology/](https://www.thomasnet.com/articles/custom-manufacturing-fabricating/laser-cutting-technology/)
+
+This assignment took me about 14 hours to do with documentation
