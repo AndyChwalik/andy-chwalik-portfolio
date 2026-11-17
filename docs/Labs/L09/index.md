@@ -147,7 +147,7 @@ The coupon will have five different measurements. The middle slot will be what o
 Here is what our coupon looked like with the square cutout.
 
 <p align="center">
-  <img src="coupon.heic" alt="coupon" style="width:50%; height=auto"/>
+  <img src="coupon.jpg" alt="coupon" style="width:50%; height=auto"/>
 </p>
 
 ## Decide
