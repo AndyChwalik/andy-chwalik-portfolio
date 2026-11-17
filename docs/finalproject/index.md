@@ -84,7 +84,7 @@ When I first was assigned this project, I asked all of my friends and family if 
 The first person that responded was my older brother. He is a computer science major, and he suggested designing a wireless flash drive that is faster than the current Bluetooth flash drives. I thought this was a unique issue, which is why I took it into consideration, but I have absolutely no idea how to do this. To get a better understanding of this topic, I decided to email my mechatronics professor to see if he had any insight.
 
 <p align="center">
-  <img src="flash_dirve_bluetooth.GIF" alt="bluetooth flash drive" style="width:100%; height=auto"/>
+  <img src="flash_dirve_bluetooth.gif" alt="bluetooth flash drive" style="width:100%; height=auto"/>
 </p>
 
 I unfortunately didn't get any response to my email, so I decided to ask him after class. He said that is really hard to increase the speed of wireless flash drives. His reasoning is that the internet likes to send information one way, and this creates a lot of noise while using Bluetooth. The physical connection from your flash drive can filter out the noise created, creating a faster connection speed. The only way he suggested getting around this problem was to connect your device through WiFi, so that you could send large packets of data through WiFi. 
