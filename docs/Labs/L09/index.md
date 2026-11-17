@@ -358,6 +358,7 @@ Next, I designed the medium ring. Using the equations I set earlier, I just chan
 I repeated this step until I had a semi-circle for the large ring as well. 
 
 Here is the file for the [small ring](sdlab9small.prt.zip). Here is the file for the [middle ring](sdlab9medium2.prt.zip). Here is the file for the [big ring](sdlab9big.prt.zip).
+
 ## Manufacturing
 
 ### Research
@@ -378,6 +379,7 @@ Here is the layout for all of our parts. There was no real reason behind the lay
       <img src="rocket_epilog.png" alt="Parametric table" style="width:100%; height:auto;">
     </td>
   </tr>
+</table>
 
 Here are all of the settings that we used while manufacturing our different parts.
 
