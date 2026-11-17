@@ -160,5 +160,98 @@ Due to the fluctuating distances from connection point to connection point, I ha
 
 ##### Body Pin
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="pin_diameter.png" alt="pin diameter" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        I started out by creating a sketch with a circle having a diameter of 0.12in. I then extruded this pin by 0.72in. I got this value from adding the thickness of the body and the thickness of the bottom connections. I then added uncertainty for each part involved, so five parts. This should make my pin connect the bottom connections and the body no problem 
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="pin_offset.png" alt="pin offset" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        Next, I created a sketch on the edge of the extrusion I just made. I offset the circle by .02in and then extruded that sketch by 0.025in. The goal of this is to create a part of the pin that can't go through the connection point so that it stays in place.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="pin_mirror.png" alt="pin mirror" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        I then mirrored this to the other side of the pin by using a center plane.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="pin_crosshatch.png" alt="pin crosshatch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        At one end of the pin, I created a centerline horizontally and vertically. I then offset those lines by 0.015in in both directions to create a cross hatch. I then cut the material that wasn't necessary so that I had fully closed shape.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%;">
+      <img src="pin_crosshatch_extrusion.png" alt="pin crosshatch extrusion" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        I then cut this crosshatch pattern 0.1in into my pin. This should allow the end to fit through the whole and then lock on the other side.
+      </div>
+    </td>
+  </tr>
+</table>
+
+The rest of the pins have the same diameter for the inner and outer radius. The only thing that changes is the length of the pin.
+
+##### Connection Pins
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="connection_pin_length.png" alt="connection pin length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        The length of the connection pin is much shorter since there are only 2 0.2in parts connecting. The length of connection pin is 0.27in.
+      </div>
+    </td>
+  </tr>
+</table>
+
+##### Top Pin
+  
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%;">
+      <img src="connection_pin_length.png" alt="connection pin length" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; text-align:center; vertical-align:middle;"">
+      <div style="font-size:16px;">
+        The length of the top pin is 0.63in because they should range over four connection thicknesses. When factoring in the out radi and the uncertainty, this should be the perfect size for a connection
+      </div>
+    </td>
+  </tr>
+</table>
+
+#### Assembly
+
+With that the CAD parts should be all completed. I just have to assemble this as an assembly file in SolidWorks.
 
 
+<p align="center">
+    <img src="assembly.png" alt="assembly" height="75%" width="auto">
+</p>
+
+Here are all of my files as a [zip file]() if you are curious about the files.
