@@ -74,7 +74,26 @@ If you don't take the kerf into account, your parts may not fit the way you want
 - [https://www.machinemfg.com/things-you-should-know-about-laser-cut-kerf/](https://www.machinemfg.com/things-you-should-know-about-laser-cut-kerf/)
 - [https://cutlasercut.com/drawing-resources/expert-tips/laser-kerf/](https://cutlasercut.com/drawing-resources/expert-tips/laser-kerf/)
 
+### Problem Definition
 
+When I first was assigned this project, I asked all of my friends and family if there were any issues that they were experiencing that they would like to have a solution to. There were only three people that responded to this question, but one of them wanted a full solar system setup for their house, which is well outside the scope of this class. So I only have two problems from friends and family
 
+#### Wireless Flash Drive
+
+The first person that responded was my older brother. He is a computer science major, and he suggested designing a wireless flash drive that is faster than the current Bluetooth flash drives. I thought this was a unique issue, which is why I took it into consideration, but I have absolutely no idea how to do this. To get a better understanding of this topic, I decided to email my mechatronics professor to see if he had any insight.
+
+I unfortunately didn't get any response to my email, so I decided to ask him after class. He said that is really hard to increase the speed of wireless flash drives. His reasoning is that the internet likes to send information one way, and this creates a lot of noise while using Bluetooth. The physical connection from your flash drive can filter out the noise created, creating a faster connection speed. The only way he suggested getting around this problem was to connect your device through WiFi, so that you could send large packets of data through WiFi. 
+
+I started to think about how I can actually create this, and I don't really have a clear vision. Using the manufacturing methods we learned from class, I could make a PETG body and then an SLA cap to the flash drive, but the software to actually make this flash drive work sounds a little complicated for me to figure out. For this reason, I am not going to move forward with this design.
+
+#### Sanding Tool Attachment
+
+The other person that responded to my message was my mom. She is currently working on remodeling a kitchen and is in the process of sanding and painting the cabinet doors. The issue she is currently having is using an attachment that will keep sandpaper in place while sanding the decorative trim on the kitchen cabinets. She recommended some type of velcro method or a clamp mechanism to keep the sandpaper in place.
+
+I think this idea is a lot more doable with the manufacturing processes that we have learned in this class, so I am more intrigued by this issue. If I want to proceed with this, I would need to get the model of the tool she is using so that I can look up the dimensions to actually fit in parts into a tool. The only thing that concerns me is that power tools will cause high stress on the material, making me worried that FDM will break when in use.
+
+#### Car Attachment
+
+The next issue that I was thinking about 
 
 ## Part 2
