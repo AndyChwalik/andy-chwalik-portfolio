@@ -461,7 +461,7 @@ Here are all of the settings that we used while manufacturing our different part
 This is a video of the laser cutting process. As you can see the laser follows what our layout was on epilog and then cycles through it however many times we told it to. For this project, we only had it cycle one time.
 
 <div>
-<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 </div>
 
