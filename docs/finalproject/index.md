@@ -57,6 +57,7 @@ Laser cut kerf is the material the laser burns away while it cuts through whatev
 The machine being used is important to take into consideration since the quality of laser can vary greatly from machine to machine. The higher quality lasers will have a smaller kerf than the less quality lasers, and is important to take into considerations.
 
 The material is what really affects the kerf, since this changes the kerf on the same machine multiple times. Not only do the mechanical properties of that material come into play, but also the thickness of that material. The thicker that material is, the harder it will be for the laser to cut through it. This could cause more material to be burned away than normal, increasing the kerf. Here is a table of general kerf sizes from CutLaserCut
+
 <p align="center">
   <img src="kerf_tendicies.png" alt="kerf table" style="width:100%; height=auto"/>
 </p>
@@ -82,7 +83,15 @@ When I first was assigned this project, I asked all of my friends and family if 
 
 The first person that responded was my older brother. He is a computer science major, and he suggested designing a wireless flash drive that is faster than the current Bluetooth flash drives. I thought this was a unique issue, which is why I took it into consideration, but I have absolutely no idea how to do this. To get a better understanding of this topic, I decided to email my mechatronics professor to see if he had any insight.
 
+<p align="center">
+  <img src="flash_drive_bluetooth.GIF" alt="bluetooth flash drive" style="width:100%; height=auto"/>
+</p>
+
 I unfortunately didn't get any response to my email, so I decided to ask him after class. He said that is really hard to increase the speed of wireless flash drives. His reasoning is that the internet likes to send information one way, and this creates a lot of noise while using Bluetooth. The physical connection from your flash drive can filter out the noise created, creating a faster connection speed. The only way he suggested getting around this problem was to connect your device through WiFi, so that you could send large packets of data through WiFi. 
+
+<p align="center">
+  <img src="flash_drive_wifi.jpg" alt="wifi flash drive" style="width:100%; height=auto"/>
+</p>
 
 I started to think about how I can actually create this, and I don't really have a clear vision. Using the manufacturing methods we learned from class, I could make a PETG body and then an SLA cap to the flash drive, but the software to actually make this flash drive work sounds a little complicated for me to figure out. For this reason, I am not going to move forward with this design.
 
@@ -90,10 +99,37 @@ I started to think about how I can actually create this, and I don't really have
 
 The other person that responded to my message was my mom. She is currently working on remodeling a kitchen and is in the process of sanding and painting the cabinet doors. The issue she is currently having is using an attachment that will keep sandpaper in place while sanding the decorative trim on the kitchen cabinets. She recommended some type of velcro method or a clamp mechanism to keep the sandpaper in place.
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:33%; align="center"">
+      <div style="font-size:18px; text-align: center;">
+        <b>Trim on a kitchen cabinet</b>
+      </div>
+      <img src="cabinet_trim.jpg" alt="cabinet trim" style="width:100%; height:auto;">
+    </td>
+    <td style="width:33%; align="center"">
+      <div style="font-size:18px; text-align: center;">
+        <b>Current attachment she has</b>
+      </div>
+      <img src="current_attachment.jpg" alt="current attachement" style="width:100%; height:auto;">
+    </td>
+    <td style="width:33%; align="center"">
+      <div style="font-size:18px; text-align: center;">
+        <b>Cabinet and attachment comparison</b>
+      </div>
+      <img src="together.jpg" alt="together" style="width:100%; height:auto;">
+    </td>
+
 I think this idea is a lot more doable with the manufacturing processes that we have learned in this class, so I am more intrigued by this issue. If I want to proceed with this, I would need to get the model of the tool she is using so that I can look up the dimensions to actually fit in parts into a tool. The only thing that concerns me is that power tools will cause high stress on the material, making me worried that FDM will break when in use.
 
 #### Car Attachment
 
-The next issue that I was thinking about 
+The next issue also came from my mom, and she said that she currently doesn't have an compartments in her car to hold and organize smaller items such as pens and chap stick. There currently is this thin 3D printed container stuck just below the AC, but there are no walls inside the container to organize/separate everything in there. The container is also deeper than the height of a chap stick, making it hard to grab chap stick if it falls over on the bottom.
+
+<p align="center">
+  <img src="car_container.jpg" alt="car container" style="width:100%; height=auto"/>
+</p>
+
+There are a lot of possible solutions to this problem, and is very doable. I don't really have any concerns about using two manufacturing types because it seems like this would be a good use for FDM and laser cutting. The only thing that I didn't like about this issue is that I feel like there is already a solution to this problem if you just look up anything online. I am sure they're overpriced though, making it worth making.
 
 ## Part 2
