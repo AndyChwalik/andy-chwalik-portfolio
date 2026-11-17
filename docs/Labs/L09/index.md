@@ -458,7 +458,8 @@ Here are all of the settings that we used while manufacturing our different part
 
 This is a video of the laser cutting process. As you can see the laser follows what our layout was on epilog and then cycles through it however many times we told it to. For this project, we only had it cycle one time.
 
-<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/J-SVBTnp-wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 While the laser cutter was on, we opened the exhaust valve and turned on the air compressor underneath. We are not sure what the air compressor does, but the staff told us to do so. Once everything was printed out, there was a noticeable burn on the edge of each material. It also smelt like burnt wood. We had to let it sit in the laser cutter for a little bit before taking it out so we didn't stink up the whole fablab.
 
