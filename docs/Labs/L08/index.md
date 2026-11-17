@@ -224,9 +224,7 @@ I also wanted to get a video of the infill getting 3D printed, since I thought t
 
 
 <p align="center">
-
-<iframe width="315" height="560" src="https://www.youtube.com/shorts/uBdS72QqGIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="315" height="560" src="https://www.youtube.com/embed/uBdS72QqGIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 The last progress update I did before letting the print finish was at 63%. This was the time in the 3D print where each part is starting to really take shape, and you can picture how everything will fit together.
