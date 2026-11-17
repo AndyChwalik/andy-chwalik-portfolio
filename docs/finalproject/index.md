@@ -134,4 +134,12 @@ The next issue also came from my mom, and she said that she currently doesn't ha
 
 There are a lot of possible solutions to this problem, and is very doable. I don't really have any concerns about using two manufacturing types because it seems like this would be a good use for FDM and laser cutting. The only thing that I didn't like about this issue is that I feel like there is already a solution to this problem if you just look up anything online. I am sure they're overpriced though, making it worth making.
 
+### Problem Selection
+
+Although I thought these were great problems to design, I was stuck between the car attachment and the tool attachment. The benefits of doing the car attachment is the simplicity of it and because I already have a pretty clear idea of what I want to do in my head. It would also play towards my strengths since I think FDM and laser cutting were my best projects. The disadvantages of doing the car attachment is that I wouldn't feel like I really made anything that beneficial. After all, if she really want her compartment to be organized, she could just put some pieces of cardboard in there. That would do the same thing as a fully designed part.
+
+The benefits of doing the tool attachment is that I think my mom would actually use that attachment for a lot of different projects and that I would feel like I made something useful. The disadvantages of doing the tool attachment is that it will be much harder than any of these projects besides the wireless flash drive and I would have to use my worst manufacturing process so far: SLA. With the design I have in mind, I feel like SLA would be the main manufacturing process used, which could lead to a lot of issues for me.
+
+With all of that in mind, I have decided that I will be trying to create the tool attachment. Even though this will be the harder of the two, I think that this will help me understand how to use SLA and provide a useful part to my mom. The current idea I have in mind is to curve the already designed attachment my mom showed me and then put two slots in the middle of the part. This will be made from the resin. I will then use FDM to create a part to go into those lots, which should hole the sandpaper into place. That way she can send the trim at different angles and not worry about the sandpaper falling off. 
+
 ## Part 2
