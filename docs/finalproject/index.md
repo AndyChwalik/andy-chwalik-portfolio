@@ -119,6 +119,8 @@ The other person that responded to my message was my mom. She is currently worki
       </div>
       <img src="together.jpg" alt="together" style="width:100%; height:auto;">
     </td>
+  </tr>
+</table>
 
 I think this idea is a lot more doable with the manufacturing processes that we have learned in this class, so I am more intrigued by this issue. If I want to proceed with this, I would need to get the model of the tool she is using so that I can look up the dimensions to actually fit in parts into a tool. The only thing that concerns me is that power tools will cause high stress on the material, making me worried that FDM will break when in use.
 
