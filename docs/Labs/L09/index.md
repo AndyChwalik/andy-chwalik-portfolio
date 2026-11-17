@@ -463,6 +463,12 @@ This is a video of the laser cutting process. As you can see the laser follows w
 
 While the laser cutter was on, we opened the exhaust valve and turned on the air compressor underneath. We are not sure what the air compressor does, but the staff told us to do so. Once everything was printed out, there was a noticeable burn on the edge of each material. It also smelt like burnt wood. We had to let it sit in the laser cutter for a little bit before taking it out so we didn't stink up the whole fablab.
 
+Here is what our design looked like when put together.
+
+<p align="center">
+  <img src="final_design.png" alt="final design" style="width:50%; height=auto"/>
+</p>
+
 ## Lessons Learned
 
 ### Process Log
