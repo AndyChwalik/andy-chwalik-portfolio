@@ -185,7 +185,7 @@ Here is what the two components look like when put together in an assembly. When
   <img src="assembly.png" alt="assembly" style="width:50%; height=auto"/>
 </p>
 
-If you are interested in my CAD files here is my [tray](sim_car_tray.SLDPRT), [tray slot](sim_card_reader.SLDT), and my [assembly](Assembly.SLDASM) files.
+If you are interested in my CAD files here is my [tray](sim_card_tray.SLDPRT), [tray slot](sim_card_reader.SLDPRT), and my [assembly](Assembly.SLDASM) files.
 
 ## Preprocessing for 3D Printing
 
