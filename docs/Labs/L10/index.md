@@ -39,9 +39,9 @@ I got all of this information from [this](https://artsshala.com/blogs/resin-art/
 
 ## Planning
 
-When looking at actual applications, it looks like RC2 fits are used a lot of precise sliding fits are rotating fits. The examples given are bearings, sliding doors, and sliding parts in telescopic assemblies. I got this information from [this](https://www.alibre.com/blog/types-of-engineering-fits-clearance-interference-transition-explained/) website.
+When looking at actual applications, it looks like RC2 fits are used a lot for precise sliding fits and rotating fits. The examples given are bearings, sliding doors, and sliding parts in telescopic assemblies. I got this information from [this](https://www.alibre.com/blog/types-of-engineering-fits-clearance-interference-transition-explained/) website.
 
-When I hear tight fits that are able to slide freely, it makes me think of a gear shaft and electrical components. My first idea was the charging port of a phone, but when I asked AI if that would classify as a RC2 fit or not, it was questionable about it since it snaps into place rather than a freely moving part. If that is the case, I feel like a lot of electrical equipment gets thrown out the window due to everything needed to be connected for electrical signals. Due to this fact, I think that electrical equipment is still a good example for an RC2 fit despite the locking mechanism. 
+When I hear tight fits that are able to slide freely, it makes me think of a gear shaft and electrical components. My first idea was the charging port of a phone, but when I asked AI if that would classify as a RC2 fit or not, it was questionable about it since it snaps into place rather than a freely moving part. If that is the case, I feel like a lot of electrical equipment gets thrown out the window due to everything needed to be connected for electrical signals. I am going to look past electrical components that need to be snapped into place and more slid into place.
 
 The application for my fit will be for a sim card on your computer. It is small, has free range of motion, and has similar applications outside of electronics. An example could be how drawers slide freely. They're just connected on a rail with minimal friction. I think drawers would be a little bigger than an RC2 fit, but I think the same concept still stands. To create my sim card slider, I will be using the dimensions from a micro-SIM card.
 
@@ -51,8 +51,7 @@ The application for my fit will be for a sim card on your computer. It is small,
 
 Looking at the micro sim card, it should be 15mm in length, 12mm in width, and 0.76mm in thickness according to [this](https://measurebeam.com/objects/sim-card/) website. In inches it would be 0.591 inches in length, 0.472 inches in width, and 0.030 inches in thickness. 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## CAD Design
 
-## Communicate
+
 
