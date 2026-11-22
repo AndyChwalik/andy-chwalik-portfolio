@@ -185,4 +185,37 @@ Here is what the two components look like when put together in an assembly. When
   <img src="assembly.png" alt="assembly" style="width:50%; height=auto"/>
 </p>
 
+## Preprocessing for 3D Printing
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="print_layout.png" alt="print layout" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        When I imported my CAD files into PreForm, I hit the auto define button to choose my layout. This is how I was told to do it during orientation since this is correct most of the time. I did see that there were some red parts on the top of my tray slot, so I added two supports inside the slot to make sure it prints correctly.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="print_time.png" alt="print time" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Since I hit auto define, I kept everything on default settings. I did notice that I made my print a lot smaller than I thought originally. My print will only use 1.67mL of resin, which is well below the maximum usage. Most of the resin being used is to create the raft. It says the estimated time to print is 35 minutes, which is pretty long for a design so small. It is most likely due to the 241 layers caused by the diagonal tilt during orientation.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="print_machine.png" alt="print machine" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The machine I used to 3D print is called HiddenCod, and it was using Clear V5 resin. It says the layer thickness is 0.1mm, which is really small compared to FDM.
+      </div>
+    </td>
+  </tr>
+</table>
