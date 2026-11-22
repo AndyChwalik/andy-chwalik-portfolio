@@ -76,7 +76,7 @@ It is important to note that I will be using inches and feet when designing both
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        Next, I made sure to apply a fillet to the corners where the tray will be entering the sim card slot. I was thinking it would make things easier as a whole, but I am not sure. I have just made it a habit to round corners.
+        Next, I made sure to apply a fillet to the corners where the tray will be entering the sim card slot. I was thinking it would make things easier as a whole, but I am not sure. I have just made it a habit to round corners. I also extruded the whole sketch by 0.06in. I read that the thickness of a sim card is 0.67mm, so I didn't think I had to make this super thick.
       </div>
     </td>
   </tr>
@@ -102,7 +102,7 @@ It is important to note that I will be using inches and feet when designing both
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+      <img src="tray_platform_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -112,7 +112,7 @@ It is important to note that I will be using inches and feet when designing both
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+      <img src="tab_sketch.png" alt="tab sketch" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -122,7 +122,7 @@ It is important to note that I will be using inches and feet when designing both
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+      <img src="tab_extrude.png" alt="tab extrude" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -134,5 +134,55 @@ It is important to note that I will be using inches and feet when designing both
 
 ### Tray Slot
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="slot_sketch.png" alt="slot sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        To make the tray slot, I made a very similar sketch to start, but I increased the measurements to more round numbers. I did increase the width of the tray slot a little more than the length, and that was to account for the tolerance I set at the start.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="slot_extrude.png" alt="slot extrude" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then extruded this sketch to 0.097in. I chose 0.97in because I already knew I wanted to make my opening in the tray slot to be 0.0125in from the walls on the top and bottom already. This means 0.097 would give me the 12 thousandths of an inch I wanted.
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="hole.png" alt="hole" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Next, I made the sketch for the hole the sim card was going to slide into. I made the width 0.515in just to have a more round number and to make sure we have no problems with the width of my sim card tray.
+      </div>
+    </td>
+    </tr>
+    <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="hole_extrude.png" alt="hole extrude" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then extruded this sketch into the slot by 0.684in, which is 12 thousandths greater than the length of the sim card tray.
+      </div>
+    </td>
+    </tr>
+</table>
+
+### Assembly
+
+Here is what the two components look like when put together in an assembly. When I look at it the assembly, it looks like there is plenty of room for the tray to slide in and out of. The only thing I am worried about how small my dimensions are. I have some dimensions that are only tenths of an inch, but I wanted to test out how precise SLA printing actually is.
+
+<p align="center">
+  <img src="assembly.png" alt="assembly" style="width:50%; height=auto"/>
+</p>
 
 
