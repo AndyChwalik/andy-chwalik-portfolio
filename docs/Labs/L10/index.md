@@ -255,7 +255,7 @@ Here is what the two components look like when put together in an assembly. When
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="bath.jpg" alt="bath" style="width:100%; height:auto;">
+      <img src="bake.jpg" alt="bath" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
