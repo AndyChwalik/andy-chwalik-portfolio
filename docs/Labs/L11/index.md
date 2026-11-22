@@ -266,7 +266,7 @@ While CAD modeling, I had issues with the clearance from the previous assignment
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="rail_female.png" alt="rail section for female part" style="width:100%; height:auto;">
+      <img src="raile_female.png" alt="rail section for female part" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
