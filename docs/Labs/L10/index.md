@@ -53,5 +53,86 @@ Looking at the micro sim card, it should be 15mm in length, 12mm in width, and 0
 
 ## CAD Design
 
+For the CAD design, there will be different parts: The sim card tray and the sim card slot. When designing the tray, I will need to look at the dimensions of a sim card in the diagram above to make sure a sim card will actually fit. For the slot, I just need to make a box that will be able to hold the sim card tray.
+
+It is important to note that I will be using inches and feet when designing both parts. It makes it easier to visualize how big the part is actually going to be for me. I'm sure it is different for other people, but this is just my personal preference since I am more familiar with inches and feet.
+
+### Sim Card Tray
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        The first thing I did was make a box that has the same dimensions as the micro sim card. I rounded the conversions and then added a few extra inches so I had enough material to shell out the design to hold the sim card.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="tray_fillet.png" alt="tray fillet" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Next, I made sure to apply a fillet to the corners where the tray will be entering the sim card slot. I was thinking it would make things easier as a whole, but I am not sure. I have just made it a habit to round corners.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="tray_shell.png" alt="tray shell" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Next, I made a square outline for the exact size of the sim card. I made sure that it was slightly off centered towards the front of the tray, so that I could have a little area to pull out the tray when needed.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="degree.png" alt="tray degree" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then cut out that shape and created a new sketch at the bottom of this cutout. On this sketch, I created the 45 degree angle that all sim cards have. I then extruded this sketch to the same height as the rest of the tray.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        Now that I have the shape of the sim card, I created a new sketch that offset the sim card shape by 0.03in inward. I then extruded this sketch by 0.054in. This little extrusion will hold the sim card in place with minimal material used.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After the slot to hold the sim card was completed, I made a tab on the back of the tray, so I can push in or take out the sim card tray from the slot. I made this tab 0.6in long and made sure that it was centered in the middle of the tray.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="tray_sketch.png" alt="tray sketch" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then extruded this tab by 0.02in to complete the sim card tray.
+      </div>
+    </td>
+  </tr>
+</table>
+
+### Tray Slot
+
 
 
