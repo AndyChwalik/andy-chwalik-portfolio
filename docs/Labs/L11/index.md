@@ -311,6 +311,8 @@ Here are the two parts in an assembly file. Based on the clearances I chose, it 
   </tr>
 </table>
 
+If you are curious in the CAD files, here is the [male part](Male_Head.SLDPRT), the [female part](Female_Connection.SLDPRT), and the [assembly](Assem1.SLDASM)
+
 ## Preprocessing and 3D Printing
 
 There was nobody else in the lab while I was 3D printing so I decided to 3D print on my own plate. When I first imported my CAD files into PreForm, I was using about 40mL of resin, which is double the maximum usage. It looked like a majority of the resin was from supports, so I tried to orientate my build to maximize the resin usage while trying to keep the supports out of the connecting parts. I had supports in the connecting parts last time, and Dr. Fagan told me that cause rough services to interfere with the joining of my two parts.
