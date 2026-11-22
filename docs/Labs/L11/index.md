@@ -93,7 +93,7 @@ I decided to design a buckle for this project. This will use a cantilever beam s
 While CAD modeling, I had issues with the clearance from the previous assignment. To make sure I don't run into the same issues, i decided to use 15 thousandths of an inch as my clearance while designing. I thought this would be enough clearance based on how my part fit together on the previous assignment. Below is a photo that summed up all of the buckled I found online.
 
 <p align="center">
-  <img src="inspo.png" alt="inspiration" style="width:50%; height=auto"/>
+  <img src="inspo.jpg" alt="inspiration" style="width:50%; height=auto"/>
 </p>
 
 #### Male Connection
@@ -260,7 +260,7 @@ While CAD modeling, I had issues with the clearance from the previous assignment
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        To create the hole for the two parts to join, I created a sketch on the middle plane of my part. I then offset that centerline by 0.6in and then extruded that sketch by 0.415in.
+        I then extruded my sketch by the same dimensions as previously since this should be the housing for the male part. To create the hole for the two parts to join, I created a sketch on the middle plane of my part. I then offset that centerline by 0.6in and then extruded that sketch by 0.415in.
       </div>
     </td>
   </tr>
@@ -270,13 +270,13 @@ While CAD modeling, I had issues with the clearance from the previous assignment
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        To create the rail portion, I offset the centerline by 0.0975in on both sides. While designing, I thought this would be the clearance I wanted, but this is just incorrect math on my part. I then extruded the whole part by 0.085in and mirrored it to across the center plane. 
+        To create the rail portion, I offset the centerline by 0.0925in on both sides. I then extruded the whole part by 0.085in and mirrored it to across the center plane. 
       </div>
     </td>
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="strap_female.png" alt="strap section for female part" style="width:100%; height:auto;">
+      <img src="strap_female_correction.png" alt="strap section for female part" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
@@ -286,11 +286,11 @@ While CAD modeling, I had issues with the clearance from the previous assignment
   </tr>
   <tr>
     <td style="width:60%; text-align: center; vertical-align:middle;">
-      <img src="strap_female.png" alt="strap section for female part" style="width:100%; height:auto;">
+      <img src="female_final.png" alt="final female part" style="width:100%; height:auto;">
     </td>
     <td style="width:40%; padding:28px; vertical-align:middle;"">
       <div style="font-size:14px;">
-        The last thing I did for CAD was change the offset of the rail from 0.0975in to 0.0925in. This was the correction for the mistake I made earlier in the CAD process.
+        Here is what the final design looks like for the female connection.
       </div>
     </td>
   </tr>
