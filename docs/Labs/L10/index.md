@@ -27,6 +27,12 @@ To check the clearance range I got from the Machinery Handbook, I decided to loo
 
 To solidify what clearance I will be using for my part, I decided to ask my classmates that have already printed their part. I heard that someone printed their part at a clearance of 6 thou of an inch, which was to small for their fit. I heard a different person printed their part at 10 thou of an inch, and this value worked for that user; however, I heard that it was a really tight fit. Based on this knowledge, I think this gives me a range of 10 thou of an inch to 15 thou of an inch. Since 10 thou of an inch already worked for someone, I am thinking of going right in the middle of that range: 12 thou of an inch. 
 
+To understand what all of this means, lets look at what the RC2 fit actually controls when dealing with dimensions. I made this little sketch showing the clearances from a fit that uses a range of 1-1.0005in for the hole and 0.9995-0.9998in for the shaft. The RC2 fit will control the size/diameter of the hole and shaft. This range given to us are the likely dimensions that it could be. To get the maximum clearance, I take the smallest hole diameter and subtract the largest shaft diameter. To get the minimum clearance, I take the largest hole diameter and subtract the smallest shaft diameter. That is how dimensions are affected when dealing with RC2 fits.
+
+<p align="center">
+    <img src="hand_sketch.jpg" alt="View PDF" height="75%" width="auto">
+</p>
+
 When thinking about the entire process for SLA, it makes sense for the clearance to be greater after curing has occurred for the design. This is because everything will undergo shrinking and expansion. In result, the clearance will be larger than what the machinery handbook or the PROTOLABS design rules are showing. 
 
 ### Shrinkage and Expansion in Resin Prints
