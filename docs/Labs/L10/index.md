@@ -219,3 +219,82 @@ Here is what the two components look like when put together in an assembly. When
     </td>
   </tr>
 </table>
+
+## Post-Processing
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="machine_initial.jpg" alt="machine initial" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I can't see the machine actually making the layers like the PrusaOne's, but this is what the machine looks like when I loaded my print onto it. To build plate sits in the resin where a laser runs over the resin curing it on the build plate. The print time is pretty accurate to what is estimated. It takes like 20 seconds to start, but then it just follows the time. You can actually follow it on the Preform application.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="bath.jpg" alt="bath" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        After the print finished, I took the build plate out of the machine, and put it on a mesh basket. I then dropped this mesh basket into an alcohol bath to extra resin off my design. This process took about 5 minutes to complete.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="supports.jpg" alt="supports" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then took the building plate out of the bath and placed it onto a fit meant for the building plate. I scraped my design off the building plate, removed the supports from my design, cleaned off the extra resin on the building plate, and then put the building plate back in the machine I used it.
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:60%; text-align: center; vertical-align:middle;">
+      <img src="bath.jpg" alt="bath" style="width:100%; height:auto;">
+    </td>
+    <td style="width:40%; padding:28px; vertical-align:middle;"">
+      <div style="font-size:14px;">
+        I then placed my design into an oven, which will bake my components for about 30 minutes. I was a little confused on the settings because the timing is only for five minutes on the pdf provided by the Fab Lab, but I decided to trust the process.
+      </div>
+    </td>
+  </tr>
+</table>
+
+I forgot to take a picture after I baked it, but I took pictures while testing my design.
+
+## Fit Test
+
+I did not use digital calipers to measure the gap in my part because I was excited to test out the part that it didn't come to mind. I am aware that my measurements compared to the RC2 fit aren't very close since I used a totally different clearance than what the book and pdf suggest.
+
+When I tested my parts, I was having a lot of resistance. I can get about half of the card tray inside the slot where it then becomes stuck. I was able to pull it out, but I was confused on why it got stuck. I noticed that my design appears to get more and more narrow as the shoot goes down, which really confused me. I thought my eyes were playing tricks on me so I tried to slide the tray in again and snapped my tray in half. 
+
+The tray is now stuck inside of the slot forever, and I am not able to reprint it. There are a lot of people here printing, and I won't have time to print another one. I should've trusted my initial tuition with the curing and the narrower path. Here is what it looks like now.
+
+<p align="center">
+    <img src="sim_final.jpg" alt="sim card final" height="75%" width="auto">
+</p>
+
+I was curious on why my print got narrower as it went, so I asked Dr. Fagan about it. He said that if there is any type of light seeping through the machine, it could make the laser larger in certain areas on the building plate. This could cause the print to become bigger in those areas compared to others despite what the print settings are.
+
+## Lessons Learned
+
+While working on this project, I learned that a lot of physical development requires a lot of testing prior to making a final design. Everytime I have used one of these 3D printing machines, I feel like I get something that is slightly different from the norm. I really need to avoid those boundaries or change my dimensions to more than I originally think in order to get a correct fit sooner. 
+
+I also learned that RC2 fits don't really apply to SLA printing. That is way to thin of a margin for a resin printer to accurately print. I believe the RC2 fits that are shown in the machinery handbook are used when working with metals and heavier machinery. The machinery used for metal is currently a lot more accurate than thermoplastics, so the RC2 fits inside the machinery handbook are not reliable to use when dealing with thermoplastics.
+
+I did end up with a little bit of surface roughness. The back edge of my tray slot was deformed. I also noticed that the supports I put in the middle of the slot left a few bumps, making it harder for the tray to slide in correctly. I am sure that most of that was my fault due to the small dimensions.
+
+To improve my design, I would need to use a larger clearance. Probably upwards to 15 thousandths of an inch rather than 12 thousandths. This still may be a little tight for SLA printing, but it seemed to work for other students. I am not sure if they had to file down their parts though. I also need to add the clearance for where the sim card will be sitting. I made it the exact same size as the sim card, which will end up not actually being the same size as the sim card due to shrinking in the curing phase.
+
+### Resources
+- [https://artsshala.com/blogs/resin-art/resin-shrinkage-a-comprehensive-guide-for-makers-and-hobbyists](https://artsshala.com/blogs/resin-art/resin-shrinkage-a-comprehensive-guide-for-makers-and-hobbyists)
+- [https://www.alibre.com/blog/types-of-engineering-fits-clearance-interference-transition-explained/](https://www.alibre.com/blog/types-of-engineering-fits-clearance-interference-transition-explained/)
+- [https://measurebeam.com/objects/sim-card/](https://measurebeam.com/objects/sim-card/)
+
+This assignment took me about 7 hours to do
+
